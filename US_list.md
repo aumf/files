@@ -45,6 +45,7 @@ _[Legal Definition](https://web.archive.org/web/20200825130159/https://www.un.or
 
 Notes:
 - Right-click on a hyperlink to open. Clicking directly will cause the current tab to load the link.
+- [Install](https://github.com/internetarchive/wayback-machine-webextension) the official wayback machine browser addon, from archive.org, to aid in any 404 errors. I try to fix them myself, but still a good addon to have.
 - A clear documentary record advances a public reckoning that enables professional values and judgment to check disinformation and to counter the authoritarian, anarchist, and populist movement's contempt for facts.
 - Try to convey a sense of understanding of complex matters and history. 
 Putting aside misinformed, initial moral outrage in order to learn the facts, nuance and details.
@@ -547,6 +548,8 @@ Current strategies and interventions employed by DHAPP include: Index case HIV t
 ---
 
 ## Europe
+- Since FY2017, defense appropriations have prohibited funds from being used “to provide arms, training, or other assistance to the Azov Battalion”<sup>[1](https://sgp.fas.org/crs/row/R45008.pdf)</sup></sup>
+
 - It has been alleged that Abu Omar subject to a CIA rendition in Italy in 2003. There has been 0 evidence to confirm the allegation. However, even if it were true, the rendition is perfectly legal under international law. Indeed, the Italian judicial system [violated international law](https://harvardnsj.org/2010/11/all-human-rights-are-equal-but-some-are-more-equal-than-others-the-extraordinary-rendition-of-a-terror-suspect-in-italy-the-nato-sofa-and-human-rights/), in respect to human rights.
 
 - On May 7, 1999, during the NATO bombing of Yugoslavia, it was alleged that the US deliberately targeted the Chinese Embassy in Belgrade. This was not the case. 
