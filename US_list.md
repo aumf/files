@@ -71,6 +71,7 @@ This is misleading and in factual error.
 ---
 
 ## Middle East
+- On February 3rd, 2022, US troops conducted a raid that killed ISIS leader Abu Ibrahim al-Hashimi al-Qurayshi. Civilians were killed as a result of him detonating a bomb, killing his family. US Special forces had tried to call for his surrender and offered him a path to survive.<sup>[1](https://www.centcom.mil/MEDIA/NEWS-ARTICLES/News-Article-View/Article/2927256/mckenzie-says-isis-leader-who-died-during-us-raid-was-evil/)</sup></sup> 
 - On December 18, 2021, NYT released [hundreds](https://www.nytimes.com/interactive/2021/us/civilian-casualty-files.html) of CIVCAS reports obtained through FOIA. Despite media coverage, a close examination of the files reveals nothing new, broadly. But does offer superior information into specific strikes media/NGOs either covered (or didn't). The core conclusions are reached upon a thorough review of the files:
   - 1. Most CIVCAS allegations were self-reported, long before or even with no media coverage.
   - 2. Vast majority of CIVCAS allegations coming from media/NGOs were off be a large order of magnitude, in: Dates, locations, and assessed number of people killed/injured, and causes. Most had no CIVCAS, buttressing official statements. 
