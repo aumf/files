@@ -578,6 +578,8 @@ Current strategies and interventions employed by DHAPP include: Index case HIV t
  
 - On 9 October 1992, UN Security Council passed resolution 781, which prohibited unauthorized military flights in Bosnian airspace. This led to Operation Sky Monitor, where NATO monitored violations of the no-fly zone, but it did not take action against violators of the resolution. In response to over 500 documented violations, the United Nations Security Council passed Resolution 816, which authorized states to use measures "to ensure compliance" with the no-fly zone over Bosnia. NATO's [Operation Deny Flight](https://www.afhistory.af.mil/FAQs/Fact-Sheets/Article/459001/operation-deny-flight/), which lasted from April 12, 1993 to Dec 20, 1995, enforced this UNSCR compliance.
 
+- Between 1953-1956, Italy, the CIA aided centrists; socially/economically left-wing governments; labor unions; student groups and other socialist groups to provide political stability in preventing Soviet-backed right-wing authortarian groups to take hold—leading to a decade of democratic socialism. In total, only $3 million was provided to these various groups.<sup>[1](https://ia801601.us.archive.org/14/items/Combating-Communism-Italy-1953-1956/Combating-Communism-Italy-1953-56.pdf)</sup></sup>
+
 
 - It has been alleged that the CIA supported right-wing terror groups in Italy from the 50s to the 90s, under "Operation Gladio". This has been a long-debunked, [Soviet propaganda piece](https://www.scribd.com/document/114855262/Misinformation-About-Gladio-Stay-Behind-Networks-Resurfaces).
 
