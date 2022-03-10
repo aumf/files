@@ -587,6 +587,8 @@ Current strategies and interventions employed by DHAPP include: Index case HIV t
 
 - It was alleged that the CIA's predecessor, OSS—was involved in aiding Nazi war criminals to further US Scientific inquiry and Intelligence operations. This is a [distortion](https://web.archive.org/web/20201018014445/https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi/vol40no5/pdf/v40i5a12p.pdf) of truth. It has been confirmed by the CIA, DOJ and DoD that there was no operation to rescue criminals from prosecution. Indeed the opposite is true, these bodies worked hard to bring justice to many of these criminals. The CIA, [more than any](https://ia801301.us.archive.org/17/items/EagleAndSwastika/Eagle%20and%20Swastika.pdf), aided in bringing such justice in aiding the DOJ's Office of Special Investigations.
 
+- From 1945-1946, the US Army led a massive, successful, denazification effort in occupied Germany.<sup>[1](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Other/14-F-0091_history_of_post_war_Germany_Jul-25-2003.pdf)</sup></sup> <sup>[2](https://history.army.mil/html/books/030/30-6/cmhPub_30-6.pdf)</sup></sup>
+
 - During and after WW2, US and allied forces investigated allegations against their own forces. Rape, murder, detainee abuse, etc. Against civilians and German soldier. These efforts resulted in thousands of US and allied service members being charged and convicted, some of whom sentenced to life in prison for violating international law. See:
   [E.T.O. Board of Review](https://www.loc.gov/rr/frd/Military_Law/pdf/ETO-BOR_Vol-31.pdf)
   The General Board, E.T.O. War Crimes and Punishment of War Criminals [report](https://web.archive.org/web/20161223233956/http://usacac.army.mil/cac2/cgsc/carl/eto/eto-086.pdf)
