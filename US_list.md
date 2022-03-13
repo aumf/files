@@ -290,7 +290,7 @@ NCIS investigated this matter and found some evidence that two individuals talke
 
 - In May 2004, US conducted a raid near the Iraq-Syrian border, targeting several HVTs of the Zarqawi network. The NYT and AP alleged this was a wedding where many civilians were killed as a result of the raid. However, Signals, Human and Satellite intelligence as well as forensic and contradictory and inconsistent local testimony during interviews proved this allegation [false](https://www3.centcom.mil/FOIA_RR_Files/5%20USC%20552(a)(2)(D)Records/U.S.%20Raid%20Near%20the%20Syrian-Iraq%20Border%20on%2019%20May%2004/r_Responsive_Docs-Facts_Findings-new-Bracketed.pdf).
 
-- On December 10, 2002, a number of US Military personnel (20) were involved in [detainee abuse](https://archive.org/details/doddoacid-011770) that resulted in the death of two men, one of whom was Dilawar. CIA had no involvement in this matter. 
+- On December 10, 2002, a number of US Military personnel (20) were involved in [detainee abuse](https://archive.org/details/doddoacid-011770) that resulted in the death of two men, one of whom was Dilawar. CIA had no involvement in this matter. All men were convicted.
 
 - On September 23, 2009, an [independent](https://media.defense.gov/2017/Oct/31/2001836211/-1/-1/1/09-INTEL-13.PDF) investigation found that allegations that the DoD, between September 2001 to April 2008 was using "mind-altering drugs" on detainees to be unsubstantiated. Some detainees were medicated to treat diagnosed mental conditions.
 
