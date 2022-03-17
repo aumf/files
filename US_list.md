@@ -297,7 +297,9 @@ NCIS investigated this matter and found some evidence that two individuals talke
   - That he was given a vaccination that made him crazy.
   - That he was hit on hise nose, causing it to bleed.
   - That he was kept in a freezing cell.
-  - That he was threatened sexually.<sup>[2](https://s3.documentcloud.org/documents/21416908/exhibit-c-baluchi.pdf#page=61)</sup></sup>
+  - That he was threatened sexually.
+  
+   The review notes that all blacksites providing a high quality care: Providing Halal meals, personal video games, books, movies, and religious items, etc. Each cell contained an in-room personal shower, gym, Koran and was climate-controlled (heater/aircon). The facilities were sterile, clean—efficient, modern–invoking a surreal feeling. During routine, monthly doctor checkups, Baluchi had two teeth fillings. In 2004, due to his fasting, fainted in his cell, causing a head injury—about half an inch long to the back side of the head.<sup>[2](https://s3.documentcloud.org/documents/21416908/exhibit-c-baluchi.pdf)</sup></sup>
 
 - On December 10, 2002, a number of US Military personnel (20) were involved in [detainee abuse](https://archive.org/details/doddoacid-011770) that resulted in the death of two men, one of whom was Dilawar. CIA had no involvement in this matter. All men were convicted.
 
