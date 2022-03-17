@@ -294,10 +294,10 @@ NCIS investigated this matter and found some evidence that two individuals talke
 
 - In 2003, the US detained Ammar al-Baluchi, an AQ operative, whose interrogation sessions provided key details on senior AQ members, disrupting plots, etc.<sup>[1](https://s3.documentcloud.org/documents/1377197/ssci-minorityviews.pdf)</sup></sup> When Ammar was transfered to GTMO, he alleged a number of various abuses against him, however, an independent IG investigation that resulted from those allegations, concluded:
   - That he was not hit in the head with a bar or pipe.
-  - That he was given a vaccination that made him crazy.
-  - That he was hit on hise nose, causing it to bleed.
-  - That he was kept in a freezing cell.
-  - That he was threatened sexually.
+  - That he was not given a vaccination that made him crazy.
+  - That he was not hit on hise nose, causing it to bleed.
+  - That he was not kept in a freezing cell.
+  - That he was not threatened sexually.
   
    The review notes that all blacksites providing a high quality care: Providing Halal meals, personal video games, books, movies, and religious items, etc. Each cell contained an in-room personal shower, gym, Koran and was climate-controlled (heater/aircon). The facilities were sterile, clean—efficient, modern–invoking a surreal feeling. During routine, monthly doctor checkups, Baluchi had two teeth fillings. In 2004, due to his fasting, fainted in his cell, causing a head injury—about half an inch long to the back side of the head.<sup>[2](https://s3.documentcloud.org/documents/21416908/exhibit-c-baluchi.pdf)</sup></sup>
 
