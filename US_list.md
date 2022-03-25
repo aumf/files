@@ -408,8 +408,7 @@ For Mossadeq, control over the Anglo-Iranian Oil Company (AIOC), became a main c
 
   While Mossadeq was dealing with the British, he was also engaged in internal affairs, a struggle for more power. He became greedy. A steady decline to dictatorship.
 In 1952, Mossadeq "resigned" after dispute with the Shah on who could appoint the Minister of War. Constitutionally, legally, this rested with the Shah. The Prime Minister wanted to appoint himself as the Minister of War. Mossadeq's political move was to appeal to the public, accusing the Shah of violating the Constitution. The irony, it was he who was doing so. 
-
-  The Shah appointed Ahmad Qavam as the Next Prime Minister. The National Front led demonstrations to demand Mossadeq return—leading to violent clashes. 69 deaths, over 700 injured. The Shah refused to use Police or the Military to restore order. 5 days later, the Shah gave in—appointing Mossadeq as PM.
+The Shah appointed Ahmad Qavam as the Next Prime Minister. The National Front led demonstrations to demand Mossadeq return, leading to violent clashes. 69 deaths, over 700 injured. The Shah refused to use Police or the Military to restore order. 5 days later, the Shah gave in, appointing Mossadeq as PM.
 
   Once he returned to office, he quickly consolidated power. 
  He appointed himself Minister of War, forced the Shah's twin sister Princess Ashraf to leave the country, and forbade
@@ -417,8 +416,7 @@ In 1952, Mossadeq "resigned" after dispute with the Shah on who could appoint th
 The solution to the deadlock became apparent to Mossadeq: Dissolve the Majlis. The problem: Only the Shah had the Constitutional authority. 
 
   Mossadeq devised a plan to go around this legal dead-end: Asking what supporters he had to resign, appeal to the public to force the rest to resign. Then, hold a referendum for the public to support or reject his course of action, arguing that the people's will superseded the Constitution. Iranian scholar Ervand Abrahamian has noted the irony in Mossadeq's rationale. "Mossadeq, the constitutional lawyer who had meticulously quoted the fundamental laws against the shah," Abrahamian wrote, "was now bypassing the same laws and resorting to the theory of the general will. 
-
-  The problem: Mossadeq rigged the vote, because he knew he could not win on this unconstitutional act. He purposefully excluded rural areas from the balloting. The ballot was not secret. Ayatollah Kashani also declared the referendum illegal under Islamic religious law.
+The problem: Mossadeq rigged the vote, because he knew he could not win on this unconstitutional act. He purposefully excluded rural areas from the balloting. The ballot was not secret. Ayatollah Kashani also declared the referendum illegal under Islamic religious law.
 
   Returning back to the international stage:
 
