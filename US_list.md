@@ -31,7 +31,7 @@ _[Legal Definition](https://web.archive.org/web/20200825130159/https://www.un.or
 
 <!-- toc -->
 
-- [Alleged Imperialism](https://github.com/Arkhlve/debunked/blob/main/US_list.md#middle-east)
+- [Alleged Imperialism](https://github.com/Arkhlve/debunked/blob/main/US_list.md#alleged-imperialism)
 - [Middle East](https://github.com/Arkhlve/debunked/blob/main/US_list.md#middle-east)
 - [Western Hemisphere](https://github.com/Arkhlve/debunked/blob/main/US_list.md#western-hemisphere)
 - [Africa](https://github.com/Arkhlve/debunked/blob/main/US_list.md#africa)
