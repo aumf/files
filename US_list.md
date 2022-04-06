@@ -450,6 +450,8 @@ until it appears certain that the government will be taken over by the Communist
 ---
 
 ## Western Hemisphere
+- Sanctions against the Venezuelan regime over several years, the US (and other countries), have made exceptions for humanitarian goods such as food, medicine, etc.<sup>[1](https://sgp.fas.org/crs/row/IF10715.pdf)</sup></sup> 
+
 - In 2004, at the [request](https://2001-2009.state.gov/r/pa/prs/ps/2004/29990.htm) of President Jean-Bertrand Aristide of Haiti, the United States facilitated his safe departure, after resigning.
 
 - In Peru, between 1995 and 2001, the CIA worked with the Peruvian Government in a counternarcotics operation. In 2001, the Peruvian Air Force accidentally shot down a US plane carrying missionaries. Shortly after the incident, Director Hayden tasked the CIA's Inspector General reviewed the matter: Finding a lapse in procedures and charged that some CIA officers involved attempted to cover it up. This was disputed by a another seperate, independent [Agency Accountability Board](https://abcnews.go.com/Blotter/cia-statement-2001-peru-shootdown/story?id=9738624) review, that examined both the IG's report as well as conducting its own investigation. 16 officers were administratively punished after the Board's report was sent to Director Panetta. DOJ concurred with this finding, declining to criminally charge anyone involved. The fault lied mostly with the Peruvian Air Force in failing to adhere to the procedures as they had done so in the past.
