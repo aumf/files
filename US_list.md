@@ -360,7 +360,7 @@ The Committee found the following key conclusions:
   -  The September dossier was not ’sexed up’ by Alastair Campbell or anyone else (paragraph 108). 
   -  The  JIC  was  not  subjected  to  political  pressures.  Its  independence  and impartiality were not compromised in any way (paragraph 108)
  
-  A Senate Intelligence Committee study, titled, _[Whether public statements regarding Iraq by US Govt Officials were substantiated by Intelligence information](https://www.intelligence.senate.gov/sites/default/files/publications/110345.pdf)_ found that all public statements by US officials were indeed supported by the intelligence at the time, see page 117 of PDF/133 of scan.
+  A Senate Intelligence Committee study, titled, _[Whether public statements regarding Iraq by US Govt Officials were substantiated by Intelligence information](https://www.intelligence.senate.gov/sites/default/files/publications/110345.pdf#page=117))_ found that all public statements by US officials were indeed supported by the intelligence at the time.
 
   Another [study](https://web.mit.edu/simsong/www/iraqreport2-textunder.pdf) by the same committee found that no intelligence was fabricated, or skewed or that analysts were pressured to making an assessment.
    >"The Committee was not presented with  any evidence that intelligence  analysts changed their judgments  as a result of political pressure, altered  or produced  intelligence products to conform  with Administration  policy, or that  anyone even attempted to coerce, influence  or pressure  analysts to do so.  When asked whether  analysts were pressured  in any way to alter their assessments  or make their judgments  conform  with Administration policies, not a single analyst answered yes."
