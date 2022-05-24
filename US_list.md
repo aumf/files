@@ -923,7 +923,7 @@ Lets look at 4 such records, that cover, in total, almost decades—from 9/11 to
 
   None of the above involved "warrantless wiretapping either. It was always the case that to do surveillance on a US person, located in the US or outside the US, or an alian within the US: A warrant is required. PRISM/Upstram collection under FAA Sec. 702 cannot target USPs and are annually approved by FISC. The bulk collection of CDRs also wasn't a wiretap, and required Court order every 90 days. The above records provide details on this, but the following do as well:
  
-   - [ST-14-0002](https://www.nsa.gov/Portals/70/documents/news-features/declassified-documents/3IGReports-Sealed.pdf) Contains 3 OIG reviews but 14-0002  Covers 702 and 215 authorities. p. 224 for 702's PRISM/Upstream. p. 155 for bulk CDR.
+  - [ST-14-0002](https://www.nsa.gov/Portals/70/documents/news-features/declassified-documents/3IGReports-Sealed.pdf) Contains 3 OIG reviews but 14-0002  Covers 702 and 215 authorities. p. 224 for 702's PRISM/Upstream. p. 155 for bulk CDR.
 
   - [ODNI Infographic](https://www.dni.gov/files/icotr/Section702-Basics-Infographic.pdf) Provides a very basic rundown of how 702 works, oversight, value.
 
@@ -932,6 +932,7 @@ Lets look at 4 such records, that cover, in total, almost decades—from 9/11 to
   - [Fleisch Decl.](https://fas.org/sgp/jud/statesec/jewel-fleisch.pdf) and [Bonanni Decl.](https://fas.org/sgp/jud/statesec/jewel-bonanni-redacted.pdf)
  These two are another good overview, though more basic to an extent, of the evolution from TSP to 702 and 215 authorities, etc.
 also specifically debunks the notion of "key words"
+
 
 - 1993. Over the years, it has been alleged by conspiracy theorists that the CIA has misled Congress on various matters. One such cited example is the case of Richard Barlow, a Foreign Affairs Specialist while at DoD. A Congressionally-mandated Joint Inspectors General investigation between CIA, DoD and State, found that 1. He had made no such disclosure to Congress, but said Congress was misled to a coworker. 2 He was not terminated from his position for allegedly making a disclosure to Congress, suffering reprisal—that the decision for employment termination was made well before the alleged disclosure took place. 3. That the allegation was in error in the first place. "The OIG report concluded that no one at CIA or the NIC ever deliberately provided false or misleading information to Congress regarding Pakistan's nuclear program." It also found, "on those few occasions when an Agency or NIC officer may have made an honest misstatement during Congressional testimony, the Agency quickly corrected the record without prompting from any other quarter."
 While the GAO review, while not saying the Joint report was wrong, suggests its logic wasn't fully supported by the evidence. However, the GAO failed to address the criticism by management that points out, as previously stated, that the termination decision had already been made prior to the communication.<sup>[1](https://sgp.fas.org/jud/statesec/barlow-tenet.pdf#page=13)</sup></sup> <sup>[2](https://web.archive.org/web/20081211034006/http://archive.gao.gov/paprpdf1/158991.pdf)</sup></sup>
