@@ -87,7 +87,7 @@ This is misleading and in factual error.
   - According to the NYT, an independent IG investigation determined several such strikes were lawful, despite presense of civilians being known. 
   - COVID-19 delayed the IG's investigations, this was publicly acknowledged by the DoD. This was no attempt to "cover-up".
   - CENTCOM has verified that a Coalition drone operator reported to US forces they observed civilians killed in the strike. This prompted an immediate CIVCAS credibility assessment, which determined the allegation credible. This prompted an independent AR 15-6 investigation to look further into the cause.
-  - Currently, an IG investigation is wrapping up (November 2021), which has examined the internal reporting of this case. I will update once its findings are public.
+  
   The full statement from CENTCOM, which was provided to the NYT authors prior to publication, undercuts their story, Captain Bill Urban, US CENTCOM spokesperson, provided the following statement to DailyMail on November 14, 2021: 
 
   'In mid to late March of 2019, U.S., coalition and Syrian Democratic Forces had isolated the final remnants of the ISIS proclaimed territorial caliphate in Baghouz, Syria. The ISIS pocket included thousands of fighters and family members including women and children. The remaining fighters including some women and child combatants along with many ISIS family members, including some who were likely held against their will, decided to make a determined stand in an area that included buildings, tunnels and cliffs. Multiple entreaties to ISIS to allow family members to depart the area were rebuffed, and thousands of family members remained in the area of the fighting.
