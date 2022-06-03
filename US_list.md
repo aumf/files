@@ -888,7 +888,8 @@ When asked by Major Waller asked about the age of those to whom he should apply 
 - In 2014, media headlines claimed a paper proved that the US was an oligarchy. Several papers have critiqued this paper based on deeply flawed methodology. The consensus in literature disregard the claim.<sup>[1](https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/relative-policy-support-and-coincidental-representation/BBBD524FFD16C482DCC1E86AD8A58C5B)</sup></sup> <sup>[2](https://onlinelibrary.wiley.com/doi/full/10.1002/polq.12577)</sup></sup> <sup>[3](https://journals.sagepub.com/doi/full/10.1177/2053168015608896)</sup></sup>
 
 - Conspiracy theorists claim that under the 2012 NDAA, US citizens can be indefinitely detained by the Military, for no reason. However, reading the 2012 NDAA, we find this isn't so. All it did was codify the 2001 AUMF. It should be noted that NDAAs change, but come around every year. Further, not a single example exists to show this has been misused.
-Sec. 1021
+
+  Sec. 1021
 (b) C OVERED PERSONS.—A covered person under this section
 is any person as follows:
 (1) A person who planned, authorized, committed, or aided
@@ -900,8 +901,8 @@ in hostilities against the United States or its coalition partners,
 including any person who has committed a belligerent act or
 has directly supported such hostilities in aid of such enemy
 forces.
-Sec. 1022
-2) C OVERED PERSONS.—The requirement in paragraph (1)
+  Sec. 1022
+  2) C OVERED PERSONS.—The requirement in paragraph (1)
 shall apply to any person whose detention is authorized under
 section 1021 who is determined—
 (A) to be a member of, or part of, al-Qaeda or an
