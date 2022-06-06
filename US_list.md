@@ -611,7 +611,7 @@ The facts are in fundamental controversy. I find the Court's statement of the fa
    - Sink ship near harbor entrance. Conduct funerals for mock-victims.
     It goes on to say, "we could blow up a drone (unmanned) vessel anywhere in the Cuban waters."
      
-    The media has incorrect claimed that the plans were intended to cause harm to civilians.
+    The media has incorrectly claimed that the plans were intended to cause harm to civilians.
     
     
  - 1960-1962, CIA's activities against Castro. A number of allegations stem from a poor reading of selective documents, out of thousands: that assassination and sabotage was a main and integral part of anti-Castro activities, including the use of the mafia. An authoritative history on the subject finds this is not so:
