@@ -677,6 +677,14 @@ It should be noted that Belgium, while not directly involved in Lumumba's death,
 
 - It has been alleged that Abu Omar subject to a CIA rendition in Italy in 2003. There has been 0 evidence to confirm the allegation. However, even if it were true, the rendition is perfectly legal under international law. Indeed, the Italian judicial system [violated international law](https://harvardnsj.org/2010/11/all-human-rights-are-equal-but-some-are-more-equal-than-others-the-extraordinary-rendition-of-a-terror-suspect-in-italy-the-nato-sofa-and-human-rights/), in respect to human rights.
 
+- A 2000 report, by the [UNEP and IAEA experts](https://www.iaea.org/sites/default/files/finalreport.pdf), examined Depleted Uranium (DU) munitions use in the Balkans found:
+  > 1. There was no detectable, widespread contamination of the ground surface by depleted uranium. This means that any widespread contamination is present in such low levels that it cannot be detected or differentiated from the natural uranium concentration found in rocks and soil. The corresponding radiological and toxicological risks are insignificant and even non-existent.
+  > 2. Detectable ground surface contamination by DU is limited to areas within a few metres of penetrators and localised points of concentrated contamination (‘contamination points’) caused by penetrator impacts. A number of contamination points were identified by the mission but most of these were found to be only slightly contaminated. The majority of the radioactivity was attached to the surrounding asphalt, concrete or soil, with some attached to the loose sand present in some penetrator holes. In many cases, the radioactivity was so low that it was hardly detectable."
+  > 3. There is no significant risk related to these contamination points in terms of possible
+contamination of air, water or plants. The only risk of any significance would be that
+someone touched the contamination point, thereby contaminating their hands (with a risk of subsequent transfer to the mouth), or directly ingested the contaminated soil. However, with reasonable assumptions on intake of soil, the corresponding radiological risk would be insignificant, while from a toxicological point of view, the possible intake might be somewhat higher than the applicable health standards."
+  > 4. No DU-contaminated water, milk, objects, or buildings were found.
+
 - On May 7, 1999, during the NATO bombing of Yugoslavia, it was alleged that the US deliberately targeted the Chinese Embassy in Belgrade. This was not the case. 
    In summary, there were several crucial errors which led to the Chinese Embassy being struck:
    
