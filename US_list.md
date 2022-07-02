@@ -775,7 +775,7 @@ someone touched the contamination point, thereby contaminating their hands (with
   
   >The Congressional Research Service has denied any knowledge of the information attributed to it." 
   
-  Few historical revionists also charge that the Communist Vietnam invaded Cambodia to remove Pol Pol from power, that they say was backed by the US. Again, this charge was refuted, as shown above. However, scholars have also refuted the claim the invasion was due to humanitarian reasons, instead, finding it was to due to stark disagreement between the two communist states—further, the occupation of Vietnam in Cambodia led to further atrocities and human rights abuses.<sup>[1](https://link.springer.com/chapter/10.1057/9781137364098_5)</sup></sup>
+  Few historical revisionists also charge that the Communist Vietnam invaded Cambodia to remove Pol Pol from power, that they say was backed by the US. Again, this charge was refuted, as shown above. However, scholars have also refuted the claim the invasion was due to humanitarian reasons, instead, finding it was to due to stark disagreement between the two communist states—further, the occupation of Vietnam in Cambodia led to further atrocities and human rights abuses.<sup>[1](https://link.springer.com/chapter/10.1057/9781137364098_5)</sup></sup>
 
 
 - Between 1955 and 1975, it is claimed that the US bombing campaign led to a poverty trap in Vietnam. However, the academic literature disputes this unfounded claim.
