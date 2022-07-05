@@ -777,6 +777,8 @@ someone touched the contamination point, thereby contaminating their hands (with
   >The Congressional Research Service has denied any knowledge of the information attributed to it." 
   
   Few historical revisionists also charge that the Communist Vietnam invaded Cambodia to remove Pol Pol from power, that they say was backed by the US. Again, this charge was refuted, as shown above. However, scholars have also refuted the claim the invasion was due to humanitarian reasons, instead, finding it was to due to stark disagreement between the two communist states—further, the occupation of Vietnam in Cambodia led to further atrocities and human rights abuses.<sup>[1](https://link.springer.com/chapter/10.1057/9781137364098_5)</sup></sup>
+  
+  It has also been alleged that the US  "supported" the Khmer Rouge's seat at the UN, however, it's more nuanced than that. US Government's position was that a country should not be deprived of representation at the United Nations simply because other Governments dislike that country's politics or find it morally objectionable. However, it welcomed the opportunity if a Supreme National Council was formed in time to present credentials for the next session of the UN General Assembly. The US only supported noncommunist resistance forces via humanitarian aid under US law. The US tried to pressure Khmer Rouge out of the coalition government..<sup>[2](https://www.gao.gov/assets/t-nsiad-90-63.pdf)</sup></sup>
 
 
 - Between 1955 and 1975, it is claimed that the US bombing campaign led to a poverty trap in Vietnam. However, the academic literature disputes this unfounded claim.
