@@ -173,6 +173,8 @@ For an expert breakdown of the legality of WP, this [scholarly paper](https://ww
   - Finding A.4 The Positive Identification process has sufficient guidance and structure and therefore does not increase the risk for civilian casualties. 
     
     The review also found that US strikes rarely peaked above 5 CIVCAS over the 3 year period.
+    
+- On September 6, 2017, the UNHRC's COI pointed out IHL violations by ISIS and the Assad regime in Syria, however, the report claimed that the US violated IHL in a March 16 Airstrike that resulted in a single civilian casualty. Here, the report misapplies International law, and thus reaches an erroneous conclusion.<sup>[1](https://www.lawfareblog.com/unhrc-commission-inquiry-syria-misapplies-law-armed-conflict)</sup></sup>
 
 - On April 6, 2017, following the illegal [Khan Sheykkun chemical attack](https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/s_2017_904.pdf) [by the Syrian regime](https://www.diplomatie.gouv.fr/IMG/pdf/170425_-_evaluation_nationale_-_anglais_-_final_cle0dbf47-1.pdf), the United States carried out [lawful strikes](https://jnslp.com/wp-content/uploads/2018/01/Assessing_US_Justifications_for_Using-Force_2.pdf) against Al Shayrat airfield, used by the regime to conduct its illegal chemical & conventional weapons attacks against civilians. 
 
