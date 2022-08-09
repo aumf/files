@@ -643,10 +643,12 @@ The facts are in fundamental controversy. I find the Court's statement of the fa
 
   When the presidential election was finally held in July 1966, Barrientos won easily, and officials concerned with the covert operation concluded that the objectives of the program—the _end of military rule_ and a _civilian, constitutional government_ whose _policies would be compatible with those of the United States—had been accomplished._ <sup>[1](https://history.state.gov/historicaldocuments/frus1964-68v31/d147)</sup></sup>
   
+- In 1964 the US covertly supported an independent British Guiana, by funding various left/moderate minority-group political parties for upcoming democratic elections, to reach the goal of a moderate Government that would pursue a multi-racial policy, and engage in realistic social and economic development programs. Initially the US worked with Cheddi Jagan, but he became more racist and aligned with the Soviet Union, since the PPP militia requested and started to receive KGB covert aid.<sup>[1](https://web.archive.org/web/20141018135832/http://www.foia.cia.gov/sites/default/files/document_conversions/89801/DOC_0000112273.pdf)</sup></sup> <sup>[2](https://archive.org/details/Guianaoverview)</sup></sup>
+  
   
 - The 1965 Operation Power Pack was successful in protecting American civilians, restoring order, averting a communist takeover, and paving the way for legal non-violent political succession in the Dominican Republic.<sup>[1](https://history.army.mil/html/reference/army_flag/dominican.html)</sup></sup> <sup>[2](https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf)</sup></sup>
   
- - In 1962, the Chairman of the Joint Chiefs of Staff for the DoD approved a draft plan, known as Operation [Northwoods](https://ia600908.us.archive.org/7/items/pdfy-vlGx2NTBHA-M19I3/Operation%20NORTHWOODS%20Document%20-%20Official%20Origin%20of%20Modern%20US%20False-Flag%20Attacks.pdf), which authorised:
+- In 1962, the Chairman of the Joint Chiefs of Staff for the DoD approved a draft plan, known as Operation [Northwoods](https://ia600908.us.archive.org/7/items/pdfy-vlGx2NTBHA-M19I3/Operation%20NORTHWOODS%20Document%20-%20Official%20Origin%20of%20Modern%20US%20False-Flag%20Attacks.pdf), which authorised:
    - Start rumours 
    - Land friendly Cubans in uniform "over the fence" to stage attack on base
    - Capture (friendly) saboteurs inside base
