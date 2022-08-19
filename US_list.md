@@ -17,6 +17,11 @@ _[Legal Definition](https://web.archive.org/web/20200825130159/https://www.un.or
 
 [Per the ICC](https://www.icc-cpi.int/resource-library/Documents/UICCEng.pdf), "The International Criminal Court is _not a substitute_ for national courts. According to the Rome Statute, it is the duty of every State to exercise its criminal jurisdiction over those responsible for international crimes. The International Criminal Court _can only intervene where a State is unable or unwilling genuinely to carry out the investigation and prosecute the perpetrators"_
 
+ The US opposed the ICC because it suffers from a number structural flaws, not because it wanted to "escape accountability." At the same time, the US proposed alternatives that already exist: 
+
+"Domestic Accountability: Encourage states to create credible justice institutions in their own state rather than abdicating responsibility to an international body. Where domestic legal institutions are lacking, but domestic will is present, the international community must be prepared to assist in creating the capacity for the sovereign state to address the violations. This includes political, financial, legal, and logistical support.
+Where domestic will is non-existent, the international community can intervene through the UN Security Council, consistent with the UN Charter. Ad hoc international mechanisms may be created under the auspices of the UN Security Council, as was done to establish the international tribunals for the former Yugoslavia and Rwanda. Additionally, hybrid courts consisting of international participants and the affected state’s participants can be authorized, such as in the case of Sierra Leone."<sup>[1](https://web.archive.org/web/20031129170524/http://www.usembassy.at/en/download/pdf/icc_pa.pdf)</sup></sup>
+
 > "Around the world, the United States has promoted freedom: We have worked to expand the protection of human rights, end gender-based violence, and defend the freedoms of expression, peaceful assembly, and the press. In promoting these liberties and pushing back against tyranny, corruption, and oppression, we have recognized that universal human rights and fundamental freedoms do not stop at our borders. They are the birthright of people everywhere." 
  
    – President Barack  Obama, Presidential Proclamation - Human Rights Day and Human Rights Week, 2016
