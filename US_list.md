@@ -327,9 +327,7 @@ The Committee found the following key conclusions:
   
   It's worthy to note the ISG uncovered information that the Iraqi Intelligence Service (IIS) maintained throughout 1991 to 2003 a set of undeclared covert laboratories to research and test various chemicals and poisons, primarily for intelligence operations. The existence, function, and purpose of the laboratories were never declared to the UN. The IIS program included the use of human subjects for testing purposes. Mobile trucks were found in 2003, though looted, contained trace amounts of chemical weapon agents. Chemical weapons continued to be located and destroyed from 2004 to 2011.<sup>[1](https://www.documentcloud.org/documents/1307507-nytfoiarequest.html)</sup></sup> <sup>[2](https://irp.fas.org/cia/product/iraqi_mobile_plants/paper_w.pdf)</sup></sup> <sup>[3](https://s3.documentcloud.org/documents/1307370/duelfer-report-volume-iii.pdf)</sup></sup> CIA's own retrospective series also concludes that Iraq's own actions, even when seemingly trying to become transparent, made them look suspicious. And of course, their often less than forthcoming on other areas raised concerns with many foreign intelligence services, not just the US and UN.<sup>[4](https://www.hsdl.org/?view&did=721802)</sup></sup>
   
-  No, the US gained no oil from iraq.<sup>[1](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=MTTIMIZ1&f=A)</sup></sup>
-  
-  Yes, the Saddam regime has extensive connections to AQ and other Islamic terror orgs.<sup>[1](https://irp.fas.org/eprint/iraqi/)</sup></sup>
+  No, the US gained no oil from iraq.<sup>[1](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=MTTIMIZ1&f=A)</sup></sup> Yes, the Saddam regime has extensive connections to AQ and other Islamic terror orgs.<sup>[1](https://irp.fas.org/eprint/iraqi/)</sup></sup>
  
 ## Interrogations/detentions 2002-2008
 Due to considerable public confusion (thanks in large part to media/NGO pundits) on GWOT's detention activities, it's prudent to concisely clarify that there are 3 areas distinct from one another: 
