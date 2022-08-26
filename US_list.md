@@ -662,18 +662,9 @@ The facts are in fundamental controversy. I find the Court's statement of the fa
   
 - The 1965 Operation Power Pack was successful in protecting American civilians, restoring order, averting a communist takeover, and paving the way for legal non-violent political succession in the Dominican Republic.<sup>[1](https://history.army.mil/html/reference/army_flag/dominican.html)</sup></sup> <sup>[2](https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf)</sup></sup>
   
-- In 1962, the Chairman of the Joint Chiefs of Staff for the DoD approved a draft plan, known as Operation [Northwoods](https://ia600908.us.archive.org/7/items/pdfy-vlGx2NTBHA-M19I3/Operation%20NORTHWOODS%20Document%20-%20Official%20Origin%20of%20Modern%20US%20False-Flag%20Attacks.pdf), which authorised:
-   - Start rumours 
-   - Land friendly Cubans in uniform "over the fence" to stage attack on base
-   - Capture (friendly) saboteurs inside base
-   - Start riots near base (friendly Cubans)
-   - Blow up ammunition inside the base; start fired.
-   - Sink ship near harbor entrance. Conduct funerals for mock-victims.
-    It goes on to say, "we could blow up a drone (unmanned) vessel anywhere in the Cuban waters."
-     
-    The media has incorrectly claimed that the plans were intended to cause harm to civilians.
-    
-    
+  
+- In 1962, the Chairman of the Joint Chiefs of Staff for the DoD approved a draft plan, in response to Soviet missile crisis in Cuba, known as Operation Northwoods, which authorised (but never conducted): Start rumours; Land friendly Cubans in uniform "over the fence" to stage attack on base; capture (friendly) saboteurs inside base; start riots near base (friendly Cubans); blow up ammunition inside the base; start fires; sink ship near harbor entrance.; Conduct funerals for mock-victims; fake a shootdown of a remotely piloted aircraft. The media has incorrectly claimed that the plans were intended to cause harm to civilians.<sup>[1](https://ia600908.us.archive.org/7/items/pdfy-vlGx2NTBHA-M19I3/Operation%20NORTHWOODS%20Document%20-%20Official%20Origin%20of%20Modern%20US%20False-Flag%20Attacks.pdf)</sup></sup>
+  
  - 1960-1962, CIA's activities against Castro. A number of allegations stem from a poor reading of selective documents, out of thousands: that assassination and sabotage was a main and integral part of anti-Castro activities, including the use of the mafia. An authoritative history on the subject finds this is not so:
    > "By way of summarizing, it would appear that CIA's official anti-Castro program as reflected in Project JMATE did not include assassination as an integral part of its operational planning... In terms of Project JMATE itself, the few bits
 of information which indicate the possibility of assassination attempts against the Cuban leadership also fail to demonstrate any responsibility for their initiation on the part of WH/4. If anything, the evidence would indicate that WH/4's position was one of watchful waiting and wishful thinking that dissident Cubans would themselves eliminate the Castros and Che Guevara. The possibility, of course, that Agency-supplied weapons might be involved in such an attempt cannot be ruled out. Obviously it would be foolish to contend that those principally responsible for developing CIA's anti-Castro program would have objected to the assassination of Fidel Castro. On the other hand, this was not one of the basic concepts nor intentions of the official program of the Central Intelligence Agency."
