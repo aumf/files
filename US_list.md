@@ -1132,7 +1132,12 @@ It was not a domestic spy operation aimed at political dissidents, as historical
     It must be stressed that Operation Whitecoat soldiers were not required to participate in any study, only to be present for the protocol briefings by principal investigators seeking volunteers. About 20 percent of Operation
 Whitecoat volunteers did not participate in any study during their tenure at Fort Detrick.
    
-    Further, there has been no documented long-term negative effects or deaths.<sup>[1](https://health.mil/Reference-Center/Frequently-Asked-Questions/Human-Subject-Research-at-Fort-Detrick)</sup></sup>
+    Further, there has been no documented long-term negative effects or deaths.<sup>[4](https://health.mil/Reference-Center/Frequently-Asked-Questions/Human-Subject-Research-at-Fort-Detrick)</sup></sup>
+    
+    
+  In 1947, the US Army received a letter from Dr. Alsoph Corwin. suggesting the humane benefits of using Psychochemicals in war. This planted a seed in the Military, in including the fact that the Soviets had advanced significantly in biological, chemical and radiological warfare research. In the late 1950s, the US Army began testing drugs on consenting service-members, in full accordance with the Nuremberg Code. The record indicates the Army took up Dr. Corwin's suggestion: The noble cause of limiting suffering and death in war, while still incapacitating the enemy's forces. LSD was one such chemical studied for this purpose. <sup>[5](https://archive.org/details/UsArmyInspectorGeneralsReportDaig21-75/1ScanDaig-report0-15/)</sup></sup>
+    
+    
     
 - After WW2, the United States DoD conducted experiments with radiation on human subjects. An independent review that examined studies and policy from 1944 to 1994 found: Fully informed consent was an essential requirement for human subjects, as well as adequate medical treatment and strict ethics guidance adhered to.<sup>[1](https://web.archive.org/web/20210821164345/https://archive.defense.gov/pubs/dodhre/Narratv.pdf)</sup></sup>
 
