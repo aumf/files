@@ -24,7 +24,7 @@ Notes:
   - [Preparation & Approval of FISA Applications](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#preparation--approval-of-fisa-applications) 
   - [The rubber-stamp myth](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#the-rubber-stamp-myth)
 - [Gaps 9/11 revealed](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#gaps-911-revealed)
-- [Immediate Solution, 6 Oct 2001](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#immediate-solution-6-oct-2001)
+- [Immediate Solution, 6 Oct 2001](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#immediate-solution-6-oct-2001)
   - [Stellarwind](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#stellarwind)
     - [Oversight](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#oversight) 
     - [Collection](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#collection)
