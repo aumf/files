@@ -55,12 +55,12 @@ Notes:
   - [2008 FISA Amendment Act](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#2008-fisa-amendment-act)
     - [Sec. 702 (basket 1)](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#sec-702-basket-1)
       - [Targeting, selector analysis, Adjudication, OtR](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#targeting-selector-analysis-adjudication-otr)
-      - [PRISM]()
-      - [Upstream]()
-        - "[Abouts]()"
-        - [MCT]()
-      - ["Backdoor searches" myth]()
-      - [Batch queries]()
+      - [PRISM](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#prism)
+      - [Upstream](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#upstream)
+        - "[Abouts](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#abouts)"
+        - [MCT](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#mct)
+      - ["Backdoor searches" myth](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#backdoor-searches-myth)
+      - [Batch queries](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#batch-queries)
 - [Room 641A]()
 - [12333]()
 - [Xkeyscore]()
