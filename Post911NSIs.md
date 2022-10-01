@@ -99,7 +99,7 @@ Notes:
 - [USA Freedom Act](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#usa-freedom-act)
 - [Effectiveness](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#effectiveness)
     - [Bulk BR](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#bulk-br-1)
-      - [Leaked]()
+      - [Leaked](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#leaked)
       - [Declassified]()
     - [FAA 702]()
        - [Leaked]()
