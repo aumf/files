@@ -100,7 +100,7 @@ Notes:
 - [Effectiveness](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#effectiveness)
     - [Bulk BR](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#bulk-br-1)
       - [Leaked](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#leaked)
-      - [Declassified]()
+      - [Declassified](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#declassified)
     - [FAA 702]()
        - [Leaked]()
        - [Declassified]()
