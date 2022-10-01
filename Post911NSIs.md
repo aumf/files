@@ -110,7 +110,7 @@ Notes:
     - [Section 216](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#section-216)
     - [Freedom Act CDRs](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#freedom-act-cdrs)
     - [Stellwarwind](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#stellwarwind)
-      - [Declassified]()
+      - [Declassified](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#declassified-2)
 ---
 - ## FISA applications
   - ### As a warrant
