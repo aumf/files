@@ -97,7 +97,7 @@ Notes:
   - [702](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#702)
 - [Other notable cases](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#other-notable-cases)
 - [USA Freedom Act](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#usa-freedom-act)
-- [Effectiveness]()
+- [Effectiveness](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#effectiveness)
     - [Bulk BR]()
       - [Leaked]()
       - [Declassified]()
