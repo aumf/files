@@ -19,7 +19,7 @@ Notes:
 ## Contents
 
 <!-- toc -->
-- [FISA applications](https://github.com/Arkhlve/debunked/main/Post911NSIs.md#fisa-applications)
+- [FISA applications]()
   - [As a warrant](https://github.com/Arkhlve/debunked/main/Post911NSIs.md#as-a-warrant)
   - [Preparation & Approval of FISA Applications](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#preparation--approval-of-fisa-applications) 
   - [The rubber-stamp myth](https://github.com/Arkhlve/debunked/main/Post911NSIs.md#the-rubber-stamp-myth)
