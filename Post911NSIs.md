@@ -86,7 +86,7 @@ Notes:
 - [Snowden](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#snowden)
   - [Employment](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#employment)
   - [Integrity](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#integrity)
-  - [Competence]()
+  - [Competence](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#competence)
   - [Records access]()
   - [Official channels]()
   - [Decision to leak]()
