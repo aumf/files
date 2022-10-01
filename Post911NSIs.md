@@ -107,7 +107,7 @@ Notes:
     - [Xkeyscore](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#xkeyscore-1)
        - [Leaked](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#leaked-2)
     - [NSLs](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#nsls)
-    - [Section 216]()
+    - [Section 216](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#section-216)
     - [Freedom Act CDRs]()
     - [Stellwarwind]()
       - [Declassified]()
