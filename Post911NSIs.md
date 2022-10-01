@@ -61,20 +61,20 @@ Notes:
         - [MCT](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#mct)
       - ["Backdoor searches" myth](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#backdoor-searches-myth)
       - [Batch queries](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#batch-queries)
-- [Room 641A]()
-- [12333]()
-- [Xkeyscore]()
-- [Watchlisting]()
-- [2012 NCTC AGG]()
-- [PPD-28]()
-- [Minimization & unmasking]() 
-- [Five Eyes]()
-- [Oversight]()
-  - [Congressional]()
-  - [Executive]()
-    - [DOJ/ODNI]()
-    - [NSA]()
-    - [PCLOB]()
+- [Room 641A](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#room-641a)
+- [12333](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#12333)
+- [Xkeyscore](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#xkeyscore)
+- [Watchlisting](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#watchlisting)
+- [2012 NCTC AGG](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#2012-nctc-agg)
+- [PPD-28](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#ppd-28)
+- [Minimization & unmasking](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#minimization--unmasking) 
+- [Five Eyes](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#five-eyes)
+- [Oversight](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#oversight-1)
+  - [Congressional](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#congressional)
+  - [Executive](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#executive)
+    - [DOJ/ODNI](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#dojodni)
+    - [NSA](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#nsa)
+    - [PCLOB](https://github.com/Arkhlve/debunked/edit/main/Post911NSIs.md#pclob)
     - [IOB]()
   - [Judicial]()
     - [FISC]()
@@ -458,7 +458,7 @@ search warrant has been executed. Section 213 of USA PATRIOT Act simply codified
   
   __FBI.__ The FBI now processes unmasking requests through its Directorate of Intelligence. The FBI’s single-source reports contain an email address to make unmasking requests. When the Directorate of Intelligence receives a request, it coordinates with the relevant FBI field office to determine if granting the request would compromise an investigation or otherwise harm the office’s equities. A denial of an unmasking request is usually prompted by a field office’s objection. If the field office does not object, the Directorate of Intelligence applies the relevant legal standards to determine if disclosure is appropriate. It currently follows the protocol required by the 2018 directive from the Director of National Intelligence and the FBI’s implementing procedures, including a requirement that the disclosure be approved by the FBI Director or the Director’s designee. If the request is approved, the requestor is sent a written response that contains the USPII.<sup>[6](https://www.justice.gov/oip/foia-library/foia-processed/general_topics/bash_unmasking_report_05_31_22/download#page=19)</sup></sup>
 
-  - ## Five Eyes
+- ## Five Eyes
   It has been claimed by Snowden, political pundits and conspiracy theorists that the Five Eyes nations use each other's service to get around one another's domestic laws in order to violate privacy and civil liberties. In particular, Snowden charged that GCHQ and NSA used one another to do just that. However, in a review conducted by the British Parliament's Intelligence and Security Committee concluded this was utter nonsense: "It has been alleged that GCHQ circumvented UK law by using the NSA’s PRISM programme to access the content of private communications. From the evidence we have seen, we have concluded that this is unfounded. We have reviewed the reports that GCHQ produced on the basis of intelligence sought from the US, and we are satisfied that they conformed with GCHQ’s statutory duties. The legal authority for this is contained in the Intelligence Services Act 1994. Further, in each case where GCHQ sought information from the US, a warrant for interception, signed by a Minister, was already in place, in accordance with the legal safeguards contained in the Regulation of Investigatory Powers Act 2000."<sup>[1](https://www.gov.uk/government/publications/us-prism-gchqs-alleged-interception-of-communications)</sup></sup>
   
   Further, it was claimed that GCHQ engaged in mass surveillance, however, the British counterpart to the FISC, the IPT, ruled this was not so.<sup>[2](https://web.archive.org/web/20150206232713/http://www.gchq.gov.uk/press_and_media/news_and_features/Pages/IPT-rejects-assertions-of-mass-surveillance.aspx)</sup></sup>
