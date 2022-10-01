@@ -87,7 +87,7 @@ Notes:
   - [Employment](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#employment)
   - [Integrity](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#integrity)
   - [Competence](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#competence)
-  - [Records access]()
+  - [Records access](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#records-access)
   - [Official channels]()
   - [Decision to leak]()
   - [Statements about programs]()
