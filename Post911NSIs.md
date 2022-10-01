@@ -83,7 +83,7 @@ Notes:
       - [2018 Opinion](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#2018-opinion)
       - [2020 Opinion](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#2020-opinion)
 - [Pre-Snowden "whistleblower" allegations](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#pre-snowden-whistleblower-allegations)
-- [Snowden]()
+- [Snowden](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#snowden)
   - [Employment]()
   - [Integrity]()
   - [Competence]()
