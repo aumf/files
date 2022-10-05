@@ -77,6 +77,9 @@ This is misleading and in factual error.
 ---
 
 ## Middle East
+
+- On Sept. 29 2022, the Department of Defense reported 12 civilian deaths and approximately five civilian injuries in its Annual Report on Civilian Casualties in Connection With United States Military Operations for 2021. Deaths and injuries from Operation Inherent Resolve (OIR) in Iraq and Syria, Operation Freedom’s Sentinel in Afghanistan, and U.S. Africa Command activity in Somalia. Civilian deaths in Afghanistan comprised the entirety of reported deaths for 2021, amounting to 12 killed and two injured, while the department reported no deaths and three injuries in Somalia. According to the report, there were no deaths or injuries in connection with U.S. military operations in Iraq or Syria, though it did update its estimate for the years 2018, 2019, and 2020 to include an additional 18 injured and 10 killed as a part of the Combined Joint Task Force OIR—an operation meant to counteract activities of the Islamic State of Iraq and Syria in Iraq and Syria.<sup>[1](https://media.defense.gov/2022/Sep/27/2003086234/-1/-1/1/ANNUAL-REPORT-ON-CIVILIAN-CASUALTIES-IN-CONNECTION-WITH-UNITED-STATES-MILITARY-OPERATIONS-IN-2021.PDF)</sup></sup>
+
 - On the 1st of August, 2022, the US carried out a [successful drone strike](https://www.defense.gov/News/News-Stories/Article/Article/3114362/us-drone-strike-kills-al-qaida-leader-in-kabul/) against Ayman al-Zawahiri in Afghanistan. There were 0 civilian casualties as a result.
 
 - On February 3rd, 2022, US troops conducted a raid that killed ISIS leader Abu Ibrahim al-Hashimi al-Qurayshi. Civilians were killed as a result of him detonating a bomb, killing his family. US Special forces had tried to call for his surrender and offered him a path to survive.<sup>[1](https://www.centcom.mil/MEDIA/NEWS-ARTICLES/News-Article-View/Article/2927256/mckenzie-says-isis-leader-who-died-during-us-raid-was-evil/)</sup></sup> 
