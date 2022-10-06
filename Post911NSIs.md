@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="CNdLJVnJovdMFWjR-KJPkAqrjXZiowdpYvYzhQTZ52k" />
 # Myths about FISA, Patriot Act & Post-9/11 National Security Investigations debunked
 [The Bullshit asymmetry principle, or Brandolini's law](https://www.nature.com/articles/540171a):
 > The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
@@ -885,4 +886,4 @@ States. The message indicated that the United States-based individual was urgent
         
         In May 2007, NSA detailed to the District Court for Northern California, 6 pages of PSP successes<sup>[18](https://www.dni.gov/files/documents/1220/NSA%20Alexander%202007%20Shubert%20Declaration.pdf#page=38)</sup></sup>
 
-<meta name="google-site-verification" content="CNdLJVnJovdMFWjR-KJPkAqrjXZiowdpYvYzhQTZ52k" />
+
