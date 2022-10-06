@@ -884,3 +884,5 @@ States. The message indicated that the United States-based individual was urgent
         "FBI briefing dated 4 May 2006 stated that STELLARWIND continues to provide timely and carefully vetted intelligence in supporting FBI's investigations in connection with [redacted] operations." The NSA IG report dedicated 7 full pages to redacted examples of FBI investigations and PSP's contributions.<sup>[17](https://ia601408.us.archive.org/31/items/PSPIGreports/newpspreport%20copy.pdf#page=52)</sup></sup>
         
         In May 2007, NSA detailed to the District Court for Northern California, 6 pages of PSP successes<sup>[18](https://www.dni.gov/files/documents/1220/NSA%20Alexander%202007%20Shubert%20Declaration.pdf#page=38)</sup></sup>
+
+<meta name="google-site-verification" content="CNdLJVnJovdMFWjR-KJPkAqrjXZiowdpYvYzhQTZ52k" />
