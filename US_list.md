@@ -1075,7 +1075,7 @@ shall be made unless consistent with the requirements of section 1028.<sup>[1](h
   
   Project Gunrunner also wasn't a secret gun-smuggling operation. Indeed, it combatted them.<sup>[2](https://oig.justice.gov/reports/ATF/e1101.pdf)</sup></sup>
   
-- A conspiracy theorist freelance journalist claimed, in 2005, that the US Government experimented on foster children with HIV, resulting in deaths of 25 kids, and that they were selected based on race, among many other claims However, a study commissioned by the New York found none of these claims was true.<sup>[1](https://www.vera.org/downloads/publications/Experiences_of_NYC_Foster_Children_in_HIV-AIDS_Clinical_Trial_no_appendices.pdf)</sup></sup>  
+- A conspiracy theorist freelance journalist claimed, in 2005, that the US Government experimented on foster children with HIV and "poisoned" resulting in deaths of 25 kids, and that they were selected based on race, among many other claims However, a study commissioned by the New York found none of these claims was true.<sup>[1](https://www.vera.org/downloads/publications/Experiences_of_NYC_Foster_Children_in_HIV-AIDS_Clinical_Trial_no_appendices.pdf)</sup></sup>  
   
 - Political pundits claim that the Patriot Act was used to wrongfully target and arrest Brandon Mayfield, in May, 2004, in connection to the terrorist attack in Madrid—allegedly because he was a Muslim, that he was racially profiled. However, the independent DOJ Inspector General investigation found that 1. No Patriot Act authority was used, 2. The unique circumstances of Brandon Mayfield's fingerprints closely match those of the bomber, 3. Investigators did not know of his religion until during the investigation. 
 
