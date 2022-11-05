@@ -309,6 +309,8 @@ The Committee found the following key conclusions:
   -  The  September  dossier  was  founded  on  the  intelligence  assessments  then available (paragraph 107). 
   -  The September dossier was not ’sexed up’ by Alastair Campbell or anyone else (paragraph 108). 
   -  The  JIC  was  not  subjected  to  political  pressures.  Its  independence  and impartiality were not compromised in any way (paragraph 108)
+
+  Another British review, in 2004, found much of the intelligence "well-founded".<sup>[1](https://irp.fas.org/world/uk/butler071404.pdf)</sup></sup>
  
   A Senate Intelligence Committee study, titled, _[Whether public statements regarding Iraq by US Govt Officials were substantiated by Intelligence information](https://www.intelligence.senate.gov/sites/default/files/publications/110345.pdf#page=117)_ found that all public statements by US officials were indeed supported by the intelligence at the time.
 
