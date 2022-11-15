@@ -87,6 +87,8 @@ This is misleading and in factual error.
   - Most CIVCAS allegations were self-reported, long before or even with no media coverage.
   - Vast majority of CIVCAS allegations coming from media/NGOs were off be a large order of magnitude, in: Dates, locations, and assessed number of people killed/injured, and causes. Most had no CIVCAS, buttressing official statements. 
   - Confirms findings in CIVCAS reviews that SOPs, doctrine, policy, and laws (domestic & international), etc were followed in both dynamic and deliberate strikes. From strike authority to CIVCAS mitigation efforts.
+
+  Counter to media allegations, the July 19, 2016 airstrike in Tokhar, a village in Manbij, Syria did not cause the deaths of 80 to 160 civilians. While the exact number is indeterminate, pre-strike footage confirms possibly 7 to 24 civilians. All ROEs and IHL were adhered. Nor negligence or wrong-doing. <sup>[1](https://web.archive.org/web/20050510232110/http://www4.army.mil/ocpa/read.php?story_id_key=7293)</sup></sup> Further, counter to the list's claim that, "The reports reveal that the US military deliberately chose to drop bombs on children they saw on camera... knowingly bombed children playing on a roof." The underlying internal document shows that children were observed the day before the strike—and that no children were seen prior to pre-strike soak of target. Only one child was wounded. Those killed were all adult ISIS. Most likely family of the child.<sup>[2](https://int.nyt.com/data/documenttools/c-1-30-17-iraq/6747b75e76514e83/full.pdf)</sup></sup>
   
   Note: Some files have been released previously under FOIA.
 
