@@ -284,7 +284,7 @@ Paul E. Cortez got 100 years prison. Jesse V. Spielman 110 years prison. Bryan L
 
   US forces also maintained strict ROEs to mitigate civilian casualties during the entire campaign in Fallujah.<sup>[1](https://apps.dtic.mil/sti/pdfs/ADA530831.pdf)</sup></sup>
 
-- In May 2004, US conducted a raid near the Iraq-Syrian border, targeting several HVTs of the Zarqawi network. The NYT and AP alleged this was a wedding near Mukaradeeb, where many civilians were killed as a result of the raid. However, Signals, Human and Satellite intelligence as well as forensic and contradictory and inconsistent local testimony during interviews proved this allegation [false](https://www3.centcom.mil/FOIA_RR_Files/5%20USC%20552(a)(2)(D)Records/U.S.%20Raid%20Near%20the%20Syrian-Iraq%20Border%20on%2019%20May%2004/r_Responsive_Docs-Facts_Findings-new-Bracketed.pdf).
+- In May 2004, US conducted a raid near the Iraq-Syrian border, targeting several HVTs of the Zarqawi network. The NYT and AP alleged this was a wedding near Mukaradeeb, where many civilians were killed as a result of the raid. However, Signals, Human and Satellite intelligence as well as forensic and contradictory and inconsistent local testimony during interviews proved this allegation [false](https://archive.org/details/may-18-04-raid).
 
 - On April 2004, Iraq, CPL Pat Tillman was killed in a friendly fire incident. Pundits claim that he was deliberately killed by his fellow unit members because he had anti-war leanings, and allege there was a coverup. This erroneous conclusion is based on a misreading of several basic facts. 
   
