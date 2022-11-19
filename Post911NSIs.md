@@ -62,7 +62,7 @@ Notes:
       - ["Backdoor searches" myth](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#backdoor-searches-myth)
       - [Batch queries](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#batch-queries)
 - [Room 641A](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#room-641a)
-- [TIA]()
+- [TIA](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#tia)
 - [12333](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#12333)
 - [Xkeyscore](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#xkeyscore)
 - [Watchlisting](https://github.com/Arkhlve/debunked/blob/main/Post911NSIs.md#watchlisting)
