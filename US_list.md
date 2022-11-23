@@ -263,10 +263,11 @@ Another investigation was appointed, a formal Court of Inquiry (COI) to independ
 
 - On September 16, 2007, members of Blackwater—protecting a VIP, were rushed into evacuating the VIP after a bomb went off outside the venue they were at. Spooked, the security detail rushed out of the area. Coming to a square, in the high-tensions of what had happened, accidentally engaged several civilians. The real issue comes after this occurred. The team tried to cover themselves by replacing parts of the vehicle with one already damaged, to bolster their mistake to the FBI. [They were found out](https://edition.cnn.com/2020/12/24/opinions/blackwater-defendants-pardon-trump-opinion-oconnor/index.html). Arrested, charged and convicted.
 
-
 - On August 19, 2007, an article from the Washington Post claimed soldiers committed LOAC violations in what is dubbed as "The Battle of Donkey Island".
  The allegation claimed the US Soldiers shot and killed injured insurgents. The independent [investigation](https://ia601508.us.archive.org/20/items/Donkeyislandbattle/r_14%20oct%2007%20viol%20of%20laws%20of%20armed%20conflict.pdf) finds the article, while compelling, suffers numerous inaccuracies, that, while don't appear to be intentional by the author, was due to incomplete, contradictory information, and general confusion. Separately, the investigation finds it likely that noncombatants were killed. But could not determine by who.
  
+- Contrary to some sensational headlines, on October 30, 2006, the US did not conduct a drone strike in Chingai (Chenagai) Pakistan, that killed 80 people. Pakistani officials publicly confirmed it was their helicopter gunship that did. The US also officially denied it, per Major Matt Hackathorn, "It was completely done by the Pakistani military."<sup>[1](https://www.nytimes.com/2006/10/30/world/asia/30iht-pakistan.3335330.html?_r=0)</sup></sup>
+
 - March 12, 2006. Mahmudiyah rape and killings. Drunk these men set off from a checkpoint to rape and kill Iraqi civilians. Upon an independent investigation, the men were charged and convicted. James P. Barker had to enter plea deal to not get the death penalty. Got 90 years prison time. 
 Paul E. Cortez got 100 years prison. Jesse V. Spielman 110 years prison. Bryan L. Howard 2.5 years prison, (he didn't do the crime, but lied to cover for the others. Steven Dale Green narrowly escaped death sentence. Life in prison. No parole. He died in prison.  
  
