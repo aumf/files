@@ -1,4 +1,4 @@
-# Debunking the list of alleged atrocities committed by the United States
+# Fact-checking and debunking the list of alleged atrocities committed by the United States
 [The Bullshit asymmetry principle, or Brandolini's law](https://www.nature.com/articles/540171a):
 > The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
 
