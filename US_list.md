@@ -268,6 +268,8 @@ Another investigation was appointed, a formal Court of Inquiry (COI) to independ
  
 - Contrary to some sensational headlines, on October 30, 2006, the US did not conduct a drone strike to target Zawahiri in Chingai (Chenagai) Pakistan, that killed 80 people. Pakistani officials publicly confirmed it was their helicopter gunship that did. The US also officially denied it, per Major Matt Hackathorn, "It was completely done by the Pakistani military."<sup>[1](https://www.nytimes.com/2006/10/30/world/asia/30iht-pakistan.3335330.html?_r=0)</sup></sup>
 
+- On May 9, 2006, Girouard, Hunsaker and Clagett killed 3 detainees during operation Iron Triangle. They attempted to cover it up, however, an independent investigation by CID found their testimony inconsistent. In their defense, they tried to allege they were permitted to kill any military aged male in the area, under the ROEs communicated by Col. Steele. However, a seperate investigation found this was not the case.<sup>[1](https://archive.org/details/investigation-op-iron-triangle/page/169/mode/2up)</sup></sup> These 3 men were each convicted.
+
 - March 12, 2006. Mahmudiyah rape and killings. Drunk these men set off from a checkpoint to rape and kill Iraqi civilians. Upon an independent investigation, the men were charged and convicted. James P. Barker had to enter plea deal to not get the death penalty. Got 90 years prison time. 
 Paul E. Cortez got 100 years prison. Jesse V. Spielman 110 years prison. Bryan L. Howard 2.5 years prison, (he didn't do the crime, but lied to cover for the others. Steven Dale Green narrowly escaped death sentence. Life in prison. No parole. He died in prison.  
  
