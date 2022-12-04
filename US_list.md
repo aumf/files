@@ -583,7 +583,7 @@ of Colombia, indigenous sources of information (e.g., criminal records) are revi
    
    The Independent CIA Inspector General's multi-volume series on Guatemala concludes similar, which was corroborated by the panel's report.<sup>[1](https://www.cia.gov/readingroom/docs/DOC_0000647948.pdf)</sup></sup> <sup>[2](https://www.cia.gov/readingroom/docs/DOC_0000690161.pdf)</sup></sup>
   
-  The Department of Defense also issued its 1995 Guatemala[report](https://media.defense.gov/2017/Sep/11/2001806396/-1/-1/1/REPORT%20TO%20THE%20SECRETARY%20OF%20DEFENSE%20ON%20DOD%20ACTIVITIES%20IN%20GUATEMALA%20(U).PDF). It found that US DoD Policy towards Guatemala was:
+  The Department of Defense also issued its 1995 Guatemala [report](https://media.defense.gov/2017/Sep/11/2001806396/-1/-1/1/REPORT%20TO%20THE%20SECRETARY%20OF%20DEFENSE%20ON%20DOD%20ACTIVITIES%20IN%20GUATEMALA%20(U).PDF). It found that US DoD Policy towards Guatemala was:
   >Promoting a stable democratic government to include ending the Marxist insurgency;
   >eliminating human rights abuses;
   >responding to the economic and social needs of the Guatemalan people; and
