@@ -4,7 +4,7 @@ These will aid those interested in LOAC as it relates to some of the lists and e
 #Contents
 
 - [Papers](https://github.com/Arkhlve/debunked/blob/main/IHL_reading.md#papers)
-- [Treatises](https://github.com/Factcheck11/Collections/blob/main/Academic%20reading%20on%20Int'l%20Law.md#treatises)
+- [Treatises](https://github.com/Arkhlve/debunked/blob/main/IHL_reading.md#treatises)
 
 ## Papers
 
