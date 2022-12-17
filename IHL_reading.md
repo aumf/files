@@ -7,7 +7,6 @@ These will aid those interested in LOAC as it relates to some of the lists and e
 - [Treatises](https://github.com/Arkhlve/debunked/blob/main/IHL_reading.md#treatises)
 
 ## Papers
-
 - [The Non-combatant Casualty Cut-off Value: Assessment of a Novel Targeting Technique in Operation Inherent Resolve](https://brill.com/view/journals/icla/18/4/article-p655_655.xml)
 - [The North Atlantic Treaty Organization Legal Advisor: A Primer](https://archive.org/details/102013_201808/mode/2up)
 - [Lex Lata or Lex Ferenda? Rule 45 of the ICRC study on Customary International Humanitarian Law](https://archive.org/details/198Winter2008)
@@ -48,12 +47,7 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [Targeting: Principles of International Humanitarian Law](https://law.yale.edu/sites/default/files/area/center/global/document/gross_targeting_and_civilians_directly_participating_in_hostilities.pdf)
 - []()
 
-
-## Expert Commentary
-- [Down Is Not Always Out: Hors De Combat in the Close Fight](https://lieber.westpoint.edu/down-not-always-out-hors-de-combat-close-fight/)
-
 ## Treatises 
-
 - [U. S. Military Operations Law, Policy, And Practice](https://global.oup.com/academic/product/us-military-operations-9780199328574?cc=us&lang=en)
 - [Handbook Of The International Law Of Military Operations](https://global.oup.com/academic/product/the-handbook-of-the-international-law-of-military-operations-9780198744627?lang=en&cc=us)
 - [Practitioners Guide To Human Rights Law In Armed Conflict](https://global.oup.com/academic/product/practitioners-guide-to-human-rights-law-in-armed-conflict-9780198791393?lang=en&cc=us)
