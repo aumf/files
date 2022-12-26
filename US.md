@@ -38,11 +38,11 @@ Where domestic will is non-existent, the international community can intervene t
 
 - [Alleged Imperialism](https://github.com/verittas/files/blob/main/US.md#alleged-imperialism)
 - [Middle East](https://github.com/verittas/files/blob/main/US.md#middle-east)
-- [Western Hemisphere](https://github.com/Arkhlve/debunked/blob/main/US_list.md#western-hemisphere)
-- [Africa](https://github.com/Arkhlve/debunked/blob/main/US_list.md#africa)
-- [Europe](https://github.com/Arkhlve/debunked/blob/main/US_list.md#europe)
-- [Asia](https://github.com/Arkhlve/debunked/blob/main/US_list.md#asia)
-- [USA/Domestic matters](https://github.com/Arkhlve/debunked/blob/main/US_list.md#usadomestic-matters) 
+- [Western Hemisphere](https://github.com/verittas/files/blob/main/US.md#western-hemisphere)
+- [Africa](https://github.com/verittas/files/blob/main/US.md#africa)
+- [Europe](https://github.com/verittas/files/blob/main/US.md#europe)
+- [Asia](https://github.com/verittas/files/blob/main/US.md#asia)
+- [USA/Domestic matters](https://github.com/verittas/files/blob/main/US.md#usadomestic-matters) 
 
 
 <!-- tocstop -->
