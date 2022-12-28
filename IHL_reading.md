@@ -45,6 +45,7 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [The legitimacy of modern conventional weaponry](https://tjaglcspublic.army.mil/documents/27431/2251871/View+the+PDF/ee82f732-b0b4-4275-b230-5be04ad16474)
 - [Yes, we can: The authority to detain as customary international law](https://tile.loc.gov/storage-services/service/ll/llmlp/58062115_202-winter-2009/58062115_202-winter-2009.pdf)
 - [Targeting: Principles of International Humanitarian Law](https://law.yale.edu/sites/default/files/area/center/global/document/gross_targeting_and_civilians_directly_participating_in_hostilities.pdf)
+- [U.S. Position on the U.N. Convention on the Law of the Sea](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=2949&context=ils)
 
 
 ## Treatises 
