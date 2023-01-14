@@ -982,7 +982,7 @@ Other papers from [1995](https://pubmed.ncbi.nlm.nih.gov/7783939/) and even rece
   
 - In the summer of 1950 in South Korea, South Korea engaged in a massacre. British and US Governments tried to prevent it, and managed to save a large number of civilians. United States official documents show that John J. Muccio, then United States Ambassador to South Korea, made recommendations to South Korean President Rhee Syngman and Defense Minister Shin Sung-mo that the executions be stopped. Great Britain raised this issue with the U.S. at a diplomatic level, causing Dean Rusk, Assistant Secretary of State for Far Eastern Affairs, to inform the British that U.S. commanders were doing "everything they can to curb such atrocities".[8] During the massacre, the British protected their allies and saved some citizens.
 
-- CIA has [no involvement](https://www.archives.gov/files/research/jfk/releases/2018/104-10214-10036.pdf) in the 1963 assassination/coup in Vietnam of President Diem.
+- CIA has [no involvement](https://www.archives.gov/files/research/jfk/releases/2018/104-10214-10036.pdf) in the 1963 assassination of President Diem.
   
 - From 1949 into 1954, CIA covertly supported anticommunist, democratic movements made up of students and refugees in their propaganda operations in mainland China, known as the "Third Force".  They also supported a paramilitary arm, focused at resisting Soviet/Communist authoritarian military aggression against Korea.<sup>[1](https://www.cia.gov/static/58b7c48bd76884f38902a2891a5a3cea/Covert-Action-in-China.pdf)</sup></sup>
 
