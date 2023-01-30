@@ -19,11 +19,11 @@ Notes:
 ## Contents
 
 <!-- toc -->
-- [FISA applications](https://github.com/verittas/files/blob/main/Post911NSIs.md#fisa-applications)
-  - [As a warrant](https://github.com/verittas/files/blob/main/Post911NSIs.md#as-a-warrant)
-  - [Preparation & Approval of FISA Applications](https://github.com/verittas/files/blob/main/Post911NSIs.md#preparation--approval-of-fisa-applications) 
-  - [The rubber-stamp myth](https://github.com/verittas/files/blob/main/Post911NSIs.md#the-rubber-stamp-myth)
-- [Gaps 9/11 revealed](https://github.com/verittas/files/blob/main/Post911NSIs.md#gaps-911-revealed)
+- [FISA applications](https://github.com/verittas/files/blob/main/US_NSIs.md#fisa-applications)
+  - [As a warrant](https://github.com/verittas/files/blob/main/US_NSIs.md#as-a-warrant)
+  - [Preparation & Approval of FISA Applications](https://github.com/verittas/files/blob/main/US_NSIs.md#preparation--approval-of-fisa-applications) 
+  - [The rubber-stamp myth](https://github.com/verittas/files/blob/main/US_NSIs.md#the-rubber-stamp-myth)
+- [Gaps 9/11 revealed](https://github.com/verittas/files/blob/main/US_NSIs.md#gaps-911-revealed)
 - [Immediate Solution, 6 Oct 2001](https://github.com/verittas/files/blob/main/Post911NSIs.md#immediate-solution-6-oct-2001)
   - [Stellarwind](https://github.com/verittas/files/blob/main/Post911NSIs.md#stellarwind)
     - [Oversight](https://github.com/verittas/files/blob/main/Post911NSIs.md#oversight) 
