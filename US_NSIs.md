@@ -93,6 +93,7 @@ Notes:
   - [Decision to leak](https://github.com/verittas/files/blob/main/US_NSIs.md#decision-to-leak)
   - [Statements about programs](https://github.com/verittas/files/blob/main/US_NSIs.md#statements-about-programs)
   - [Chilling-effect myth](https://github.com/verittas/files/blob/main/US_NSIs.md#chilling-effect-myth)
+  - [Damage](https://github.com/verittas/files/blob/main/US_NSIs.md#damage)
 - [Post-Snowden litigation](https://github.com/verittas/files/blob/main/US_NSIs.md#post-snowden-litigation)
   - [Bulk BR](https://github.com/verittas/files/blob/main/US_NSIs.md#bulk-br)
   - [702](https://github.com/verittas/files/blob/main/US_NSIs.md#702)
@@ -678,6 +679,8 @@ These folk have appeared on many legitimate outlets, and some more—conspiracy 
     
   - ### Chilling-effect myth
     After the Snowden leaks, wikimedia claimed, then-without evidence, that there was a "chilling-effect" among the public as a result of the (inaccurate) media portrayal of the above-discussed programs. Eventually, a model proposed by Jonathon Penney, claiming to show this effect. However, a critical examination of this model, in a landmark paper pointed out the flaws, and bias of the analysis. "The methodology used in the Penney Declaration—which purportedly shows an upward trend in page views of certain articles posted on Wikipedia through May 2013, followed by an abrupt drop and downward trend in views of those articles beginning in June 2013—is deeply flawed, inappropriate, and likely biased."<sup>[17](https://www.aclu.org/sites/default/files/field_document/178-3._affidavit_exh._7_salzberg_declaration.pdf)</sup></sup> <sup>[18](https://www.aclu.org/sites/default/files/field_document/182-3._exhibit_17_-_second_salzberg_declaration_3.22.19.pdf)</sup></sup>
+    
+  - ### Damage    
 
 
 - ## Post-Snowden litigation
