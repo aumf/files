@@ -65,6 +65,7 @@ Notes:
 - [TIA](https://github.com/verittas/files/blob/main/US_NSIs.md#tia)
 - [12333](https://github.com/verittas/files/blob/main/US_NSIs.md#12333)
 - [Xkeyscore](https://github.com/verittas/files/blob/main/US_NSIs.md#xkeyscore)
+- [Vulnerabilities Equities Process (VEP)](https://github.com/verittas/files/blob/main/US_NSIs.md#)
 - [Watchlisting](https://github.com/verittas/files/blob/main/US_NSIs.md#watchlisting)
 - [2012 NCTC AGG](https://github.com/verittas/files/blob/main/US_NSIs.md#2012-nctc-agg)
 - [PPD-28](https://github.com/verittas/files/blob/main/US_NSIs.md#ppd-28)
@@ -392,6 +393,9 @@ file."<sup>[8](https://oig.justice.gov/sites/default/files/reports/a20047.pdf#pa
 
 - ## Xkeyscore
   Despite claims, Xkeyscore is not a collection program. It is an analytic and processing tool to enable searching of already-collected data.<sup>[1](https://documents.pclob.gov/prod/Documents/OversightReport/b11b78e0-019f-44b9-ae4f-60e7eebe8173/12333%20Public%20Capstone.pdf#page=7)</sup></sup>  <sup>[2](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/1620989/press-statement-on-30-july-2013/)</sup></sup>
+  
+- ## The Vulnerabilities Equities Process (VEP) 
+  The VEP balances whether to disseminate vulnerability information to the vendor/supplier in the expectation that it will be patched, or to temporarily restrict the knowledge of the vulnerability to the USG, and potentially other partners, so that it can be used for national security and law enforcement purposes, such as intelligence collection, military operations, and/or counterintelligence. All of these determinations must be informed by the understanding of risks of dissemination, the potential benefits of government use of the vulnerabilities, and the risks and benefits of all options in between. In the course of carrying out USG missions, the USG may identify vulnerabilities that cyber actors could exploit. In the vast majority of cases, responsibly disclosing a newly discovered vulnerability is clearly in the national interest. However, there are legitimate advantages and disadvantages to disclosing vulnerabilities, and the trade-offs between prompt disclosure and withholding knowledge of some vulnerabilities for a limited time or adopting a mitigation strategy short of full disclosure can have significant consequences. It is also important to recognize that the USG has not created these vulnerabilities.<sup>[1](https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/images/External%20-%20Unclassified%20VEP%20Charter%20FINAL.PDF)</sup></sup> <sup>[2](https://www.eff.org/files/2015/09/04/document_71_-_vep_ocr.pdf)</sup></sup> <sup>[3](https://www.eff.org/files/2015/03/29/vulnerability_equities_process_highlights_7.8.10_doc_65_redactions_redacted1.pdf)</sup></sup>
 
 - ## Watchlisting
   To no one's surprise, terrorist watchlisting nominations cannot be based on First Amendment activities. Not only is this publicly stated policy, but confirmed in leaked documents.
