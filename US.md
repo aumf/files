@@ -732,7 +732,7 @@ of information which indicate the possibility of assassination attempts against 
   
   > "CIA supported the objectives of the Guatemalan land reform—the breakup of large estates into small freeholds—in some of its own programs. the Agency supported farm cooperative movement. In 1951, the Directorate of Plans undertook a global program to encourage small, independent landowners. In Guatemala, the program organised 15,000 peasants into 75 study groups, each of which formed a credit union to help its members buy land."<sup>[1](https://ia601303.us.archive.org/6/items/CIA-Guatemala-Coup-Report/DOC_0000134974.pdf)</sup></sup> <sup>[2](https://web.archive.org/web/20180609064148/https://www.cia.gov/library/readingroom/docs/DOC_0000135796.pdf)</sup></sup>
 
-  An American pilot sank the SS Springfjord, believed to have been smuggling weapons. This was not authorised by Headquarters or Lincoln. No people were killed.<sup>[1](https://www.cia.gov/readingroom/docs/DOC_0000920049.pdf)</sup></sup> <sup>[2](https://www.cia.gov/readingroom/docs/DOC_0000919986.pdf)</sup></sup>
+  An American pilot sank the SS Springfjord, believed to have been smuggling weapons. This was not authorised by Headquarters or Lincoln. No people were killed.<sup>[3](https://www.cia.gov/readingroom/docs/DOC_0000920049.pdf)</sup></sup> <sup>[4](https://www.cia.gov/readingroom/docs/DOC_0000919986.pdf)</sup></sup>
   
 ---
 ## Africa
