@@ -46,7 +46,16 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [Yes, we can: The authority to detain as customary international law](https://tile.loc.gov/storage-services/service/ll/llmlp/58062115_202-winter-2009/58062115_202-winter-2009.pdf)
 - [Targeting: Principles of International Humanitarian Law](https://law.yale.edu/sites/default/files/area/center/global/document/gross_targeting_and_civilians_directly_participating_in_hostilities.pdf)
 - [U.S. Position on the U.N. Convention on the Law of the Sea](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=2949&context=ils)
+- [US Landmine policy complies with International Law](https://lieber.westpoint.edu/u-s-landmine-policy-complies-international-law/)
+- [The crime of aggression: The United States Perspective](https://openyls.law.yale.edu/bitstream/handle/20.500.13051/4543/amerjintelaw.109.2.0257.pdf?sequence=2&isAllowed=y)
 
+
+## ICC
+- [Understanding the International Criminal Court](https://www.icc-cpi.int/sites/default/files/Publications/understanding-the-icc.pdf)
+- [How the International Criminal Court Threatens Treaty Norms](https://scholarship.law.vanderbilt.edu/vjtl/vol49/iss2/3/)
+- [Jus in Bello Futura ignotus: The United States, the International Criminal Court, and the uncertain future of the Law of Armed Conflict](https://web.archive.org/web/20170131093317/https://www.jagcnet.army.mil/DOCLIBS/MILITARYLAWREVIEW.NSF/20a66345129fe3d885256e5b00571830/7caab5aad6a5fea585257f33004ed107/$FILE/7.%20%20By%20Lieutenant%20Colonel%20James%20T.%20Hill.pdf)
+- [Exercise Jurisdiction at the Edge—What Happens Next? An Analysis of International Criminal Court Substantive Law as Applied to Non-Party State Nationals](https://tjaglcspublic.army.mil/documents/27431/16066286/2020-Issue-3-Exercising+Jurisdiction+at+the+Edge.pdf/6863edf3-9e30-450a-89e2-eddf45861ecc)
+- [The ICC Wants Justice But Has No Mandate](https://www.justsecurity.org/71015/the-icc-wants-justice-but-has-no-mandate/)
 
 ## Treatises 
 - [U. S. Military Operations Law, Policy, And Practice](https://global.oup.com/academic/product/us-military-operations-9780199328574?cc=us&lang=en)
