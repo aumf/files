@@ -14,10 +14,7 @@ These will aid those interested in LOAC as it relates to some of the lists and e
 - [Detention Operations in Non-International Armed Conflicts between International Humanitarian Law, Human Rights Law and National Standards: A NATO Perspective ](https://brill.com/view/book/edcoll/9789004404601/BP000005.xml)
 - [“On Target”: Precision and Balance in the
 Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Precision-and-Balance-in-the-Contemporary-Law-of-Targeting_2.pdf)
-- [Jus in Bello Futura ignotus: The United States, the International Criminal Court, and the uncertain future of the Law of Armed Conflict](https://web.archive.org/web/20170131093317/https://www.jagcnet.army.mil/DOCLIBS/MILITARYLAWREVIEW.NSF/20a66345129fe3d885256e5b00571830/7caab5aad6a5fea585257f33004ed107/$FILE/7.%20%20By%20Lieutenant%20Colonel%20James%20T.%20Hill.pdf)
 -  [Conducting unconventional warfare in compliance with the Law of Armed Conflict](https://tjaglcspublic.army.mil/documents/27431/2115093/View+the+PDF/2155811d-648e-4c54-bd16-db50048fa9be)
-- [How the International Criminal Court Threatens Treaty Norms](https://tjaglcspublic.army.mil/documents/27431/61281/Newton+Article+on+ICC+Jurisdiction.pdf/a5f9f672-3846-4967-a85e-d434a84b464b)
-- [Exercise Jurisdiction at the Edge—What Happens Next? An Analysis of International Criminal Court Substantive Law as Applied to Non-Party State Nationals](https://tjaglcspublic.army.mil/documents/27431/16066286/2020-Issue-3-Exercising+Jurisdiction+at+the+Edge.pdf/6863edf3-9e30-450a-89e2-eddf45861ecc)
 - [Special Operations Commando Raids and Enemy Hors de Combat](https://www.jag.navy.mil/documents/navylawreview/ALSJSEditionJuly2007.pdf)
 - [The Detention and Prosecution of Insurgents and Other Non-Traditional Combatants— A Look at the Task Force 134 Process and the Future of Detainee Prosecutions](https://www.jag.navy.mil/documents/navylawreview/ALSJSEditionJuly2007.pdf)
 - [Protecting civilians in urban areas: A military perspective on the application of international humanitarian law](https://international-review.icrc.org/sites/default/files/irc_97_901-11.pdf)
