@@ -14,7 +14,7 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
 
 _[Legal Definition](https://web.archive.org/web/20200825130159/https://www.un.org/en/genocideprevention/documents/atrocity-crimes/Doc.49_Framework%20of%20Analysis%20for%20Atrocity%20Crimes_EN.pdf): The  term  “atrocity  crimes”  refers  to  three  legally  defined  international  crimes:    genocide, crimes against  humanity  and  war  crimes._ 
 
-[Per the ICC](https://www.icc-cpi.int/resource-library/Documents/UICCEng.pdf), "The International Criminal Court is _not a substitute_ for national courts. According to the Rome Statute, it is the duty of every State to exercise its criminal jurisdiction over those responsible for international crimes. The International Criminal Court _can only intervene where a State is unable or unwilling genuinely to carry out the investigation and prosecute the perpetrators"_
+[Per the ICC](https://www.icc-cpi.int/sites/default/files/Publications/understanding-the-icc.pdf), "The International Criminal Court is _not a substitute_ for national courts. According to the Rome Statute, it is the duty of every State to exercise its criminal jurisdiction over those responsible for international crimes. The International Criminal Court _can only intervene where a State is unable or unwilling genuinely to carry out the investigation and prosecute the perpetrators"_
 
  The US opposed the ICC because it suffers from a number structural flaws, not because it wanted to "escape accountability." At the same time, the US proposed alternatives that already exist: 
 
