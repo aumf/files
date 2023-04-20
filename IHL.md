@@ -8,6 +8,7 @@ These will aid those interested in LOAC as it relates to some of the lists and e
 - [Treatises](https://github.com/verittas/files/blob/main/IHL.md#treatises)
 
 ## Papers
+- [Targeting: Principles of International Humanitarian Law](https://law.yale.edu/sites/default/files/area/center/global/document/gross_targeting_and_civilians_directly_participating_in_hostilities.pdf)
 - [The Non-combatant Casualty Cut-off Value: Assessment of a Novel Targeting Technique in Operation Inherent Resolve](https://brill.com/view/journals/icla/18/4/article-p655_655.xml)
 - [The North Atlantic Treaty Organization Legal Advisor: A Primer](https://archive.org/details/102013_201808/mode/2up)
 - [Lex Lata or Lex Ferenda? Rule 45 of the ICRC study on Customary International Humanitarian Law](https://archive.org/details/198Winter2008)
@@ -42,7 +43,6 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [Responding to Proxy  Cyber Operations  Under International Law](https://cyberdefensereview.army.mil/Portals/6/Documents/2021_fall/02_Johnson_Schmitt_CDR_V6N4-Fall_2021.pdf?ver=UclHQrn_coYfGcPXfimQcA%3d%3d)
 - [The legitimacy of modern conventional weaponry](https://tjaglcspublic.army.mil/documents/27431/2251871/View+the+PDF/ee82f732-b0b4-4275-b230-5be04ad16474)
 - [Yes, we can: The authority to detain as customary international law](https://tile.loc.gov/storage-services/service/ll/llmlp/58062115_202-winter-2009/58062115_202-winter-2009.pdf)
-- [Targeting: Principles of International Humanitarian Law](https://law.yale.edu/sites/default/files/area/center/global/document/gross_targeting_and_civilians_directly_participating_in_hostilities.pdf)
 - [U.S. Position on the U.N. Convention on the Law of the Sea](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=2949&context=ils)
 - [US Landmine policy complies with International Law](https://lieber.westpoint.edu/u-s-landmine-policy-complies-international-law/)
 - [The crime of aggression: The United States Perspective](https://openyls.law.yale.edu/bitstream/handle/20.500.13051/4543/amerjintelaw.109.2.0257.pdf?sequence=2&isAllowed=y)
