@@ -4,6 +4,7 @@ These will aid those interested in LOAC as it relates to some of the lists and e
 #Contents
 
 - [Papers](https://github.com/verittas/files/blob/main/IHL_reading.md#papers)
+- [ICC](https://github.com/verittas/files/blob/main/IHL_reading.md#icc)
 - [Treatises](https://github.com/verittas/files/blob/main/IHL_reading.md#treatises)
 
 ## Papers
