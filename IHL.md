@@ -7,6 +7,13 @@ These will aid those interested in LOAC as it relates to some of the lists and e
 - [ICC](https://github.com/verittas/files/blob/main/IHL.md#icc)
 - [Treatises](https://github.com/verittas/files/blob/main/IHL.md#treatises)
 
+<!-- tocstop -->
+---
+
+Notes:
+- Right-click on a hyperlink to open. Clicking directly will cause the current tab to load the link.
+- [Install](https://github.com/internetarchive/wayback-machine-webextension) the official wayback machine browser addon, from archive.org, to aid in any 404 errors. I try to fix them myself, but still a good addon to have.
+
 ## Papers
 - [Targeting: Principles of International Humanitarian Law](https://law.yale.edu/sites/default/files/area/center/global/document/gross_targeting_and_civilians_directly_participating_in_hostilities.pdf)
 - [The Non-combatant Casualty Cut-off Value: Assessment of a Novel Targeting Technique in Operation Inherent Resolve](https://brill.com/view/journals/icla/18/4/article-p655_655.xml)
