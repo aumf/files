@@ -3,9 +3,9 @@ These will aid those interested in LOAC as it relates to some of the lists and e
 
 #Contents
 
-- [Papers](https://github.com/verittas/files/blob/main/IHL_reading.md#papers)
-- [ICC](https://github.com/verittas/files/blob/main/IHL_reading.md#icc)
-- [Treatises](https://github.com/verittas/files/blob/main/IHL_reading.md#treatises)
+- [Papers](https://github.com/verittas/files/blob/main/IHL.md#papers)
+- [ICC](https://github.com/verittas/files/blob/main/IHL.md#icc)
+- [Treatises](https://github.com/verittas/files/blob/main/IHL.md#treatises)
 
 ## Papers
 - [The Non-combatant Casualty Cut-off Value: Assessment of a Novel Targeting Technique in Operation Inherent Resolve](https://brill.com/view/journals/icla/18/4/article-p655_655.xml)
@@ -46,7 +46,6 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [U.S. Position on the U.N. Convention on the Law of the Sea](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=2949&context=ils)
 - [US Landmine policy complies with International Law](https://lieber.westpoint.edu/u-s-landmine-policy-complies-international-law/)
 - [The crime of aggression: The United States Perspective](https://openyls.law.yale.edu/bitstream/handle/20.500.13051/4543/amerjintelaw.109.2.0257.pdf?sequence=2&isAllowed=y)
-
 
 ## ICC
 - [Understanding the International Criminal Court](https://www.icc-cpi.int/sites/default/files/Publications/understanding-the-icc.pdf)
