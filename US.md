@@ -56,7 +56,7 @@ Putting aside misinformed, initial moral outrage in order to learn the facts, nu
 - Will be updated as new facts are uncovered and information pours in. 
 - The list isn't in any specific order. _Generally_ it's in a most to least recent.
 - Under international law, incidental (collateral) deaths or injuries of civilians, even in large number, does not indicate nor imply violation of the laws of war.
-  See [Academic reading International Law](https://github.com/verittas/files/blob/main/IHL_reading.md) for a comprehensive academic list of sources.
+  See [Academic reading International Law](https://github.com/verittas/files/blob/main/IHL.md) for a comprehensive academic list of sources.
 - Afghanistan is under the Middle East for ease of reference to those unfamiliar with it technically being South Central Asia.
 - AR 15-6 investigations, to the uninformed mind, can appear to lack independence—however, this is almost never the case and the fact-finding provided by them is invaluable. There has been revisions to AR 15-6 to adequately address such concerns.<sup>[1](https://tjaglcspublic.army.mil/documents/27431/7766454/2017-WINTER-Administrative+Investigations+in+an+Era+of+Increased+Government+Scrutiny.pdf/f3ad2420-f4cd-4a00-8188-9a86bfbb9613)</sup></sup> Other investigative authorities exist, such as formal Court of Inquiry or an Inspector General, etc.
 ---
