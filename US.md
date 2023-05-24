@@ -948,6 +948,11 @@ someone touched the contamination point, thereby contaminating their hands (with
   - [US Air Force Special Operations during the Cold War](https://www.airuniversity.af.edu/Portals/10/AUPress/Books/b_0037_haas_apollos_warriors.pdf#page=2)
   - [CSH: Secret war in Korea (limited excerpts)](https://s3.documentcloud.org/documents/21997395/5-4-22-mr49120.pdf)
 
+- Arc light missions in Cambodia adhered to the laws of war, under strict ROE to protect civilians. An internal study found, 
+"Forward air controllers and fighter pilots followed normal in-country Rules of Engagement and operating procedures, exercising special care to avoid dropping ordnance on the noncombatant populace....  The FAC and fighter pilots were to follow normal in-country Rules of Engagement and operating procedures and were cautioned to exercise extreme vigilance to avoid dropping ordnance on the noncombatant populace." and, "The uncertainty of friendly locations and the absolute necessity to avoid noncombatant casualties delayed clearances and required some fighters to hold 15 to 30 minutes."
+
+  That, "Restrictions for ARC LIGHT strikes were a minimum of one kilometer from the nearest noncombatants, not less than three kilometers from friendly combatants, and they were to avoid monuments, temples, and other cultural landmarks." And "If noncombatants were present, the strike was not to be conducted until the inhabitants had been warned by loudspeakers or leaflets to leave the area. Strikes were prohibited on 15 areas of cultural value to the Cambodian people, unless the target were requested and validated by FANK."<sup>[1](https://apps.dtic.mil/sti/pdfs/ADA486570.pdf)</sup></sup> <sup>[2](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195840/arc-light/)</sup></sup>
+
 - Between 1964 and 1975, it is claimed that the US bombing campaign led to a poverty trap in Vietnam. However, the academic literature disputes this unfounded claim.
   "U.S. bombing does not have negative impacts on local poverty rates, consumption levels, infrastructure, literacy or population density through 2002. This finding indicates that even the most intense bombing in human history did not generate local poverty traps in Vietnam."<sup>[1](https://www.sciencedirect.com/science/article/abs/pii/S0304387810000817)</sup></sup> 
   
