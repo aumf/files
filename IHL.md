@@ -3,7 +3,7 @@ These will aid those interested in LOAC as it relates to some of the lists and e
 
 #Contents
 
-- [Papers](https://github.com/verittas/files/blob/main/IHL.md#papers)
+- [Papers & expert commentary](https://github.com/verittas/files/blob/main/IHL.md#papers)
 - [ICC](https://github.com/verittas/files/blob/main/IHL.md#icc)
 - [Treatises](https://github.com/verittas/files/blob/main/IHL.md#treatises)
 
@@ -14,7 +14,7 @@ Notes:
 - Right-click on a hyperlink to open. Clicking directly will cause the current tab to load the link.
 - [Install](https://github.com/internetarchive/wayback-machine-webextension) the official wayback machine browser addon, from archive.org, to aid in any 404 errors. I try to fix them myself, but still a good addon to have.
 
-## Papers
+## Papers & expert commentary
 - [Targeting: Principles of International Humanitarian Law](https://law.yale.edu/sites/default/files/area/center/global/document/gross_targeting_and_civilians_directly_participating_in_hostilities.pdf)
 - [The Non-combatant Casualty Cut-off Value: Assessment of a Novel Targeting Technique in Operation Inherent Resolve](https://brill.com/view/journals/icla/18/4/article-p655_655.xml)
 - [The North Atlantic Treaty Organization Legal Advisor: A Primer](https://archive.org/details/102013_201808/mode/2up)
@@ -53,6 +53,14 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [U.S. Position on the U.N. Convention on the Law of the Sea](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=2949&context=ils)
 - [US Landmine policy complies with International Law](https://lieber.westpoint.edu/u-s-landmine-policy-complies-international-law/)
 - [The crime of aggression: The United States Perspective](https://openyls.law.yale.edu/bitstream/handle/20.500.13051/4543/amerjintelaw.109.2.0257.pdf?sequence=2&isAllowed=y)
+- [ISIL’s Human Shields in Mosul and the U.S. Response](https://www.lawfareblog.com/isils-human-shields-mosul-and-us-response)
+- [A Squarable Circle?: The Revised DoD Law of War Manual and the Challenge of Human Shields](https://www.justsecurity.org/35597/squarable-circle-revised-dod-law-war-manual-challenge-human-shields/)
+- [Changes to Rules of Engagement Approval Levels and Civilian Casualties](https://www.justsecurity.org/40416/rules-engagement-approval-levels-civilian-casualties/)
+- [Eyes Wide Shut: Scahill and Greenwald’s Flawed Critique of U.S. SIGINT Based Targeting](https://www.justsecurity.org/7201/eyes-wide-shut-scahill-greenwalds-flawed-critique-u-s-sigint-based-targeting/)
+- [There Is Much More to a Civilian Casualty Investigation than Eyewitness Accounts](https://www.justsecurity.org/43148/letter-editor-civilian-casualty-investigation-eyewitness-accounts/)
+- [Targeting the Islamic State: Activity-Based Intelligence and Modern Airpower](https://docs.wixstatic.com/ugd/a2dd91_c8bffcab5afd4f9a96c76e69d0f57343.pdf)
+- [The principle of distinction in complex military operations](https://blog.oup.com/2016/03/principle-of-distinction-in-complex-military-operations/)
+- [Extending Positive Identification from Persons to Places: Terrorism, Armed Conflict and the Identification of Military Objectives](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2234499)
 
 ## ICC
 - [Understanding the International Criminal Court](https://www.icc-cpi.int/sites/default/files/Publications/understanding-the-icc.pdf)
@@ -71,3 +79,4 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [Danish Law of War manual, English](https://forsvaret.dk/globalassets/fko---forsvaret/dokumenter/publikationer/-military-manual-updated-2020-2.pdf)
 - [Protection of civilians—military reference guide](https://publications.armywarcollege.edu/pubs/3520.pdf)
 - [Cyber Law Toolkit](https://cyberlaw.ccdcoe.org/wiki/Main_Page)
+- [Targeting: The Law of Targeting](https://global.oup.com/academic/product/the-law-of-targeting-9780199696611?cc=us&lang=en&)
