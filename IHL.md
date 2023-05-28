@@ -61,6 +61,10 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [Targeting the Islamic State: Activity-Based Intelligence and Modern Airpower](https://docs.wixstatic.com/ugd/a2dd91_c8bffcab5afd4f9a96c76e69d0f57343.pdf)
 - [The principle of distinction in complex military operations](https://blog.oup.com/2016/03/principle-of-distinction-in-complex-military-operations/)
 - [Extending Positive Identification from Persons to Places: Terrorism, Armed Conflict and the Identification of Military Objectives](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2234499)
+- [Is attacking the electricity infrastructure used by civilians always a war crime?](https://sites.duke.edu/lawfire/2022/10/27/is-attacking-the-electricity-infrastructure-used-by-civilians-always-a-war-crime/)
+- [Dave Graham reviews “The Future Law of Armed Conflict” (Part 1)](https://sites.duke.edu/lawfire/2022/12/02/guest-post-dave-graham-reviews-the-future-law-of-armed-conflict-part-1/)
+- [Airpower, Law and the Warfighter’s Perspective](https://sites.duke.edu/lawfire/2023/03/06/lt-gen-david-deptula-usaf-ret-on-airpower-law-and-the-warfighters-perspective/)
+
 
 ## ICC
 - [Understanding the International Criminal Court](https://www.icc-cpi.int/sites/default/files/Publications/understanding-the-icc.pdf)
