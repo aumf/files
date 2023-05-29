@@ -105,3 +105,5 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [Legal lessons learned from Afghanistan and Iraq: Volume 1: Major Combat Operations (11 September 2001-1 May 2003)](https://irp.fas.org/doddir/army/clamo-v1.pdf)
 - [Legal lessons learned from Afghanistan and Iraq: Volume 2 Full Spectrum Operations 2 May 2003 - 30 June 2004](https://irp.fas.org/doddir/army/clamo-v2.pdf)
 - [Weapons and the Law of Armed Conflict](https://global.oup.com/academic/product/weapons-and-the-law-of-armed-conflict-9780198728504?cc=us&lang=en&)
+- [Rules of Engagement and the International Law of Military Operations](https://global.oup.com/academic/product/rules-of-engagement-and-the-international-law-of-military-operations-9780198853886?cc=us&lang=en&#)
+- [The War on Terror and the Laws of War](https://global.oup.com/academic/product/the-war-on-terror-and--the-laws-of-war-9780199941452?lang=en&cc=us#)
