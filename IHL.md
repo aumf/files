@@ -69,6 +69,8 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [Rules of Engagement Demystified: A Study of the History, Development and Use of ROEs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2602763)
 - [The French Military Intervention in Mali, Counter-Terrorism, and the Law of Armed Conflict](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2604235)
 - [Hunting Down Terrorists “Wherever They Exist”: ISIL in Syria and the Legal Argument for United States Military Operations Within the Territory of a Non-Consenting Nation-State](https://www.afjag.af.mil/Portals/77/documents/Law%20Review/AFD-160205-013.pdf?ver=-6FnmiodNkxlc_bId7zC4w%3D%3D#page=140)
+- [A State of Complicity: How Russia’s Persistent and Public Denial of Syrian Battlefield Atrocities
+Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_Lawless_StateofComplicity-1.pdf)
 
 
 ## ICC
