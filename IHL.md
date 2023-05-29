@@ -66,6 +66,7 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [Airpower, Law and the Warfighter’s Perspective](https://sites.duke.edu/lawfire/2023/03/06/lt-gen-david-deptula-usaf-ret-on-airpower-law-and-the-warfighters-perspective/)
 - [Special Forces' Wear of Non-Standard Uniforms](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1225&context=cjil)
 - [It is Not Self-Defense: Direct Participation in Hostilities Authority at the Tactical Level](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2984267)
+- [Rules of Engagement Demystified: A Study of the History, Development and Use of ROEs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2602763)
 
 
 ## ICC
