@@ -65,6 +65,7 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [Dave Graham reviews “The Future Law of Armed Conflict” (Part 1)](https://sites.duke.edu/lawfire/2022/12/02/guest-post-dave-graham-reviews-the-future-law-of-armed-conflict-part-1/)
 - [Airpower, Law and the Warfighter’s Perspective](https://sites.duke.edu/lawfire/2023/03/06/lt-gen-david-deptula-usaf-ret-on-airpower-law-and-the-warfighters-perspective/)
 - [Special Forces' Wear of Non-Standard Uniforms](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1225&context=cjil)
+- [It is Not Self-Defense: Direct Participation in Hostilities Authority at the Tactical Level](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2984267)
 
 
 ## ICC
