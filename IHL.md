@@ -64,6 +64,7 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [Is attacking the electricity infrastructure used by civilians always a war crime?](https://sites.duke.edu/lawfire/2022/10/27/is-attacking-the-electricity-infrastructure-used-by-civilians-always-a-war-crime/)
 - [Dave Graham reviews “The Future Law of Armed Conflict” (Part 1)](https://sites.duke.edu/lawfire/2022/12/02/guest-post-dave-graham-reviews-the-future-law-of-armed-conflict-part-1/)
 - [Airpower, Law and the Warfighter’s Perspective](https://sites.duke.edu/lawfire/2023/03/06/lt-gen-david-deptula-usaf-ret-on-airpower-law-and-the-warfighters-perspective/)
+- [Special Forces' Wear of Non-Standard Uniforms](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1225&context=cjil)
 
 
 ## ICC
