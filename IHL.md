@@ -72,6 +72,13 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [A State of Complicity: How Russia’s Persistent and Public Denial of Syrian Battlefield Atrocities
 Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_Lawless_StateofComplicity-1.pdf)
 [Which States Support the 'Unwilling and Unable' Test?](https://www.lawfareblog.com/which-states-support-unwilling-and-unable-test)
+- [The Legitimacy of Modern Conventional Weaponry](https://web.archive.org/web/20220131094000/https://tjaglcspublic.army.mil/documents/27431/2251871/View+the+PDF/ee82f732-b0b4-4275-b230-5be04ad16474#page=101)
+- [The Lawfulness of United States Assistance to the Republic of Vietnam](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1330&context=dlr)
+- [VietNam and the International Law of Self-Defense](https://www.degruyter.com/document/doi/10.1515/9781400885909-017/html?lang=en)
+- [The Legality of United States Participation in the Defense of Vietnam](https://www.jstor.org/stable/794921?origin=crossref)
+- [Legal Memorandum on U.S. Action in Vietnam](https://www.cambridge.org/core/journals/international-legal-materials/article/abs/legal-memorandum-on-us-action-in-vietnam/756631751CE81CBF218B31528720DB82)
+- [The Lawfulness of Military Assistance to the Republic of Vietnam](https://www.cambridge.org/core/journals/american-journal-of-international-law/article/abs/lawfulness-of-military-assistance-to-the-republic-of-vietnam/CE962350F9CC548F3D5E64F179B2EAD6)
+- [Five Legal Takeaways from the Syrian War](https://harvardnsj.org/2019/09/30/five-legal-takeaways-from-the-syrian-war/)
 
 
 ## ICC
