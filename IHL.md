@@ -71,6 +71,7 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [Hunting Down Terrorists “Wherever They Exist”: ISIL in Syria and the Legal Argument for United States Military Operations Within the Territory of a Non-Consenting Nation-State](https://www.afjag.af.mil/Portals/77/documents/Law%20Review/AFD-160205-013.pdf?ver=-6FnmiodNkxlc_bId7zC4w%3D%3D#page=140)
 - [A State of Complicity: How Russia’s Persistent and Public Denial of Syrian Battlefield Atrocities
 Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_Lawless_StateofComplicity-1.pdf)
+[Which States Support the 'Unwilling and Unable' Test?](https://www.lawfareblog.com/which-states-support-unwilling-and-unable-test)
 
 
 ## ICC
