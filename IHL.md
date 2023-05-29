@@ -84,3 +84,5 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [Protection of civilians—military reference guide](https://publications.armywarcollege.edu/pubs/3520.pdf)
 - [Cyber Law Toolkit](https://cyberlaw.ccdcoe.org/wiki/Main_Page)
 - [Targeting: The Law of Targeting](https://global.oup.com/academic/product/the-law-of-targeting-9780199696611?cc=us&lang=en&)
+- [The Newport Manual on the Law of Naval Warfare](https://digital-commons.usnwc.edu/ils/vol101/iss1/1/)
+- [Newport Rules of Engagement Handbook](https://digital-commons.usnwc.edu/ils/vol98/iss1/2/)
