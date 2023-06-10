@@ -79,6 +79,8 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Legal Memorandum on U.S. Action in Vietnam](https://www.cambridge.org/core/journals/international-legal-materials/article/abs/legal-memorandum-on-us-action-in-vietnam/756631751CE81CBF218B31528720DB82)
 - [The Lawfulness of Military Assistance to the Republic of Vietnam](https://www.cambridge.org/core/journals/american-journal-of-international-law/article/abs/lawfulness-of-military-assistance-to-the-republic-of-vietnam/CE962350F9CC548F3D5E64F179B2EAD6)
 - [Five Legal Takeaways from the Syrian War](https://harvardnsj.org/2019/09/30/five-legal-takeaways-from-the-syrian-war/)
+- [State-Sponsored Assassination in International and Domestic Law](https://openyls.law.yale.edu/bitstream/handle/20.500.13051/6276/21_17YaleJIntlL609_1992_.pdf)
+- [Was the Soleimani Killing an Assassination?](https://www.lawfareblog.com/was-soleimani-killing-assassination)
 
 
 ## ICC
