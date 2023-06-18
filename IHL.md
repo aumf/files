@@ -85,6 +85,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The tyranny of context: Israeli targeting practices in legal perspective](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1905&context=jil)
 - [The Goldstone report: Politicization of the Law of Armed Conflict and those left behind](https://tjaglcspublic.army.mil/documents/27431/1415913/View+the+PDF/6ea296ee-ce2a-425b-a360-314a67395031)
 - [A Critique of the Goldstone Report and Its Treatment of International Humanitarian Law](https://www.cambridge.org/core/journals/proceedings-of-the-asil-annual-meeting/article/abs/critique-of-the-goldstone-report-and-its-treatment-of-international-humanitarian-law/A6006B7860BEF9EC3857E4B52F173EB8)
+- [Investigating Violations of International Law in Armed Conflict](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1683980)
 
 
 ## ICC
