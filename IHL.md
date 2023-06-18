@@ -91,6 +91,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Collateral Damage Estimation Methodology](https://int.nyt.com/data/documenttools/no-strike-collateral-damage-estimation/6632f2785aff5bba/full.pdf)
 - [Should the U.S. Military Receive the Benefit of the Doubt When Investigating Itself for Alleged War Crimes?](https://www.lawfareblog.com/should-us-military-receive-benefit-doubt-when-investigating-itself-alleged-war-crimes)
 - [Collateral Damage Estimation Qualification Course Syllabus](https://www.jcs.mil/Portals/36/Documents/Doctrine/training/jts/col_damage_course_syllabus2021.pdf)
+- [Air Force Doctrine Publication 3-60, Targeting](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-60/3-60-AFDP-TARGETING.pdf)
 
 
 ## ICC
