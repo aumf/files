@@ -21,7 +21,7 @@ Notes:
 <!-- toc -->
 - [FISA applications](https://github.com/verittas/files/blob/main/NSIs.md#fisa-applications)
   - [As a warrant](https://github.com/verittas/files/blob/main/NSIs.md#as-a-warrant)
-  - - [Conservatism with respect to FISA](https://github.com/verittas/files/blob/main/NSIs.md#conservatism-with-respect-to-fisa)
+  - [Conservatism with respect to FISA](https://github.com/verittas/files/blob/main/NSIs.md#conservatism-with-respect-to-fisa)
   - [Preparation & Approval of FISA Applications](https://github.com/verittas/files/blob/main/NSIs.md#preparation--approval-of-fisa-applications) 
   - [The rubber-stamp myth](https://github.com/verittas/files/blob/main/NSIs.md#the-rubber-stamp-myth)
 - [Gaps 9/11 revealed](https://github.com/verittas/files/blob/main/NSIs.md#gaps-911-revealed)
