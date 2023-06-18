@@ -71,7 +71,7 @@ Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Prec
 - [Hunting Down Terrorists “Wherever They Exist”: ISIL in Syria and the Legal Argument for United States Military Operations Within the Territory of a Non-Consenting Nation-State](https://www.afjag.af.mil/Portals/77/documents/Law%20Review/AFD-160205-013.pdf?ver=-6FnmiodNkxlc_bId7zC4w%3D%3D#page=140)
 - [A State of Complicity: How Russia’s Persistent and Public Denial of Syrian Battlefield Atrocities
 Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_Lawless_StateofComplicity-1.pdf)
-[Which States Support the 'Unwilling and Unable' Test?](https://www.lawfareblog.com/which-states-support-unwilling-and-unable-test)
+- [Which States Support the 'Unwilling and Unable' Test?](https://www.lawfareblog.com/which-states-support-unwilling-and-unable-test)
 - [The Legitimacy of Modern Conventional Weaponry](https://web.archive.org/web/20220131094000/https://tjaglcspublic.army.mil/documents/27431/2251871/View+the+PDF/ee82f732-b0b4-4275-b230-5be04ad16474#page=101)
 - [The Lawfulness of United States Assistance to the Republic of Vietnam](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1330&context=dlr)
 - [VietNam and the International Law of Self-Defense](https://www.degruyter.com/document/doi/10.1515/9781400885909-017/html?lang=en)
