@@ -92,6 +92,8 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Should the U.S. Military Receive the Benefit of the Doubt When Investigating Itself for Alleged War Crimes?](https://www.lawfareblog.com/should-us-military-receive-benefit-doubt-when-investigating-itself-alleged-war-crimes)
 - [Collateral Damage Estimation Qualification Course Syllabus](https://www.jcs.mil/Portals/36/Documents/Doctrine/training/jts/col_damage_course_syllabus2021.pdf)
 - [Air Force Doctrine Publication 3-60, Targeting](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-60/3-60-AFDP-TARGETING.pdf)
+- [The Use of Force against Ukraine and International Law](https://link.springer.com/book/10.1007/978-94-6265-222-4)
+- [Russia’s attack on Ukraine and the jus ad bellum](https://www.tandfonline.com/doi/full/10.1080/20531702.2022.2056803)
 
 
 ## ICC
