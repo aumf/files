@@ -30,13 +30,13 @@ _[Legal Definition](https://web.archive.org/web/20200825130159/https://www.un.or
 
 <!-- toc -->
 
-- [Alleged Imperialism](https://github.com/verittas/files/blob/main/US.md#alleged-imperialism)
-- [Middle East](https://github.com/verittas/files/blob/main/US.md#middle-east)
-- [Western Hemisphere](https://github.com/verittas/files/blob/main/US.md#western-hemisphere)
-- [Africa](https://github.com/verittas/files/blob/main/US.md#africa)
-- [Europe](https://github.com/verittas/files/blob/main/US.md#europe)
-- [Asia](https://github.com/verittas/files/blob/main/US.md#asia)
-- [USA/Domestic matters](https://github.com/verittas/files/blob/main/US.md#usadomestic-matters) 
+- [Alleged Imperialism](https://github.com/aumf/files/blob/main/US.md#alleged-imperialism)
+- [Middle East](https://github.com/aumf/files/blob/main/US.md#middle-east)
+- [Western Hemisphere](https://github.com/aumf/files/blob/main/US.md#western-hemisphere)
+- [Africa](https://github.com/aumf/files/blob/main/US.md#africa)
+- [Europe](https://github.com/aumf/files/blob/main/US.md#europe)
+- [Asia](https://github.com/aumf/files/blob/main/US.md#asia)
+- [USA/Domestic matters](https://github.com/aumf/files/blob/main/US.md#usadomestic-matters) 
 
 
 <!-- tocstop -->
