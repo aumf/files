@@ -94,6 +94,11 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Air Force Doctrine Publication 3-60, Targeting](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-60/3-60-AFDP-TARGETING.pdf)
 - [The Use of Force against Ukraine and International Law](https://link.springer.com/book/10.1007/978-94-6265-222-4)
 - [Russia’s attack on Ukraine and the jus ad bellum](https://www.tandfonline.com/doi/full/10.1080/20531702.2022.2056803)
+- [On the Legal Presumptions of Civilian Status:  A Rebuttal In Support of the DoD Manual” (Part I)](https://sites.duke.edu/lawfire/2022/03/29/col-ted-richard-on-the-legal-presumptions-of-civilian-status-a-rebuttal-in-support-of-the-dod-manual-part-i/)
+- [On the Legal Presumptions of Civilian Status: A Rebuttal In Support of the DoD Manual (Part II)](https://sites.duke.edu/lawfire/2022/04/01/col-ted-richard-on-the-legal-presumptions-of-civilian-status-a-rebuttal-in-support-of-the-dod-manual-part-ii/)
+- [On the Legal Presumptions of Civilian Status:  A Rebuttal In Support of the DoD Manual (Part III)](https://sites.duke.edu/lawfire/2022/04/06/col-ted-richard-on-the-legal-presumptions-of-civilian-status-a-rebuttal-in-support-of-the-dod-manual-part-iii/)
+- [DoD’s law of war about-face is problematic for both civilians and warfighters](https://sites.duke.edu/lawfire/2023/08/04/dods-law-of-war-about-face-is-problematic-for-both-civilians-and-warfighters/)
+- [2023 DoD Manual Revision – The Civilian Presumption Misnomer](https://lieber.westpoint.edu/civilian-presumption-misnomer/)
 
 
 ## ICC
