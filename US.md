@@ -18,11 +18,6 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
 
 _[Legal Definition](https://web.archive.org/web/20200825130159/https://www.un.org/en/genocideprevention/documents/atrocity-crimes/Doc.49_Framework%20of%20Analysis%20for%20Atrocity%20Crimes_EN.pdf): The  term  “atrocity  crimes”  refers  to  three  legally  defined  international  crimes:    genocide, crimes against  humanity  and  war  crimes._ 
 
-Per the ICC, "The International Criminal Court is _not a substitute_ for national courts. According to the Rome Statute, it is the duty of every State to exercise its criminal jurisdiction over those responsible for international crimes. The International Criminal Court _can only intervene where a State is unable or unwilling genuinely to carry out the investigation and prosecute the perpetrators"_<sup>[[1]](https://www.icc-cpi.int/sites/default/files/Publications/understanding-the-icc.pdf)</sup></sup>
-
-The “Rendulic Rule:” The Rendulic case also stands for a broader standard regarding liability for battlefield acts: commanders and personnel should be evaluated based on information reasonably available at the time of decision.<sup>[[1]](https://tjaglcs.army.mil/documents/35956/56931/2022+Operational+Law+Handbook.pdf/4e10836e-2399-eb81-768f-7de8f6e03dc5?t=1652119179075)</sup></sup>
-
-
 "Around the world, the United States has promoted freedom: We have worked to expand the protection of human rights, end gender-based violence, and defend the freedoms of expression, peaceful assembly, and the press. In promoting these liberties and pushing back against tyranny, corruption, and oppression, we have recognized that universal human rights and fundamental freedoms do not stop at our borders. They are the birthright of people everywhere." 
  
    – President Barack  Obama, Presidential Proclamation - Human Rights Day and Human Rights Week, 2016
@@ -61,6 +56,8 @@ Putting aside misinformed, initial moral outrage in order to learn the facts, nu
   See [Academic reading International Law](https://github.com/verittas/files/blob/main/IHL.md) for a comprehensive academic list of sources.
 - Afghanistan is under the Middle East for ease of reference to those unfamiliar with it technically being South Central Asia.
 - AR 15-6 investigations, to the uninformed mind, can appear to lack independence—however, this is almost never the case and the fact-finding provided by them is invaluable. There has been revisions to AR 15-6 to adequately address such concerns.<sup>[[1]](https://tjaglcspublic.army.mil/documents/27431/7766454/2017-WINTER-Administrative+Investigations+in+an+Era+of+Increased+Government+Scrutiny.pdf/f3ad2420-f4cd-4a00-8188-9a86bfbb9613)</sup></sup> Other investigative authorities exist, such as formal Court of Inquiry or an Inspector General, etc.
+- Per the ICC, "The International Criminal Court is _not a substitute_ for national courts. According to the Rome Statute, it is the duty of every State to exercise its criminal jurisdiction over those responsible for international crimes. The International Criminal Court _can only intervene where a State is unable or unwilling genuinely to carry out the investigation and prosecute the perpetrators"_<sup>[[1]](https://www.icc-cpi.int/sites/default/files/Publications/understanding-the-icc.pdf)</sup></sup>
+- The “Rendulic Rule:” The Rendulic case also stands for a broader standard regarding liability for battlefield acts: commanders and personnel should be evaluated based on information reasonably available at the time of decision.<sup>[[1]](https://tjaglcs.army.mil/documents/35956/56931/2022+Operational+Law+Handbook.pdf/4e10836e-2399-eb81-768f-7de8f6e03dc5?t=1652119179075)</sup></sup>
 ---
 
 ## Alleged Imperialism
