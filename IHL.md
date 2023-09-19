@@ -101,6 +101,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [2023 DoD Manual Revision – The Civilian Presumption Misnomer](https://lieber.westpoint.edu/civilian-presumption-misnomer/)
 - [Collateral damage on the 21st century battlefield: Enemy exploitation of the Law of Armed Conflict, and the struggle for a moral high ground](https://www.afjag.af.mil/Portals/77/documents/AFD-081009-011.pdf#page=84)
 - [The Combatant Status of the “Little Green Men" and Other Participants in the Ukraine Conflict](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1321&context=ils)
+- [Self-Defense Against an Imminent or Actual Armed Attack By Nonstate Actors](https://www.cambridge.org/core/journals/american-journal-of-international-law/article/abs/selfdefense-against-an-imminent-or-actual-armed-attack-by-nonstate-actors/BC9C62E3157202F50234A452A714A421)
 
 
 ## ICC
