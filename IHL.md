@@ -102,6 +102,8 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Collateral damage on the 21st century battlefield: Enemy exploitation of the Law of Armed Conflict, and the struggle for a moral high ground](https://www.afjag.af.mil/Portals/77/documents/AFD-081009-011.pdf#page=84)
 - [The Combatant Status of the “Little Green Men" and Other Participants in the Ukraine Conflict](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1321&context=ils)
 - [Self-Defense Against an Imminent or Actual Armed Attack By Nonstate Actors](https://www.cambridge.org/core/journals/american-journal-of-international-law/article/abs/selfdefense-against-an-imminent-or-actual-armed-attack-by-nonstate-actors/BC9C62E3157202F50234A452A714A421)
+- [Identifying Customary LOAC in Practice](https://www.ejiltalk.org/identifying-customary-loac-in-practice/)
+- [The United States’ Practical Approach to Identifying Customary Law of Armed Conflict](https://www.ejiltalk.org/the-united-states-practical-approach-to-identifying-customary-law-of-armed-conflict/)
 
 
 ## ICC
