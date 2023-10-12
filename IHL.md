@@ -104,6 +104,8 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Self-Defense Against an Imminent or Actual Armed Attack By Nonstate Actors](https://www.cambridge.org/core/journals/american-journal-of-international-law/article/abs/selfdefense-against-an-imminent-or-actual-armed-attack-by-nonstate-actors/BC9C62E3157202F50234A452A714A421)
 - [Identifying Customary LOAC in Practice](https://www.ejiltalk.org/identifying-customary-loac-in-practice/)
 - [The United States’ Practical Approach to Identifying Customary Law of Armed Conflict](https://www.ejiltalk.org/the-united-states-practical-approach-to-identifying-customary-law-of-armed-conflict/)
+- [Operational Challenges in Ground Operations in Urban Areas: An IDF Perspective](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/78/2018/06/07012753/6.-NitsanAlon_Final-Review_Formatted.pdf)
+- [Challenges in the Interpretation and Application of the Principle of Distinction During Ground Operations in Urban AreasDistinction During Ground Operations in Urban Areas](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1099&context=vjtl)
 
 
 ## ICC
