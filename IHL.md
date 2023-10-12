@@ -106,6 +106,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The United States’ Practical Approach to Identifying Customary Law of Armed Conflict](https://www.ejiltalk.org/the-united-states-practical-approach-to-identifying-customary-law-of-armed-conflict/)
 - [Operational Challenges in Ground Operations in Urban Areas: An IDF Perspective](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/78/2018/06/07012753/6.-NitsanAlon_Final-Review_Formatted.pdf)
 - [Challenges in the Interpretation and Application of the Principle of Distinction During Ground Operations in Urban AreasDistinction During Ground Operations in Urban Areas](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1099&context=vjtl)
+- [Warning Civilians Prior to Attack under International Law: Theory and Practice](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1086&context=ils)
 
 
 ## ICC
