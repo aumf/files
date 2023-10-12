@@ -108,7 +108,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Challenges in the Interpretation and Application of the Principle of Distinction During Ground Operations in Urban AreasDistinction During Ground Operations in Urban Areas](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1099&context=vjtl)
 - [Warning Civilians Prior to Attack under International Law: Theory and Practice](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1086&context=ils)
 - [The Application of IHL in the Goldstone Report: A Critical Commentary](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1596214)
-- [The Goldstone report: Politicization of the law of armed conflict and those left behind](https://web.archive.org/web/20120505220505/http://www.loc.gov/rr/frd/Military_Law/Military_Law_Review/pdf-files/209-fall-2011.pdf)
+
 
 
 ## ICC
