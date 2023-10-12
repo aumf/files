@@ -108,6 +108,8 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Challenges in the Interpretation and Application of the Principle of Distinction During Ground Operations in Urban AreasDistinction During Ground Operations in Urban Areas](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1099&context=vjtl)
 - [Warning Civilians Prior to Attack under International Law: Theory and Practice](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1086&context=ils)
 - [The Application of IHL in the Goldstone Report: A Critical Commentary](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1596214)
+- [Four Comments on the Application of Proportionality under the Law of Armed ConflictLaw of Armed Conflict](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1102&context=vjtl)
+- [Fight, Forge, and Fund: Three Select Issues on Targeting of PersonsPersons](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1108&context=vjtl)
 
 
 
