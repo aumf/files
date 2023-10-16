@@ -111,6 +111,8 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Four Comments on the Application of Proportionality under the Law of Armed ConflictLaw of Armed Conflict](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1102&context=vjtl)
 - [Fight, Forge, and Fund: Three Select Issues on Targeting of PersonsPersons](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1108&context=vjtl)
 - [Collateral damage on the 21st century battlefield: enemy exploitation of the law of armed conflict, and the struggle for a moral high ground](https://go.gale.com/ps/i.do?p=AONE&u=googlescholar&id=GALE|A133368631&v=2.1&it=r&sid=AONE&asid=302fb796)
+- [Should Have Known Better? The Standard of Knowledge for Command Responsibility in International Criminal Law](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3046&context=ils)
+- [Aid and Assistance as a “Use of Force” Under the Jus Ad Bellum](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3042&context=ils)
 
 
 
