@@ -122,6 +122,8 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Humanitarian Law and Direct Participation in Hostilties by Private Contractors or Civilian Employees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1610014)
 - [Human Shields in International Humanitarian Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1600258)
 - [Wings Over Libya: The No-Fly Zone in Legal Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1801174)
+- [Extraterritorial Lethal Targeting: Deconstructing the Logic of International Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2226359)
+- [Drone Law: A Reply to UN Special Rapporteur Emmerson](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2484451)
 
 
 ## ICC
