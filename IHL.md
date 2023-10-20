@@ -124,6 +124,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Wings Over Libya: The No-Fly Zone in Legal Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1801174)
 - [Extraterritorial Lethal Targeting: Deconstructing the Logic of International Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2226359)
 - [Drone Law: A Reply to UN Special Rapporteur Emmerson](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2484451)
+- [Clipped Wings: Effective and Legal No-Fly Zone Rules of Engagement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1603799)
 
 
 ## ICC
