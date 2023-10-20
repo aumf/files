@@ -121,6 +121,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [How Do You Like Me Now? Hamdan v. Rumsfeld and the Legal Justifications for Global Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3607178)
 - [Humanitarian Law and Direct Participation in Hostilties by Private Contractors or Civilian Employees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1610014)
 - [Human Shields in International Humanitarian Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1600258)
+- [Wings Over Libya: The No-Fly Zone in Legal Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1801174)
 
 
 ## ICC
