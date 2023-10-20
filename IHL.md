@@ -113,6 +113,10 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Collateral damage on the 21st century battlefield: enemy exploitation of the law of armed conflict, and the struggle for a moral high ground](https://go.gale.com/ps/i.do?p=AONE&u=googlescholar&id=GALE|A133368631&v=2.1&it=r&sid=AONE&asid=302fb796)
 - [Should Have Known Better? The Standard of Knowledge for Command Responsibility in International Criminal Law](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3046&context=ils)
 - [Aid and Assistance as a “Use of Force” Under the Jus Ad Bellum](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3042&context=ils)
+- [A Broad Overview of the Law of Armed Conflict in the Age of Terror](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2375935)
+- [To Russia with Love: How Moral Arguments for a Humanitarian Intervention in Syria Opened the Door for an Invasion of the Ukraine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2908126)
+- [The Combatant Status of the 'Little Green Men' and Other Participants in the Ukraine Conflict](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2616885)
+- [Modern Weapons and the Law of Armed Conflict](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2707292)
 
 
 
