@@ -392,7 +392,6 @@ file."<sup>[[10]](https://oig.justice.gov/sites/default/files/reports/a20047.pdf
         The same judge who issued the April 2022 opinion, in reviewing the FBI’s querying over the last year and during periods after our reforms went into effect, found improvement in multiple areas. The Court made several statements throughout the Opinion highlighting the effectiveness of the reforms: 
         - Page 83: “There are further indications that these measures are having the desired effect.”  
         - Page 87: “…there is reason to believe that the FBI has been doing a better job in applying the query standard.” 
-        - Page 88: “…implementation of the querying standard is encouraging” and “On balance…FBI application of the querying standard appears to have improved.” 
         - Page 88: “The information reported regarding the FBI’s recent implementation of the querying standard is encouraging,” and “On balance…FBI application of the querying standard appears to have improved.” 
         - Page 93: the Court cited “recent indications that the FBI is improving its implementation of Section 702 querying requirements” when finding the FBI’s querying and minimization procedures to be consistent with the statute and the Fourth Amendment.
 
