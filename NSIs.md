@@ -380,7 +380,7 @@ file."<sup>[[10]](https://oig.justice.gov/sites/default/files/reports/a20047.pdf
         
         The number of FBI queries does not reflect the number of U.S. persons associated with these queries. For example, a single U.S. person might be associated with 10 unique query terms including name, social security number, passport number, phone number, multiple email addresses, etc. These 10 identifiers could be run 10 different times throughout the reporting period, resulting in 100 queries associated with a single individual. Query terms may also be associated with a U.S. company rather than a specific U.S. person.<sup>[[41]](https://www.intelligence.gov/assets/documents/702%20Documents/statistical-transparency-report/2022_IC_Annual_Statistical_Transparency_Report_cy2021.pdf#page=21)</sup></sup>
      
-      - ##### 2021/2022 reforms
+      - ##### 2021/2022 reform compliance
         The FBI has, since June 2021, has successfully implemented a number of means to further reduce hits on USPs when conducting normal and batch job queries. 
         
         - The FBI instituted a policy requiring FBI attorney approval prior to conducting a batch job that would result in 100 or more queries. The FBI attorney pre-approval requirement is designed to ensure that there is additional review in situations where one incorrect decision could potentially have a greater privacy impact due to the large number of query terms. 
@@ -390,21 +390,21 @@ file."<sup>[[10]](https://oig.justice.gov/sites/default/files/reports/a20047.pdf
         Independent, internal reviews have already found these efforts successful at "dramatically decreased" numbers. Further, the April 2022 FISC opinion has recognized the compliance benefits of the new approach, "The Court is encouraged by the amendments to the FBI's querying procedures and the substantial efforts to improve FBI querying practices, including heightened documentation requirements, several system changes, and enhanced guidance, training, and oversight measures. There are preliminary indications that some of these measures are having the desired effect."<sup>[[42]](https://int.nyt.com/data/documenttools/doj-report-recent-efforts-to-strengthen-fisa-compliance-02-28/d4a33986faf10197/full.pdf)</sup></sup>
 
         The same judge who issued the April 2022 opinion, in reviewing the FBI’s querying over the last year and during periods after our reforms went into effect, found improvement in multiple areas. The Court made several statements throughout the Opinion highlighting the effectiveness of the reforms: 
-        Page 83: “There are further indications that these measures are having the desired effect.”  
-        Page 87: “…there is reason to believe that the FBI has been doing a better job in applying the query standard.” 
-        Page 88: “…implementation of the querying standard is encouraging” and “On balance…FBI application of the querying standard appears to have improved.” 
-        Page 88: “The information reported regarding the FBI’s recent implementation of the querying standard is encouraging,” and “On balance…FBI application of the querying standard appears to have improved.” 
-        Page 93: the Court cited “recent indications that the FBI is improving its implementation of Section 702 querying requirements” when finding the FBI’s querying and minimization procedures to be consistent with the statute and the Fourth Amendment.
+        - Page 83: “There are further indications that these measures are having the desired effect.”  
+        - Page 87: “…there is reason to believe that the FBI has been doing a better job in applying the query standard.” 
+        - Page 88: “…implementation of the querying standard is encouraging” and “On balance…FBI application of the querying standard appears to have improved.” 
+        - Page 88: “The information reported regarding the FBI’s recent implementation of the querying standard is encouraging,” and “On balance…FBI application of the querying standard appears to have improved.” 
+        - Page 93: the Court cited “recent indications that the FBI is improving its implementation of Section 702 querying requirements” when finding the FBI’s querying and minimization procedures to be consistent with the statute and the Fourth Amendment.
 
         The Court found the FBI’s compliance rate with the query standard to be over 98%  after our reforms were implemented.  
         Page 84/85: The Court calculated the FBI’s rate of non-compliance with the query standard as about 1.7% for queries against Section 702 data, and about 1.8% for all FISA queries.
 
-       - New accountability procedures in June 2023 defining specific consequences for employees who fail to properly abide by policies the FBI has put in place:
-         - An initial incident would trigger immediate suspension of FISA access while employee: (1) retakes all mandatory FISA training, (2) executes a signed certification that will be placed in the employee’s personnel files, and (3) receives mandatory one-on-one counseling with their field office attorney.
-         - Subsequent incidents within a 24-month period would require further measures, up to and including indefinite loss of FISA access, reassignment to a new role, and/or referral to FBI’s Inspection Division to review potentially reckless conduct.
-       - Evaluating Field Office Executive Leadership on FISA Compliance:
-         - A new FISA Compliance “Field Office Health Measure” (FOHM) will take effect with the beginning of the new fiscal year in October 2023.  This new FOHM will ensure accountability across the leadership ranks for following the relevant FISA safeguards.
-         - Each year, field office executive leadership (i.e. special agents in charge and assistant directors in charge) are evaluated on a series of health measures for their field offices, which can affect eligibility for promotion and annual bonuses.
+        - New accountability procedures in June 2023 defining specific consequences for employees who fail to properly abide by policies the FBI has put in place:
+          - An initial incident would trigger immediate suspension of FISA access while employee: (1) retakes all mandatory FISA training, (2) executes a signed certification that will be placed in the employee’s personnel files, and (3) receives mandatory one-on-one counseling with their field office attorney.
+          - Subsequent incidents within a 24-month period would require further measures, up to and including indefinite loss of FISA access, reassignment to a new role, and/or referral to FBI’s Inspection Division to review potentially reckless conduct.
+        - Evaluating Field Office Executive Leadership on FISA Compliance:
+          - A new FISA Compliance “Field Office Health Measure” (FOHM) will take effect with the beginning of the new fiscal year in October 2023.  This new FOHM will ensure accountability across the leadership ranks for following the relevant FISA safeguards.
+          - Each year, field office executive leadership (i.e. special agents in charge and assistant directors in charge) are evaluated on a series of health measures for their field offices, which can affect eligibility for promotion and annual bonuses.
           
 
 - ## Room 641A
