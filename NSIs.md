@@ -62,7 +62,7 @@ Notes:
         - [MCT](https://github.com/aumf/files/blob/main/NSIs.md#mct)
       - ["Backdoor searches" myth](https://github.com/aumf/files/blob/main/NSIs.md#backdoor-searches-myth)
       - [Batch queries](https://github.com/aumf/files/blob/main/NSIs.md#batch-queries)
-      - [2021/2022 reform compliance]()
+      - [2021/2022 reform compliance](https://github.com/aumf/files/blob/main/NSIs.md#20212022-reform-compliance)
 - [Room 641A](https://github.com/aumf/files/blob/main/NSIs.md#room-641a)
 - [TIA](https://github.com/aumf/files/blob/main/NSIs.md#tia)
 - [12333](https://github.com/aumf/files/blob/main/NSIs.md#12333)
