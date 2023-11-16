@@ -397,7 +397,7 @@ file."<sup>[[10]](https://oig.justice.gov/sites/default/files/reports/a20047.pdf
         - Page 93: the Court cited “recent indications that the FBI is improving its implementation of Section 702 querying requirements” when finding the FBI’s querying and minimization procedures to be consistent with the statute and the Fourth Amendment.
 
         The Court found the FBI’s compliance rate with the query standard to be over 98%  after our reforms were implemented.  
-        Page 84/85: The Court calculated the FBI’s rate of non-compliance with the query standard as about 1.7% for queries against Section 702 data, and about 1.8% for all FISA queries.
+        - Page 84/85: The Court calculated the FBI’s rate of non-compliance with the query standard as about 1.7% for queries against Section 702 data, and about 1.8% for all FISA queries.
 
         - New accountability procedures in June 2023 defining specific consequences for employees who fail to properly abide by policies the FBI has put in place:
           - An initial incident would trigger immediate suspension of FISA access while employee: (1) retakes all mandatory FISA training, (2) executes a signed certification that will be placed in the employee’s personnel files, and (3) receives mandatory one-on-one counseling with their field office attorney.
@@ -406,7 +406,6 @@ file."<sup>[[10]](https://oig.justice.gov/sites/default/files/reports/a20047.pdf
           - A new FISA Compliance “Field Office Health Measure” (FOHM) will take effect with the beginning of the new fiscal year in October 2023.  This new FOHM will ensure accountability across the leadership ranks for following the relevant FISA safeguards.
           - Each year, field office executive leadership (i.e. special agents in charge and assistant directors in charge) are evaluated on a series of health measures for their field offices, which can affect eligibility for promotion and annual bonuses.
           
-
 - ## Room 641A
   In 2006, AT&T technician, Mark Klein, claimed this room was part of AT&T's effort to send data to the NSA. As a result, EFF filed a lawsuit against the company. In Jewel v NSA, on April 25, 2019, ruling from the Northern District of California, the Court concluded that the evidence presented by the plaintiff's experts was insufficient; "the Court confirms its earlier finding that Klein cannot establish the content, function, or purpose of the secure room at the AT&T site based on his own independent knowledge." Lastly, the documents attached to Klein’s declaration are not excepted from the hearsay objection on the basis that they are admissible business records. The timing of the creation of these attachments indicate that they were not simultaneous records of acts or events that were occurring at or around the time of the documents’ creation." The ruling noted, "Klein can only speculate about what data were actually processed and by whom in the secure room and how and for what purpose, as he was never involved in its operation." The Court further went on to discredit other experts called upon, citing their heavy reliance on the Klein declaration.<sup>[[1]](https://www.eff.org/files/2019/04/25/2019-04-25_order_dckt_462_0.pdf)</sup></sup> 
   
