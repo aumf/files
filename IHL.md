@@ -146,6 +146,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Practitioners Guide To Human Rights Law In Armed Conflict](https://global.oup.com/academic/product/practitioners-guide-to-human-rights-law-in-armed-conflict-9780198791393?lang=en&cc=us)
 - [Operational Law Handbook, 2022](https://tjaglcs.army.mil/documents/35956/56931/2022+Operational+Law+Handbook.pdf/4e10836e-2399-eb81-768f-7de8f6e03dc5?t=1652119179075)
 - [DoD Law of War Manual, 2016 update](https://dod.defense.gov/Portals/1/Documents/pubs/DoD%20Law%20of%20War%20Manual%20-%20June%202015%20Updated%20Dec%202016.pdf?ver=2016-12-13-172036-190)
+- [The Law of War: A Detailed Assessment of the US Department of Defense Law of War Manual](https://www.cambridge.org/core/books/law-of-war/21AA1936B69A20177E690CD1E19F9DC3)
 - [The Role of nato’s Legal Adviser ](https://brill.com/view/book/edcoll/9789004280304/B9789004280304-s017.xml)
 - [Danish Law of War manual, English](https://forsvaret.dk/globalassets/fko---forsvaret/dokumenter/publikationer/-military-manual-updated-2020-2.pdf)
 - [Protection of civilians—military reference guide](https://publications.armywarcollege.edu/pubs/3520.pdf)
