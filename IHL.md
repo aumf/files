@@ -129,7 +129,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Aerial Blockades in Historical, Legal and Practical Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1600662)
 - [The Gulf War: A Practitioner's View](https://elibrary.law.psu.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1296&context=psilr)
 - [Lessons from the 1986 Libya Airstrike](https://heinonline.org/HOL/LandingPage?handle=hein.journals/newlr36&div=39&id=&page=)
-- [ Air War and the Law of War](https://heinonline.org/HOL/LandingPage?handle=hein.journals/airfor32&div=4&id=&page=)
+- [Air War and the Law of War](https://babel.hathitrust.org/cgi/pt?id=osu.32437010638050&seq=11&view=1up)
 
 
 ## ICC
