@@ -127,6 +127,9 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Clipped Wings: Effective and Legal No-Fly Zone Rules of Engagement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1603799)
 - [Targeting Narcoinsurgents in Afghanistan: The Limits of International Humanitarian Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1600255)
 - [Aerial Blockades in Historical, Legal and Practical Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1600662)
+- [The Gulf War: A Practitioner's View](https://elibrary.law.psu.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1296&context=psilr)
+- [Lessons from the 1986 Libya Airstrike](https://heinonline.org/HOL/LandingPage?handle=hein.journals/newlr36&div=39&id=&page=)
+- [ Air War and the Law of War](https://heinonline.org/HOL/LandingPage?handle=hein.journals/airfor32&div=4&id=&page=)
 
 
 ## ICC
