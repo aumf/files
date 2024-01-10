@@ -27,11 +27,7 @@ Notes:
 - [Gaps 9/11 revealed](https://github.com/aumf/files/blob/main/NSIs.md#gaps-911-revealed)
 - [Immediate Solution, 6 Oct 2001](https://github.com/aumf/files/blob/main/NSIs.md#immediate-solution-6-oct-2001)
   - [Stellarwind](https://github.com/aumf/files/blob/main/NSIs.md#stellarwind)
-    - [Collection](https://github.com/aumf/files/blob/main/NSIs.md#collection) 
-    - [Oversight](https://github.com/aumf/files/blob/main/NSIs.md#oversight)
-      - [Basket 1](https://github.com/aumf/files/blob/main/NSIs.md#basket-1)
-      - [Basket 2](https://github.com/aumf/files/blob/main/NSIs.md#basket-2)
-      - [Basket 3](https://github.com/aumf/files/blob/main/NSIs.md#basket-3)
+   - [Oversight](https://github.com/aumf/files/blob/main/NSIs.md#oversight)
 - [Patriot Act, 26 Oct 2001](https://github.com/aumf/files/blob/main/NSIs.md#patriot-act-26-oct-2001)
   - [Section 213](https://github.com/aumf/files/blob/main/NSIs.md#section-213)
   - [Section 214](https://github.com/aumf/files/blob/main/NSIs.md#section-214)
@@ -176,18 +172,14 @@ file."<sup>[[10]](https://oig.justice.gov/sites/default/files/reports/a20047.pdf
     
     In addition, as PSP operations stabilized and the Authorization continued to be renewed, NSA management designed processes and procedures to implement the Program effectively while ensuring compliance with the Authorization and protecting U.S. person information. By April 2004, formal procedures were in place, many of which were more stringent than those used for non-PSP SIGINT operations. One analyst commented that the PSP "had more documentation than anything else she had ever been involved with."<sup>[[7]](https://ia801408.us.archive.org/31/items/PSPIGreports/newpspreport%20copy.pdf#page=36)</sup></sup> A CT Product Line employee stated: "... nowhere else did NSA have to report on selectors and how many selectors were rolled off [detasked] and why."<sup>[[8]](https://ia801408.us.archive.org/31/items/PSPIGreports/newpspreport%20copy.pdf#page=37)</sup></sup>
     
-    The value of the PSP was that SIGINT coverage provided confidence that someone was looking at the seam between the foreign and domestic intelligence domains to detect and prevent attacks in the United States.<sup>[[9]](https://ia801408.us.archive.org/31/items/PSPIGreports/newpspreport%20copy.pdf#page=28)</sup></sup>
-    
-    
-    - ##### Collection
-      There were 3 "baskets" of activity conducted under PSP: <sup>[[10]](https://sgp.fas.org/jud/statesec/jewel-fleisch.pdf#page=7)</sup></sup>
-      - ###### Basket 1
+    The value of the PSP was that SIGINT coverage provided confidence that someone was looking at the seam between the foreign and domestic intelligence domains to detect and prevent attacks in the United States.<sup>[[9]](https://ia801408.us.archive.org/31/items/PSPIGreports/newpspreport%20copy.pdf#page=28)</sup></sup> There were 3 "baskets" of activity conducted under PSP: <sup>[[10]](https://sgp.fas.org/jud/statesec/jewel-fleisch.pdf#page=7)</sup></sup>
+      - Basket 1
         Non-bulk content collection: The first Presidentially-authorized activity after the 9/11 attacks was the collection of the content of certain international communications (telephone and internet) reasonably believed to involve a member of a terrorist organization. From the outset this activity was limited by NSA to "one-end international" communications—that is, to or from the United States. This content collection activity was directed at groups engaged in international terrorism and, starting March 2004, was limited to international communications reasonably believed to involve an individual associated specifically with al Qaeda or its affiliated organizations. When publicly acknowledged in December 2005, this content collection activity was referred to as the "Terrorist Surveillance Program." The TSP authorization ended in February 2007 and was initially replaced by orders of the FISC, which were later supplanted by Congressional amendments to FISA that authorized the NSA to collect certain communications of non-US persons located overseas.
 
-      - ###### Basket 2
+      - Basket 2
         Telephony metadata: The second activity undertaken by the NSA after the 9/11 attacks pursuant to the same Presidential authorization, entailed the bulk collection of telephony "metadata"—which is information derived from call detail records that is limited to, the date, time and duration of the telephone calls, as well as the phone numbers used to place and receive the calls. This activity was transitioned to an order of the FISC starting in May 2006. 
 
-      - ###### Basket 3
+      - Basket 3
         Internet metadata: The third activity undertaken by the NSA after the 9/11 attacks, again pursuant to the same presidential authorization, was the bulk collection of internet metadata, which is: Header/router/addressing information, such as the "to," "from," "cc," and "bcc" lines on an email, as opposed to the content or subject lines of a standard email. As well as the size of the email and time it was sent. President Bush removed this activity from authorization due to internal concerns, on the 26 March, 2004. This activity was brought back by an order of the FISC starting in July 2004 after further modifications and added safeguards, until December 2011, when the NSA decided not to seek reauthorization of this activity.
         
       To conduct contact chaining under the PSP, the Authorization required that NSA meet one of the following conditions: 1) at least one party to the communication had to be outside the United States, 2) no party to the communication could be known to be a U.S. citizen, or 3) based on the factual and practical considerations of everyday life on which reasonable and prudent persons act, there were specific and articulable facts giving reason to believe that the communication relates to international terrorism or activities in preparation therefor. The Associate General Counsel for Operations said that OGC's guidance was more stringent than the Authorization in that the OGC always required that the third condition be met before contact chaining began. Analysts were required to establish a link with designated groups related to international terrorism, al-Qa'ida, or al-Qa'ida affiliates.<sup>[[11]](https://ia801408.us.archive.org/31/items/PSPIGreports/newpspreport%20copy.pdf#page=39)</sup></sup>
