@@ -34,7 +34,6 @@ Notes:
   - [Non-Bulk Section 215](https://github.com/aumf/files/blob/main/NSIs.md#non-bulk-section-215)
     - [Legal overview](https://github.com/aumf/files/blob/main/NSIs.md#legal-overview)
     - [Use, oversight and compliance](https://github.com/aumf/files/blob/main/NSIs.md#use-oversight-and-compliance)
-  - [Section 412](https://github.com/aumf/files/blob/main/NSIs.md#section-412)
 - [National Security Letters (NSLs)](https://github.com/aumf/files/blob/main/NSIs.md#national-security-letters-nsls)
   - [Legal overview](https://github.com/aumf/files/blob/main/NSIs.md#legal-overview-1)
   - [Use, oversight and compliance](https://github.com/aumf/files/blob/main/NSIs.md#use-oversight-and-compliance-1)
