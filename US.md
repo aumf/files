@@ -898,8 +898,9 @@ It should be noted that Belgium, while not directly involved in Lumumba's death,
 
 - It has been alleged that Abu Omar subject to a CIA rendition in Italy in 2003. There has been 0 evidence to confirm the allegation. However, even if it were true, the rendition is perfectly legal under international law. Indeed, the Italian judicial system violated international law, in respect to human rights.<sup>[[1]](https://harvardnsj.org/2010/11/all-human-rights-are-equal-but-some-are-more-equal-than-others-the-extraordinary-rendition-of-a-terror-suspect-in-italy-the-nato-sofa-and-human-rights/)</sup></sup>
 
-## The Yugoslav Wars. 
-For amore detailed examination, right click [here](https://github.com/aumf/files/blob/main/extras.md#yugoslav-wars) to open a new tab or window.
+- ## The Yugoslav Wars. 
+
+  For amore detailed examination, right click [here](https://github.com/aumf/files/blob/main/extras.md#yugoslav-wars) to open a new tab or window.
 
 - Able Archer, in 1983, didn't come close to starting a nuclear war, as many revisionists allege. Simon Miles, in his earth-shattering examination, reviewed declassified records from various countries to prove the origins of this claim stem from Soviet disinformation.<sup>[[1]](https://direct.mit.edu/jcws/article-abstract/22/3/86/95296/The-War-Scare-That-Wasn-t-Able-Archer-83-and-the?redirectedFrom=fulltext)</sup></sup> <sup>[[2]](https://networks.h-net.org/node/28443/discussions/7415273/h-diplo-article-review-1024-war-scare-wasn%E2%80%99t)</sup></sup>
 
