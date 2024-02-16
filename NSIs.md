@@ -66,9 +66,9 @@ Notes:
 - [Vulnerabilities Equities Process (VEP)](https://github.com/aumf/files/blob/main/NSIs.md#the-vulnerabilities-equities-process-vep)
 - [Watchlisting](https://github.com/aumf/files/blob/main/NSIs.md#watchlisting)
 - [2012 NCTC AGG](https://github.com/aumf/files/blob/main/NSIs.md#2012-nctc-agg)
-- [Terrorist Screening Center (TSC)]()
-- [CIA/NYPD]()
-- [miscellaneous allegations]()
+- [Terrorist Screening Center (TSC)](https://github.com/aumf/files/blob/main/NSIs.md#terrorist-screening-center-tsc)
+- [CIA/NYPD](https://github.com/aumf/files/blob/main/NSIs.md#cianypd)
+- [miscellaneous allegations](https://github.com/aumf/files/blob/main/NSIs.md#miscellaneous-allegations)
 - [PPD-28](https://github.com/aumf/files/blob/main/NSIs.md#ppd-28)
 - [Minimization & unmasking](https://github.com/aumf/files/blob/main/NSIs.md#minimization--unmasking) 
 - [Five Eyes](https://github.com/aumf/files/blob/main/NSIs.md#five-eyes)
@@ -453,7 +453,7 @@ file."<sup>[[10]](https://oig.justice.gov/sites/default/files/reports/a20047.pdf
     
   Several US Federal Appeals Courts have also confirmed that the TSDB falls within compliance to the Constitution..<sup>[[3]](https://www.ca4.uscourts.gov/opinions/201119.P.pdf)</sup></sup> <sup>[[4]](https://casetext.com/case/beydoun-v-sessions-1)</sup></sup> <sup>[[5]](https://casetext.com/case/abdi-v-wray-1)</sup></sup>
 
-  Between 2016 and 2017, Terry Albury leaked classified FBI information. His stated justification was that he was concerned that he was doing violated the 1st and 4th amendments of citizens with surveillance authorities. He leaked to the media, what he claimed was evidence of FBI wrong-doing, however, a cursory reading of the material confirms that he misled the public: 0 wrong-doing, 0 violation of privacy and civil liberties, 0 abuses, 0 violation of law or Constitution. Indeed, the documents extensively detail the protections US citizens and aliens in the US enjoy.<sup>[[1]](https://s3.documentcloud.org/documents/1233708/2013-watchlist-guidance.pdf)</sup></sup> <sup>[[2]](https://s3.documentcloud.org/documents/3423189/CT-Excerpt.pdf)</sup></sup>  <sup>[[3]](https://s3.documentcloud.org/documents/2934087/DIOG-Appendix-Media-NSLs.pdf)</sup></sup> <sup>[[4]](https://s3.documentcloud.org/documents/3416775/DIOG-Redactions-Marked-Redacted.pdf)</sup></sup>
+  Between 2016 and 2017, Terry Albury leaked classified FBI information. His stated justification was that he was concerned that he was doing violated the 1st and 4th amendments of citizens with surveillance authorities. He leaked to the media, what he claimed was evidence of FBI wrong-doing, however, a cursory reading of the material confirms that he misled the public: 0 wrong-doing, 0 violation of privacy and civil liberties, 0 abuses, 0 violation of law or Constitution. Indeed, the documents extensively detail the protections US citizens and aliens in the US enjoy.<sup>[[6]](https://s3.documentcloud.org/documents/1233708/2013-watchlist-guidance.pdf)</sup></sup> <sup>[[7]](https://s3.documentcloud.org/documents/3423189/CT-Excerpt.pdf)</sup></sup> <sup>[[8]](https://s3.documentcloud.org/documents/2934087/DIOG-Appendix-Media-NSLs.pdf)</sup></sup> <sup>[[9]](https://s3.documentcloud.org/documents/3416775/DIOG-Redactions-Marked-Redacted.pdf)</sup></sup>
   
 - ## 2012 NCTC AGG
   Congress established the National Counterterrorism Center (NCTC) within the Office of the Director of National Intelligence (ODNI) to integrate and analyze all intelligence possessed or acquired by the United States Government pertaining to terrorism, and to ensure that all agencies with a counterterrorism mission have access to that intelligence to perform their duties. In November, 2008, the DNI and the Attorney General approved guidelines governing how NCTC identifies terrorism information in datasets that other federal agencies have already lawfully obtained pursuant to their own authorities, and prescribing protections for the information to be shared with NCTC (the 2008 Guidelines).<sup>[[1]](https://sgp.fas.org/othergov/intel/nctc_guidelines.pdf)</sup></sup>
