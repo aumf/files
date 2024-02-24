@@ -172,3 +172,5 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Rules of Engagement and the International Law of Military Operations](https://global.oup.com/academic/product/rules-of-engagement-and-the-international-law-of-military-operations-9780198853886?cc=us&lang=en&#)
 - [The War on Terror and the Laws of War](https://global.oup.com/academic/product/the-war-on-terror-and--the-laws-of-war-9780199941452?lang=en&cc=us#)
 - [Fighting at the Legal Boundaries: Controlling the Use of Force in Contemporary Conflict](https://academic.oup.com/book/4151)
+- [The Law in War A Concise Overview, 2nd edition](https://www.routledge.com/The-Law-in-War-A-Concise-Overview/Corn-Watkin-Williamson/p/book/9780367764685)
+- [The Law of Armed Conflict: An Operational Approach](https://aspenpublishing.com/products/corn-conflict2)
