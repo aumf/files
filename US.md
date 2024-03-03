@@ -1495,7 +1495,7 @@ Exercises Desert Rock VII and VIII, the test groups, and AFSWC each developed it
 
 #### CIA
 ##### MKULTRA
-- There exists a rich universe of misleading allegations of MKULTRA, due to pop culture, and disinformation agents:
+- There exists a rich universe of misleading allegations of MKULTRA, due to pop culture, historical revisionists and disinformation agents, about MKULTRA. Here are the raw facts:
 
   CIA has had a recurring interest in behavioral drugs. The subject is of general interest because of the operational applications that could be made against Agency employees by hostile forces, for which there would be a defensive requirement, as well as for possible use against foreigners to influence their behavior. The earliest record of this interest dates to the post-WWII period when there were indications of Soviet interest in the use of drugs for such purposes, the most famous example being the bizarre confessions of Cardinal Mindszenty in February 1949. In the past, CIA's interest has taken form in 4 programs: Bluebird/artichoke, mkdelta/search.
 
