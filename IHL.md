@@ -175,3 +175,4 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The Law in War: A Concise Overview, 2nd edition](https://www.routledge.com/The-Law-in-War-A-Concise-Overview/Corn-Watkin-Williamson/p/book/9780367764685)
 - [The Law of Armed Conflict: An Operational Approach](https://aspenpublishing.com/products/corn-conflict2)
 - [The Law of Air, Space and Cyber operations, 4th ed.](https://www.afjag.af.mil/Portals/77/documents/Publications/AFOPSLAW%202020%20Web3c.pdf?ver=E_fCdUrdLtN4Upnj--Anfw%3D%3D)
+- [Nuclear Weapons Law: Where Are We Now?](https://www.cambridge.org/core/books/nuclear-weapons-law/nuclear-weapons-law/B206E71FD04DCF9D1A42A8F229B06A52)
