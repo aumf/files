@@ -547,7 +547,7 @@ US later invaded Afghanistan. Legal under US domestic & international law.<sup>[
 - Costa Rica, early 1970s. A landmark study found, "In contrast, the documentary record indicates that while Kissinger was occasionally informed of what was transpiring in Costa Rica, he was largely disengaged from the handling of the relationship. Nor is there any evidence of US involvement in coup plotting in Costa Rica. To the contrary, rather than humiliate Figueres, the United States restricted its major attempts to influence the Costa Rican president to private discussions."<sup>[[1]](https://www.tandfonline.com/doi/abs/10.1080/14682745.2019.1673372)</sup></sup>
 
 ## Iran/Contra
-   A lot of myths and conspiracy theories surround this topic. Often, people lump together: The "Iran/Contra affair" (also known as the Iran-Contra matter,) with the crack allegations, with the support to the democratic resistence movement, the Contras. In this subsection, I will address each in order: Context to support the Contras and the efforts to do so, then the affair itself, lastly ending with the drug allegations. This will provide a seemless factual narrative.
+   A lot of myths and conspiracy theories surround this topic. Often, people lump together: The "Iran/Contra affair" (also known as the Iran-Contra matter,) with the crack allegations, with the support to the democratic resistance movement, the Contras. In this subsection, I will address each in order: Context to support the Contras and the efforts to do so, then the affair itself, lastly ending with the drug allegations. This will provide a seamless factual narrative.
    
 #### Contra support:
 
