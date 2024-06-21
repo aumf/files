@@ -47,7 +47,7 @@ Notes:
   - [Patriot Act](https://github.com/aumf/files/blob/main/NSIs.md#patriot-act)
     - [Bulk PR/TT (basket 3), July 2004](https://github.com/aumf/files/blob/main/NSIs.md#bulk-prtt-basket-3-july-2004)
     - [Bulk BR 215 (basket 2), May 2006](https://github.com/aumf/files/blob/main/NSIs.md#bulk-br-215-basket-2-may-2006)
-  - [Content Orders/2007 Protect America Act](https://github.com/aumf/files/blob/main/NSIs.md#2007-protect-america-act)
+  - [Content Orders/2007 Protect America Act](https://github.com/aumf/files/blob/main/NSIs.md#content-orders2007-protect-america-act)
   - [2008 FISA Amendment Act](https://github.com/aumf/files/blob/main/NSIs.md#2008-fisa-amendment-act)
     - [Sec. 702 (basket 1)](https://github.com/aumf/files/blob/main/NSIs.md#sec-702-basket-1)
       - [Targeting, selector analysis, Adjudication, OtR](https://github.com/aumf/files/blob/main/NSIs.md#targeting-selector-analysis-adjudication-otr)
