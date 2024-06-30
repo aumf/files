@@ -71,7 +71,7 @@ Notes:
 - [miscellaneous allegations](https://github.com/aumf/files/blob/main/NSIs.md#miscellaneous-allegations)
 - [PPD-28](https://github.com/aumf/files/blob/main/NSIs.md#ppd-28)
 - [Minimization & unmasking](https://github.com/aumf/files/blob/main/NSIs.md#minimization--unmasking) 
-- [Parallel construction]()
+- [Parallel construction](https://github.com/aumf/files/blob/main/NSIs.md#parallel-construction)
 - [Five Eyes](https://github.com/aumf/files/blob/main/NSIs.md#five-eyes)
 - [Oversight](https://github.com/aumf/files/blob/main/NSIs.md#oversight-1)
   - [Congressional](https://github.com/aumf/files/blob/main/NSIs.md#congressional)
