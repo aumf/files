@@ -134,6 +134,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [New York Times, Law of War, and Congressional Overreach in U.S. Military OperationsMilitary Operation](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1132&context=clsops_papers)
 - [Recklessness, Intent, and War Crimes: Refining the Legal Standard and Clarifying the Role of International Criminal Tribunals as a Source of Customary International Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3703858)
 - [Fifth Anniversary of the Attack on the MSF Trauma Center in Kunduz, Afghanistan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814429)
+- [GAO Yemen Report Deficient in Applying International Law and U.S. Conventional Arms Transfer Policy](https://sites.duke.edu/lawfire/2022/06/16/brian-cox-on-gao-yemen-report-deficient-in-applying-international-law-and-u-s-conventional-arms-transfer-policy/)
 
 
 ## ICC
