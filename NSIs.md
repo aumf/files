@@ -63,7 +63,7 @@ Notes:
 - [12333](https://github.com/aumf/files/blob/main/NSIs.md#12333)
 - [Xkeyscore](https://github.com/aumf/files/blob/main/NSIs.md#xkeyscore)
 - [Stingrays](https://github.com/aumf/files/blob/main/NSIs.md#stingrays)
-- [Commercial data/CAI]()
+- [Commercial data/CAI](https://github.com/aumf/files/blob/main/NSIs.md#commercial-datacai)
 - [Vulnerabilities Equities Process (VEP)](https://github.com/aumf/files/blob/main/NSIs.md#the-vulnerabilities-equities-process-vep)
 - [Watchlisting](https://github.com/aumf/files/blob/main/NSIs.md#watchlisting)
 - [2012 NCTC AGG](https://github.com/aumf/files/blob/main/NSIs.md#2012-nctc-agg)
