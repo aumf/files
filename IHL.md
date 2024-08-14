@@ -137,6 +137,8 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [GAO Yemen Report Deficient in Applying International Law and U.S. Conventional Arms Transfer Policy](https://sites.duke.edu/lawfire/2022/06/16/brian-cox-on-gao-yemen-report-deficient-in-applying-international-law-and-u-s-conventional-arms-transfer-policy/)
 - [A Detailed Assessment of the Sexual Assault Prevalence Statistics at the Center of the Military Justice Reform Movement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3890527)
 - [Measuring the Effectiveness of the Proposal to Divest Military Commanders of Disposition Authority for Sexual Assault Cases: A Comparative Quantitative Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3853402)
+- [“Unwilling or Unable”](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3071&context=ils)
+
 
 
 ## ICC
@@ -183,3 +185,4 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The Law of Armed Conflict: An Operational Approach](https://aspenpublishing.com/products/corn-conflict2)
 - [The Law of Air, Space and Cyber operations, 4th ed.](https://www.afjag.af.mil/Portals/77/documents/Publications/AFOPSLAW%202020%20Web3c.pdf?ver=E_fCdUrdLtN4Upnj--Anfw%3D%3D)
 - [Nuclear Weapons Law: Where Are We Now?](https://www.cambridge.org/core/books/nuclear-weapons-law/nuclear-weapons-law/B206E71FD04DCF9D1A42A8F229B06A52)
+- [Annotated Supplement to the Commander’s Handbook on the Law of Naval Operations](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3084&context=ils)
