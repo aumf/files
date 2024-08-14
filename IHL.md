@@ -139,6 +139,8 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Measuring the Effectiveness of the Proposal to Divest Military Commanders of Disposition Authority for Sexual Assault Cases: A Comparative Quantitative Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3853402)
 - [“Unwilling or Unable”](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3071&context=ils)
 - [Conflict in Gregoria and Tanaka: The Law of Targeting](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3063&context=ils)
+- [Manifestly Unlawful: Why Russian Military Commanders Must Disobey a Nuclear Launch Order Against Ukraine](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3062&context=ils)
+  
 
 
 
