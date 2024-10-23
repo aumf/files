@@ -20,7 +20,7 @@ _[Legal Definition](https://web.archive.org/web/20200825130159/https://www.un.or
 
 - "There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that my ignorance is just as good as your knowledge." - Isaac Asimov
 
-- “Most people would rather die than think and many of them do!” ” ― Bertrand Russell, The ABC of Relativity 
+- “Most people would rather die than think and many of them do!” ― Bertrand Russell, The ABC of Relativity 
 
 - "Around the world, the United States has promoted freedom: We have worked to expand the protection of human rights, end gender-based violence, and defend the freedoms of expression, peaceful assembly, and the press. In promoting these liberties and pushing back against tyranny, corruption, and oppression, we have recognized that universal human rights and fundamental freedoms do not stop at our borders. They are the birthright of people everywhere." – President Barack  Obama, Presidential Proclamation - Human Rights Day and Human Rights Week, 2016.
 
