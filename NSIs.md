@@ -589,7 +589,11 @@ file."<sup>[[10]](https://oig.justice.gov/sites/default/files/reports/a20047.pdf
     As Chairman of the Committee, I appreciate the efforts taken by the Executive Branch to keep the Committee fully informed regarding the implementation of the FAA and for its continued willingness to brief Members of Congress as we consider legislation to extend those provisions of the law set to expire on December 31, 2012.
     
     Collectively, the assessments, reports, and other information obtained by the Committee demonstrate that the government implements the FAA surveillance authorities in a responsible manner with relatively few incidents of non-compliance. Where such incidents have arisen, they have been the inadvertent result of human error or technical defect and have been promptly reported and remedied. Through four years of oversight, the Committee has not identified a single case in which a government official engaged in a wilful effort to circumvent or violate the law. Moreover, having reviewed opinions by the FISA Court, the Committee has also seen the seriousness with which the Court takes its responsibility to carefully consider Executive Branch applications for the exercise of FAA surveillance authorities."<sup>[[1]](https://www.intelligence.senate.gov/sites/default/files/publications/112174.pdf#page=7)</sup></sup>
-  
+
+    "Indeed, the record reflects that the DoJ’s and the FBI’s use of those authorities has been judicious and fully consistent with the law."<sup>[[2]](https://www.intelligence.senate.gov/sites/default/files/publications/10985.pdf#page=2)</sup></sup>
+
+    "We believe this provision has contributed substantially to our counterterrorism successes since its inception, and that it has been operated in a lawful, careful manner."<sup>[[3]](https://www.intelligence.senate.gov/press/statement-chairmen-and-ranking-members-senate-and-house-intelligence-committees)</sup></sup>
+
   - ### Executive
     - #### DOJ/ODNI
       The Joint DOJ/ODNI reviews concern all SIGINT activity, not just limited to FISA.
