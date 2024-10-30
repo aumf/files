@@ -1,4 +1,4 @@
-# Myths about FISA, Patriot Act & Post-9/11 National Security Investigations debunked
+# Myths about FISA, Patriot Act & Post-9/11 Surveillance debunked
 [The Bullshit asymmetry principle, or Brandolini's law](https://www.nature.com/articles/540171a):
 > The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
 ___
