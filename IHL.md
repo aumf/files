@@ -189,3 +189,4 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The Law of Air, Space and Cyber operations, 4th ed.](https://www.afjag.af.mil/Portals/77/documents/Publications/AFOPSLAW%202020%20Web3c.pdf?ver=E_fCdUrdLtN4Upnj--Anfw%3D%3D)
 - [Nuclear Weapons Law: Where Are We Now?](https://www.cambridge.org/core/books/nuclear-weapons-law/nuclear-weapons-law/B206E71FD04DCF9D1A42A8F229B06A52)
 - [Annotated Supplement to the Commander’s Handbook on the Law of Naval Operations](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3084&context=ils)
+- [Rules and Commentaries on Jus Ad Bellum](https://westpointpress.com/jus-ad-bellum)
