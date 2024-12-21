@@ -16,7 +16,7 @@ A number of myths persist to this day, on a wide-range of Federal, State, and lo
   - [CW](https://github.com/aumf/files/blob/main/hr.md#cw)
   - [Radication/nuclear](https://github.com/aumf/files/blob/main/hr.md#radiation)
 - [CIA](https://github.com/aumf/files/blob/main/hr.md#cia)
-- [Civilian]()
+- [Civilian](https://github.com/aumf/files/blob/main/hr.md#civilian)
    
 <!-- tocstop -->
 ---
