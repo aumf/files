@@ -1,21 +1,26 @@
+# Human research, 1932-1990
+[The Bullshit asymmetry principle, or Brandolini's law](https://www.nature.com/articles/540171a):
+> The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Human research, 1932-1990
 A number of myths persist to this day, on a wide-range of Federal, State, and local government activities in human research, from WW2, to the Cold War—this is due to highly inaccurate, sensationalist headlines. Ranging from Biological, Chemical and radiation research—through the Military, CIA, and civilian institutions. Overall, the scientific consensus has been that all these experiments have been safe, in the short and long-term. Informed consent was provided in the vast majority of cases, with only a few unknowns. Nor was research conducted haphazardly, or with little regard for safety or ethics.
+
+
+---
+
+## Contents
+
+<!-- toc -->
+
+- [US Military])
+  - [BW]()
+  - [CW]()
+  - [Radication/nuclear]()
+- [CIA]()
+- [Civilian]()
+   
+<!-- tocstop -->
+---
+
 
 #### US Military 
 ##### BW
