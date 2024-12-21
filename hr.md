@@ -11,7 +11,7 @@ A number of myths persist to this day, on a wide-range of Federal, State, and lo
 
 <!-- toc -->
 
-- [US Military]()
+- [US Military](https://github.com/aumf/files/blob/main/hr.md#us-military)
   - [BW]()
   - [CW]()
   - [Radication/nuclear]()
