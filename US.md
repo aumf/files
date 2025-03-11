@@ -20,7 +20,9 @@ _[Legal Definition](https://web.archive.org/web/20200825130159/https://www.un.or
 
 - "There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that my ignorance is just as good as your knowledge." - Isaac Asimov
 
-- “Most people would rather die than think and many of them do!” ― Bertrand Russell, The ABC of Relativity 
+- “Most people would rather die than think and many of them do!” ― Bertrand Russell, The ABC of Relativity
+
+- "What is legal is not necessarily moral and what is moral is not always legal; but, particularly with regard to the law of war, the two are inextricably intertwined." - William Hays Parks
 
 - "Around the world, the United States has promoted freedom: We have worked to expand the protection of human rights, end gender-based violence, and defend the freedoms of expression, peaceful assembly, and the press. In promoting these liberties and pushing back against tyranny, corruption, and oppression, we have recognized that universal human rights and fundamental freedoms do not stop at our borders. They are the birthright of people everywhere." – President Barack  Obama, Presidential Proclamation - Human Rights Day and Human Rights Week, 2016.
 
@@ -57,6 +59,7 @@ Putting aside misinformed, initial moral outrage in order to learn the facts, nu
 - Afghanistan is under the Middle East for ease of reference to those unfamiliar with it technically being South Central Asia.
 - AR 15-6 investigations, to the uninformed mind, can appear to lack independence—however, this is almost never the case and the fact-finding provided by them is invaluable. There has been revisions to AR 15-6 to adequately address such concerns.<sup>[[1]](https://tjaglcspublic.army.mil/documents/27431/7766454/2017-WINTER-Administrative+Investigations+in+an+Era+of+Increased+Government+Scrutiny.pdf/f3ad2420-f4cd-4a00-8188-9a86bfbb9613)</sup></sup> Other investigative authorities exist, such as formal Court of Inquiry or an Inspector General, etc.
 - The “Rendulic Rule:” The Rendulic case also stands for a broader standard regarding liability for battlefield acts: commanders and personnel should be evaluated based on information reasonably available at the time of decision.<sup>[[1]](https://tjaglcs.army.mil/documents/35956/56931/2022+Operational+Law+Handbook.pdf/4e10836e-2399-eb81-768f-7de8f6e03dc5?t=1652119179075)</sup></sup>
+
 ---
 
 ## Alleged Imperialism
