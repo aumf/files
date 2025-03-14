@@ -8,6 +8,9 @@ ___
 
   "The Review Group found no evidence of illegality or other abuse of authority for the purpose of targeting domestic political activity."<sup>[[2]](https://web.archive.org/web/20170120004324/https://www.whitehouse.gov/sites/default/files/docs/2013-12-12_rg_final_report.pdf)</sup></sup>
 
+"Indeed, each year the government notifies the Court of numerous compliance incidents involving good-faith mistakes and omissions by NSA personnel who work with the Section 702 collection." - Judge Bates, 2011<sup>[[3]](https://www.aclu.org/sites/default/files/field_document/October%202011%20John%20Bates%20FISC%20Opinion.pdf#page=60)</sup></sup>
+  
+
 ---
 Due to the media and NGO sensationalist reporting concerning a series of leaked documents, from Edward Snowden: blogs and NGOs, TV shows and other forms of information consumption have grossly misunderstood NSA and FBI's capabilities and authorities after September 11, 2001. The misunderstanding didn't help from the fact that Snowden himself, was a contracted, low-end IT systems administrator who never worked directly with any programs concerned in the leaked material. His fatal misunderstanding led to a flood of falsehoods. The conclusion of a critical examination of the leaked material, confirms exactly what the Government has always said, matching perfectly with the unclassified and declassified record—totally refuting Snowden's narrative. This repository will also cover many issues not subject to Snowden's disclosure, pre and post.
 
