@@ -140,6 +140,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [“Unwilling or Unable”](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3071&context=ils)
 - [Conflict in Gregoria and Tanaka: The Law of Targeting](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3063&context=ils)
 - [Manifestly Unlawful: Why Russian Military Commanders Must Disobey a Nuclear Launch Order Against Ukraine](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3062&context=ils)
+- [Administrative investigations in an era of increased government scrutiny: An analysis of Army Regulation 15-6 and its perceived lack of independence](https://web.archive.org/web/20221011195318/https://tjaglcspublic.army.mil/documents/27431/7766454/2017-WINTER-Administrative+Investigations+in+an+Era+of+Increased+Government+Scrutiny.pdf/f3ad2420-f4cd-4a00-8188-9a86bfbb9613)
   
 
 
