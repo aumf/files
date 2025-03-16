@@ -8,7 +8,7 @@ A note on sources: This repository only cites peer-reviewed, mainstream academic
 
 Not all governments are equally transparent or accountable.
 
-__Disclaimer:__ This project isn't an attempt to whitewash or deny when actual atrocities, or wrong-doing by the US Government, has occurred. One can simply look at racial segregation, slavery, or the early treatment of natives, as some examples (hence not covered here). However, by and large, the US has maintained a very good track record on human rights. When it falters, accountability swiftly follows. 
+__Disclaimer:__ This project isn't an attempt to whitewash or deny when actual atrocities, or wrong-doing by the US Government, has occurred. One can simply look at racial segregation, slavery, the early treatment of natives, or the 2nd Trump administration, as some examples (hence not covered here). However, by and large, the US has maintained a very good track record on human rights. When it falters, accountability swiftly follows. 
 
 ---
 
