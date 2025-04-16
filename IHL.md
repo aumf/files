@@ -143,6 +143,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Administrative investigations in an era of increased government scrutiny: An analysis of Army Regulation 15-6 and its perceived lack of independence](https://web.archive.org/web/20221011195318/https://tjaglcspublic.army.mil/documents/27431/7766454/2017-WINTER-Administrative+Investigations+in+an+Era+of+Increased+Government+Scrutiny.pdf/f3ad2420-f4cd-4a00-8188-9a86bfbb9613)
 - [Targeting, Distinction, and the Long War: Guarding Against Conflation of Cause and Responsibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889620)
 - [Targeting and the Concept of Intent](https://scholarship.law.cornell.edu/facpub/774/)
+- [Law-of-War Precautions: A Cautionary Note](https://academic.oup.com/book/32410/chapter-abstract/268714019?redirectedFrom=fulltext&login=false)
   
 
 
@@ -193,3 +194,4 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Nuclear Weapons Law: Where Are We Now?](https://www.cambridge.org/core/books/nuclear-weapons-law/nuclear-weapons-law/B206E71FD04DCF9D1A42A8F229B06A52)
 - [Annotated Supplement to the Commander’s Handbook on the Law of Naval Operations](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3084&context=ils)
 - [Rules and Commentaries on Jus Ad Bellum](https://westpointpress.com/jus-ad-bellum)
+- [The Impact of Emerging Technologies on the Law of Armed Conflict](https://academic.oup.com/book/32410)
