@@ -144,6 +144,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Targeting, Distinction, and the Long War: Guarding Against Conflation of Cause and Responsibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889620)
 - [Targeting and the Concept of Intent](https://scholarship.law.cornell.edu/facpub/774/)
 - [Law-of-War Precautions: A Cautionary Note](https://academic.oup.com/book/32410/chapter-abstract/268714019?redirectedFrom=fulltext&login=false)
+- [The Genesis and Significance of the Law of War “Rendulic Rule”](https://link.springer.com/chapter/10.1007/978-94-6265-611-6_7)
   
 
 
