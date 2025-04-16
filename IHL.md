@@ -1,4 +1,4 @@
-# List of scholarly publications and treatises on International Humanitarian Law (IHL), otherwise known as Law of Armed Conflict (LOAC).
+# List of scholarly publications and treatises on International Humanitarian Law (IHL), otherwise known as Law of Armed Conflict (LOAC)
 These will aid those interested in LOAC as it relates to some of the lists and essays in the repository. From lay person, beginner and advanced readers will find the list of materials here most useful. 
 
 # Contents
