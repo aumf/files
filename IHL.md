@@ -1,6 +1,8 @@
 # List of scholarly publications and treatises on International Humanitarian Law (IHL), otherwise known as Law of Armed Conflict (LOAC)
 These will aid those interested in LOAC as it relates to some of the lists and essays in the repository. From lay person, beginner and advanced readers will find the list of materials here most useful. 
 
+"What is legal is not necessarily moral and what is moral is not always legal; but, particularly with regard to the law of war, the two are inextricably intertwined." - William Hays Parks
+
 # Contents
 
 - [Papers & expert commentary](https://github.com/aumf/files/blob/main/IHL.md#papers)
