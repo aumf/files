@@ -142,6 +142,9 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Manifestly Unlawful: Why Russian Military Commanders Must Disobey a Nuclear Launch Order Against Ukraine](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3062&context=ils)
 - [Administrative investigations in an era of increased government scrutiny: An analysis of Army Regulation 15-6 and its perceived lack of independence](https://web.archive.org/web/20221011195318/https://tjaglcspublic.army.mil/documents/27431/7766454/2017-WINTER-Administrative+Investigations+in+an+Era+of+Increased+Government+Scrutiny.pdf/f3ad2420-f4cd-4a00-8188-9a86bfbb9613)
 - [Targeting, Distinction, and the Long War: Guarding Against Conflation of Cause and Responsibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889620)
+- [Recklessness, Intent, and War Crimes: Refining the Legal Standard and Clarifying the Role of International Criminal Tribunals as a Source of Customary International Law
+](https://scholarship.law.cornell.edu/facpub/1737/)
+- [Targeting and the Concept of Intent](https://scholarship.law.cornell.edu/facpub/774/)
   
 
 
