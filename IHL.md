@@ -160,6 +160,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Jus in Bello Futura ignotus: The United States, the International Criminal Court, and the uncertain future of the Law of Armed Conflict](https://web.archive.org/web/20170131093317/https://www.jagcnet.army.mil/DOCLIBS/MILITARYLAWREVIEW.NSF/20a66345129fe3d885256e5b00571830/7caab5aad6a5fea585257f33004ed107/$FILE/7.%20%20By%20Lieutenant%20Colonel%20James%20T.%20Hill.pdf)
 - [Exercise Jurisdiction at the Edge—What Happens Next? An Analysis of International Criminal Court Substantive Law as Applied to Non-Party State Nationals](https://tjaglcspublic.army.mil/documents/27431/16066286/2020-Issue-3-Exercising+Jurisdiction+at+the+Edge.pdf/6863edf3-9e30-450a-89e2-eddf45861ecc)
 - [The ICC Wants Justice But Has No Mandate](https://www.justsecurity.org/71015/the-icc-wants-justice-but-has-no-mandate/)
+- [ICC Inability Determinations in Light of the Dujail Case](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=993540)
 
 ## Treatises 
 - [U. S. Military Operations Law, Policy, And Practice](https://global.oup.com/academic/product/us-military-operations-9780199328574?cc=us&lang=en)
