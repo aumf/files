@@ -148,6 +148,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Law-of-War Precautions: A Cautionary Note](https://academic.oup.com/book/32410/chapter-abstract/268714019?redirectedFrom=fulltext&login=false)
 - [The Genesis and Significance of the Law of War “Rendulic Rule”](https://link.springer.com/chapter/10.1007/978-94-6265-611-6_7)
 - [The Rule of Law in Armed Conflict](https://minnjil.org/wp-content/uploads/2025/03/10.-Hitoshi-Nasu_v34n1_237-279.pdf)
+- [Tethering the Law of Armed Conflict to Operational Practice: 'Organized Armed Group' Membership in the Age of ISIS](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315725)
   
 
 
