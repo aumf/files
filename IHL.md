@@ -180,6 +180,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Exercise Jurisdiction at the Edge—What Happens Next? An Analysis of International Criminal Court Substantive Law as Applied to Non-Party State Nationals](https://tjaglcspublic.army.mil/documents/27431/16066286/2020-Issue-3-Exercising+Jurisdiction+at+the+Edge.pdf/6863edf3-9e30-450a-89e2-eddf45861ecc)
 - [The ICC Wants Justice But Has No Mandate](https://www.justsecurity.org/71015/the-icc-wants-justice-but-has-no-mandate/)
 - [ICC Inability Determinations in Light of the Dujail Case](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=993540)
+- [Fundamental concerns: Why the US Government should not accede to the Rome Statute](https://stjececmsdusgva001.blob.core.usgovcloudapi.net/public/documents/NavalReviewVol.63.pdf#page=96)
 
 ## Treatises 
 - [U. S. Military Operations Law, Policy, And Practice](https://global.oup.com/academic/product/us-military-operations-9780199328574?cc=us&lang=en)
