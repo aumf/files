@@ -164,12 +164,13 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - ["Change Direction" 2006: Israeli Operations in Lebanon and the International Law of Self-Defense](https://repository.law.umich.edu/mjil/vol29/iss2/1/)
 - [Floding Hamas tunnels: A legal assessment](https://lieber.westpoint.edu/flooding-hamas-tunnels-legal-assessment/)
 - [The ICRC's statement on the Israel-Hamas hostilities and violence: discerning the legal intricacies](https://lieber.westpoint.edu/icrc-statement-israel-hamas-hostilities-violence-discerning-legal-intricacies/)
+- [Report on United States law of armed conflict investigations and prosecution practices](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=486)
+- [Canada: Investigation and Prosecution of Alleged Violations of the Law of Armed Conflict](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=564)
+- [Australian law and practice relevant to investigation and prosecution of LOAC violations](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=644)
+- [Comparative study of other systems for investigating alleged LOAC breaches: The law of the United Kingdom](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=718)
+- [Investigating and prosecution of violations of the Law of Armed Conflict in Germany](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=802)
+- [Netherlands: investigating and prosecution of alleged violations of the Law of Armed Conflict](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=888)
     
-
-  
-  
-
-
 
 ## ICC
 - [Understanding the International Criminal Court](https://www.icc-cpi.int/sites/default/files/Publications/understanding-the-icc.pdf)
