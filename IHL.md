@@ -160,6 +160,10 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [White Phosphorus and international law](https://lieber.westpoint.edu/white-phosphorus-and-international-law/)
 - [Siege law and military necessity](https://lieber.westpoint.edu/siege-law-military-necessity/)
 - [Operational Challenges in Ground Operations in Urban Areas: An IDF Persphctive](https://scholarship.law.vanderbilt.edu/vjtl/vol51/iss3/7/)
+- [Preventive Detention for National Security Purposes in Israel](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3270294)
+- ["Change Direction" 2006: Israeli Operations in Lebanon and the International Law of Self-Defense](https://repository.law.umich.edu/mjil/vol29/iss2/1/)
+- [Floding Hamas tunnels: A legal assessment](https://lieber.westpoint.edu/flooding-hamas-tunnels-legal-assessment/)
+- [The ICRC's statement on the Israel-Hamas hostilities and violence: discerning the legal intricacies](https://lieber.westpoint.edu/icrc-statement-israel-hamas-hostilities-violence-discerning-legal-intricacies/)
     
 
   
