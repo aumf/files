@@ -155,6 +155,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Attacking Hamas, part 1, the context](https://lieber.westpoint.edu/attacking-hamas-part-i-context/)
 - [Attacking Hamas, part 2, the rules](https://lieber.westpoint.edu/attacking-hamas-part-ii-rules/)
 - [The evacuation of Northern Gaza: practical and legal aspects](https://lieber.westpoint.edu/evacuation-northern-gaza-practical-legal-aspects/)
+- [The Disproportionate Confusion About Proportionality](https://sites.duke.edu/lawfire/2023/10/26/geoff-corn-on-the-disproportionate-confusion-about-proportionality/)
   
   
 
