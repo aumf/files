@@ -173,6 +173,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The War Crime of Starvation – The Irony of Grasping at Low Hanging Fruit](https://lieber.westpoint.edu/war-crime-starvation-irony-grasping-low-hanging-fruit/)
 - [Twenty-First Century Embedded Journalists: Lawful Targets?](https://stjececmsdusgva001.blob.core.usgovcloudapi.net/public/documents/ALSJSEditionJuly2009.pdf#page=5)
 - [Distinction and Loss of Civilian Protection in International Armed Conflicts](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1148&context=ils)
+- [legal protection of the media in Armed Conflict: Gaza](https://lieber.westpoint.edu/legal-protection-media-armed-conflict-gaza/)
     
 
 ## ICC
