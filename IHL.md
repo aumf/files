@@ -221,3 +221,4 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Annotated Supplement to the Commander’s Handbook on the Law of Naval Operations](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3084&context=ils)
 - [Rules and Commentaries on Jus Ad Bellum](https://westpointpress.com/jus-ad-bellum)
 - [The Impact of Emerging Technologies on the Law of Armed Conflict](https://academic.oup.com/book/32410)
+- [Targeting and the Law of War Administrative Investigations & Criminal Law Supplement](https://www.court-martial-ucmj.com/files/2017/06/Targeting-and-the-Law-of-War-Admin-Investigation-and-Crim-Law-Supplement-30MAY17-Final-Approved.pdf)
