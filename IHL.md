@@ -170,6 +170,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Comparative study of other systems for investigating alleged LOAC breaches: The law of the United Kingdom](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=718)
 - [Investigating and prosecution of violations of the Law of Armed Conflict in Germany](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=802)
 - [Netherlands: investigating and prosecution of alleged violations of the Law of Armed Conflict](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=888)
+- [The War Crime of Starvation – The Irony of Grasping at Low Hanging Fruit](https://lieber.westpoint.edu/war-crime-starvation-irony-grasping-low-hanging-fruit/)
     
 
 ## ICC
