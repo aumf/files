@@ -176,6 +176,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [legal protection of the media in Armed Conflict: Gaza](https://lieber.westpoint.edu/legal-protection-media-armed-conflict-gaza/)
 - [Proportionality and Civilian Use of a Military Objective](https://opiniojuris.org/2021/06/24/proportionality-and-civilian-use-of-a-military-objective/)
 - [The Conduct of Hostilities and International Humanitarian Law: Challenges of 21st Century Warfare](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1709&context=ils)
+- [Legal and Policy Constraints on the Conduct of Aerial Precision Warfare](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1564&context=vjtl)
     
 
 ## ICC
