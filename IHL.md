@@ -159,7 +159,8 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [What is and is not a human shielding](https://lieber.westpoint.edu/what-is-and-is-not-human-shielding/)
 - [White Phosphorus and international law](https://lieber.westpoint.edu/white-phosphorus-and-international-law/)
 - [Siege law and military necessity](https://lieber.westpoint.edu/siege-law-military-necessity/)
-  
+- [Operational Challenges in Ground Operations in Urban Areas: An IDF Persphctive](https://scholarship.law.vanderbilt.edu/vjtl/vol51/iss3/7/)
+    
 
   
   
