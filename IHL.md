@@ -156,7 +156,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Attacking Hamas, part 2, the rules](https://lieber.westpoint.edu/attacking-hamas-part-ii-rules/)
 - [The evacuation of Northern Gaza: practical and legal aspects](https://lieber.westpoint.edu/evacuation-northern-gaza-practical-legal-aspects/)
 - [The Disproportionate Confusion About Proportionality](https://sites.duke.edu/lawfire/2023/10/26/geoff-corn-on-the-disproportionate-confusion-about-proportionality/)
-- [What is and is not a human shielding](https://lieber.westpoint.edu/what-is-and-is-not-human-shielding/)
+- [What is and is not human shielding](https://lieber.westpoint.edu/what-is-and-is-not-human-shielding/)
 - [White Phosphorus and international law](https://lieber.westpoint.edu/white-phosphorus-and-international-law/)
 - [Siege law and military necessity](https://lieber.westpoint.edu/siege-law-military-necessity/)
 - [Operational Challenges in Ground Operations in Urban Areas: An IDF Persphctive](https://scholarship.law.vanderbilt.edu/vjtl/vol51/iss3/7/)
