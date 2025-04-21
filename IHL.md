@@ -174,6 +174,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Twenty-First Century Embedded Journalists: Lawful Targets?](https://stjececmsdusgva001.blob.core.usgovcloudapi.net/public/documents/ALSJSEditionJuly2009.pdf#page=5)
 - [Distinction and Loss of Civilian Protection in International Armed Conflicts](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1148&context=ils)
 - [legal protection of the media in Armed Conflict: Gaza](https://lieber.westpoint.edu/legal-protection-media-armed-conflict-gaza/)
+- [Proportionality and Civilian Use of a Military Objective](https://opiniojuris.org/2021/06/24/proportionality-and-civilian-use-of-a-military-objective/)
     
 
 ## ICC
