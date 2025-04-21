@@ -150,6 +150,12 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The Rule of Law in Armed Conflict](https://minnjil.org/wp-content/uploads/2025/03/10.-Hitoshi-Nasu_v34n1_237-279.pdf)
 - [Tethering the Law of Armed Conflict to Operational Practice: 'Organized Armed Group' Membership in the Age of ISIS](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315725)
 - [Are Targeted Killings Unlawful? A Case Study in Empirical Claims Without Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1954795)
+- [Inside IDF targeting](https://lieber.westpoint.edu/inside-idf-targeting/)
+- [The IDF, Hamas, and the duty to warn](https://lieber.westpoint.edu/idf-hamas-duty-to-warn/)
+- [Attacking Hamas, part 1, the context](https://lieber.westpoint.edu/attacking-hamas-part-i-context/)
+- [Attacking Hamas, part 2, the rules](https://lieber.westpoint.edu/attacking-hamas-part-ii-rules/)
+- [The evacuation of Northern Gaza: practical and legal aspects](https://lieber.westpoint.edu/evacuation-northern-gaza-practical-legal-aspects/)
+  
   
 
 
