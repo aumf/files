@@ -133,7 +133,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Lessons from the 1986 Libya Airstrike](https://heinonline.org/HOL/LandingPage?handle=hein.journals/newlr36&div=39&id=&page=)
 - [Air War and the Law of War](https://babel.hathitrust.org/cgi/pt?id=osu.32437010638050&seq=11&view=1up)
 - [Representative Sara Jacobs and Senator Dick Durbin Take Aim at the DoD Law of War Manual—and Miss](https://community.lawschool.cornell.edu/wp-content/uploads/2024/04/Cox-final.pdf)
-- [New York Times, Law of War, and Congressional Overreach in U.S. Military OperationsMilitary Operation](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1132&context=clsops_papers)
+- [New York Times, Law of War, and Congressional Overreach in U.S. Military Operations](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1132&context=clsops_papers)
 - [Recklessness, Intent, and War Crimes: Refining the Legal Standard and Clarifying the Role of International Criminal Tribunals as a Source of Customary International Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3703858)
 - [Fifth Anniversary of the Attack on the MSF Trauma Center in Kunduz, Afghanistan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814429)
 - [GAO Yemen Report Deficient in Applying International Law and U.S. Conventional Arms Transfer Policy](https://sites.duke.edu/lawfire/2022/06/16/brian-cox-on-gao-yemen-report-deficient-in-applying-international-law-and-u-s-conventional-arms-transfer-policy/)
