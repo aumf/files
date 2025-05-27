@@ -179,6 +179,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Legal and Policy Constraints on the Conduct of Aerial Precision Warfare](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1564&context=vjtl)
 - [Judging Battlefield Conduct](https://lieber.westpoint.edu/judging-battlefield-conduct/)
 - [Civilian Evacuations and the Law of Armed Conflict](https://lieber.westpoint.edu/civilian-evacuations-law-armed-conflict/)
+- [Prize Law and the Unique Nature of the Law of Naval Warfare: Comments on Recent Israeli Jurisprudence](https://brill.com/edcollchap/book/9789004532298/BP000007.xml)
     
 
 ## ICC
