@@ -193,6 +193,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The Prosecutor’s Circumvention of Article 18 Complementarity? A Flaw in the ICC’s Palestine Investigation](https://www.justsecurity.org/96296/icc-article-18-complementarity/)
 - [The ICC Palestine Case in the Aftermath of the Arrest Warrants Decisions – Part One](https://lieber.westpoint.edu/icc-palestine-case-aftermath-arrest-warrants-decisions-part-one/)
 - [The Prosecutor’s Uphill Legal Battle?: The Netanyahu and Gallant ICC Arrest Warrant Requests](https://www.justsecurity.org/96135/the-prosecutors-uphill-legal-battle-the-netanyahu-and-gallant-icc-arrest-warrant-requests/)
+- [The Looming Demise of the ICC's Complementarity Principle: Israel, U.S. Interests, and the Court's Future](https://scholarlycommons.law.emory.edu/cgi/viewcontent.cgi?article=1010&context=eilr-recent-developments)
 
 ## Treatises 
 - [U. S. Military Operations Law, Policy, And Practice](https://global.oup.com/academic/product/us-military-operations-9780199328574?cc=us&lang=en)
