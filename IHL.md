@@ -188,6 +188,10 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The ICC Wants Justice But Has No Mandate](https://www.justsecurity.org/71015/the-icc-wants-justice-but-has-no-mandate/)
 - [ICC Inability Determinations in Light of the Dujail Case](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=993540)
 - [Fundamental concerns: Why the US Government should not accede to the Rome Statute](https://stjececmsdusgva001.blob.core.usgovcloudapi.net/public/documents/NavalReviewVol.63.pdf#page=96)
+- [In Search of Complementarity: Israel’s Possible Responses to ICC Arrest Warrants](https://www.lawfaremedia.org/article/in-search-of-complementarity--israel-s-possible-responses-to-icc-arrest-warrants)
+- [The Prosecutor’s Circumvention of Article 18 Complementarity? A Flaw in the ICC’s Palestine Investigation](https://www.justsecurity.org/96296/icc-article-18-complementarity/)
+- [The ICC Palestine Case in the Aftermath of the Arrest Warrants Decisions – Part One](https://lieber.westpoint.edu/icc-palestine-case-aftermath-arrest-warrants-decisions-part-one/)
+- [The Prosecutor’s Uphill Legal Battle?: The Netanyahu and Gallant ICC Arrest Warrant Requests](https://www.justsecurity.org/96135/the-prosecutors-uphill-legal-battle-the-netanyahu-and-gallant-icc-arrest-warrant-requests/)
 
 ## Treatises 
 - [U. S. Military Operations Law, Policy, And Practice](https://global.oup.com/academic/product/us-military-operations-9780199328574?cc=us&lang=en)
