@@ -110,7 +110,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Operational Challenges in Ground Operations in Urban Areas: An IDF Perspective](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/78/2018/06/07012753/6.-NitsanAlon_Final-Review_Formatted.pdf)
 - [Challenges in the Interpretation and Application of the Principle of Distinction During Ground Operations in Urban Areas](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1099&context=vjtl)
 - [Warning Civilians Prior to Attack under International Law: Theory and Practice](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1086&context=ils)
-- [Four Comments on the Application of Proportionality under the Law of Armed ConflictLaw of Armed Conflict](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1102&context=vjtl)
+- [Four Comments on the Application of Proportionality under the Law of Armed Conflict](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1102&context=vjtl)
 - [Fight, Forge, and Fund: Three Select Issues on Targeting of Persons](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1108&context=vjtl)
 - [Collateral damage on the 21st century battlefield: enemy exploitation of the law of armed conflict, and the struggle for a moral high ground](https://go.gale.com/ps/i.do?p=AONE&u=googlescholar&id=GALE|A133368631&v=2.1&it=r&sid=AONE&asid=302fb796)
 - [Should Have Known Better? The Standard of Knowledge for Command Responsibility in International Criminal Law](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3046&context=ils)
