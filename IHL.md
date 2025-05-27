@@ -178,6 +178,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The Conduct of Hostilities and International Humanitarian Law: Challenges of 21st Century Warfare](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1709&context=ils)
 - [Legal and Policy Constraints on the Conduct of Aerial Precision Warfare](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1564&context=vjtl)
 - [Judging Battlefield Conduct](https://lieber.westpoint.edu/judging-battlefield-conduct/)
+- [Civilian Evacuations and the Law of Armed Conflict](https://lieber.westpoint.edu/civilian-evacuations-law-armed-conflict/)
     
 
 ## ICC
