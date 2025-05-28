@@ -181,6 +181,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Civilian Evacuations and the Law of Armed Conflict](https://lieber.westpoint.edu/civilian-evacuations-law-armed-conflict/)
 - [Prize Law and the Unique Nature of the Law of Naval Warfare: Comments on Recent Israeli Jurisprudence](https://brill.com/edcollchap/book/9789004532298/BP000007.xml)
 - [The Revival of Prize Law – An Introduction to the Summary of Recent Cases of the Prize Court in Israel](https://brill.com/display/book/edcoll/9789004440555/BP000014.xml)
+- [Drone Attacks under the Jus ad Bellum And Jus in Bello: Clearing the ‘Fog of Law’](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1801179)
     
 
 ## ICC
