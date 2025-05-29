@@ -167,6 +167,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Report on United States law of armed conflict investigations and prosecution practices](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=486)
 - [Canada: Investigation and Prosecution of Alleged Violations of the Law of Armed Conflict](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=564)
 - [Australian law and practice relevant to investigation and prosecution of LOAC violations](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=644)
+- [Evaluating Security Assistance to Israel Following ICJ Provisional Measures Order](https://www.ejiltalk.org/evaluating-security-assistance-to-israel-following-icj-provisional-measures-order/)
 - [Comparative study of other systems for investigating alleged LOAC breaches: The law of the United Kingdom](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=718)
 - [Investigating and prosecution of violations of the Law of Armed Conflict in Germany](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=802)
 - [Netherlands: investigating and prosecution of alleged violations of the Law of Armed Conflict](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=888)
