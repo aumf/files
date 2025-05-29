@@ -190,6 +190,9 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Bernie Sanders Foreign Assistance Act Resolution, Doctrinal LOAC Compliance, and the Unconstitutional Legislative Veto](https://sites.duke.edu/lawfire/2024/01/10/brian-cox-on-bernie-sanders-foreign-assistance-act-resolution-doctrinal-loac-compliance-and-the-unconstitutional-legislative-veto/)
 - [The Al-Ahli Hospital Explosion in Gaza Indicates International Law Is the First Casualty in War (Part I)](https://sites.duke.edu/lawfire/2023/12/03/brian-cox-on-the-al-ahli-hospital-explosion-in-gaza-indicates-international-law-is-the-first-casualty-in-war-part-i/)
 - [The Al-Ahli Hospital Explosion in Gaza Indicates International Law Is the First Casualty in War (Part II)](https://sites.duke.edu/lawfire/2023/12/05/brian-cox-on-the-al-ahli-hospital-explosion-in-gaza-indicates-international-law-is-the-first-casualty-in-war-part-ii/)
+- [Answers to MSF’s Questions in Response to the U.S. Military Investigation into the Kunduz Attack: An Insider’s Perspective](https://journals.law.harvard.edu/ilj/2020/10/answers-to-msfs-questions-in-response-to-the-u-s-military-investigation-into-the-kunduz-attack-an-insiders-perspective/)
+- [The Attack on the MSF Trauma Center in Kunduz and the Limitations of a Risk-based Approach to War Crimes Characterization (Part 1)](https://opiniojuris.org/2020/10/03/the-attack-on-the-msf-trauma-center-in-kunduz-and-the-limitations-of-a-risk-based-approach-to-war-crimes-characterization-part-1/)
+- [The Attack on the MSF Trauma Center in Kunduz and the Limitations of a Risk-based Approach to War Crimes Characterization (Part 2)](https://opiniojuris.org/2020/10/03/the-attack-on-the-msf-trauma-center-in-kunduz-and-the-limitations-of-a-risk-based-approach-to-war-crimes-characterization-part-2/)
   
     
 
