@@ -188,6 +188,8 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [In Defence of Doctrinal Assessments: Proportionality and the 31 October Attack on the Jabalia Refugee Camp](https://www.ejiltalk.org/in-defence-of-doctrinal-assessments-proportionality-and-the-31-october-attack-on-the-jabalia-refugee-camp/)
 - [Foreign Assistance Act Resolution and the Lex Specialis Rule](https://lieber.westpoint.edu/foreign-assistance-act-resolution-lex-specialis-rule/)
 - [Bernie Sanders Foreign Assistance Act Resolution, Doctrinal LOAC Compliance, and the Unconstitutional Legislative Veto](https://sites.duke.edu/lawfire/2024/01/10/brian-cox-on-bernie-sanders-foreign-assistance-act-resolution-doctrinal-loac-compliance-and-the-unconstitutional-legislative-veto/)
+- [The Al-Ahli Hospital Explosion in Gaza Indicates International Law Is the First Casualty in War (Part I)](https://sites.duke.edu/lawfire/2023/12/03/brian-cox-on-the-al-ahli-hospital-explosion-in-gaza-indicates-international-law-is-the-first-casualty-in-war-part-i/)
+- [The Al-Ahli Hospital Explosion in Gaza Indicates International Law Is the First Casualty in War (Part II)](https://sites.duke.edu/lawfire/2023/12/05/brian-cox-on-the-al-ahli-hospital-explosion-in-gaza-indicates-international-law-is-the-first-casualty-in-war-part-ii/)
   
     
 
