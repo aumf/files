@@ -183,6 +183,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The Revival of Prize Law – An Introduction to the Summary of Recent Cases of the Prize Court in Israel](https://brill.com/display/book/edcoll/9789004440555/BP000014.xml)
 - [Drone Attacks under the Jus ad Bellum And Jus in Bello: Clearing the ‘Fog of Law’](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1801179)
 - [The IDF Attack on Al Jalaa Tower: Criticisms Are Correct on the Law, But Mistaken in Applying It](https://www.justsecurity.org/76681/the-idf-attack-on-al-jalaa-tower-criticisms-are-correct-on-the-law-but-mistaken-in-applying-it/)
+- [In Defence of Doctrinal Assessments: Proportionality and the 31 October Attack on the Jabalia Refugee Camp](https://www.ejiltalk.org/in-defence-of-doctrinal-assessments-proportionality-and-the-31-october-attack-on-the-jabalia-refugee-camp/)
     
 
 ## ICC
