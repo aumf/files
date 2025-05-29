@@ -193,6 +193,9 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Answers to MSF’s Questions in Response to the U.S. Military Investigation into the Kunduz Attack: An Insider’s Perspective](https://journals.law.harvard.edu/ilj/2020/10/answers-to-msfs-questions-in-response-to-the-u-s-military-investigation-into-the-kunduz-attack-an-insiders-perspective/)
 - [The Attack on the MSF Trauma Center in Kunduz and the Limitations of a Risk-based Approach to War Crimes Characterization (Part 1)](https://opiniojuris.org/2020/10/03/the-attack-on-the-msf-trauma-center-in-kunduz-and-the-limitations-of-a-risk-based-approach-to-war-crimes-characterization-part-1/)
 - [The Attack on the MSF Trauma Center in Kunduz and the Limitations of a Risk-based Approach to War Crimes Characterization (Part 2)](https://opiniojuris.org/2020/10/03/the-attack-on-the-msf-trauma-center-in-kunduz-and-the-limitations-of-a-risk-based-approach-to-war-crimes-characterization-part-2/)
+- [In Backing Future Autonomous Weapons Ban, the ICRC Appears Intent on Repeating Past Mistakes](https://sites.duke.edu/lawfire/2021/05/18/in-backing-future-autonomous-weapons-ban-the-icrc-appears-intent-on-repeating-past-mistakes/)
+- [Why Binding Limitations on Autonomous Weapons Will Remain Elusive](https://lieber.westpoint.edu/binding-limitations-autonomous-weapons-elusive/)
+- [Killer robots and military justice innovation: preparing accountability mechanisms for the future of autonomous weapons](https://www.maklu-online.eu/fr/tijdschrift/ridp/2022/military-justice-contemporary-challenges-history-a/killer-robots-and-military-justice-innovation-prep/)
   
     
 
