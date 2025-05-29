@@ -185,6 +185,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The IDF Attack on Al Jalaa Tower: Criticisms Are Correct on the Law, But Mistaken in Applying It](https://www.justsecurity.org/76681/the-idf-attack-on-al-jalaa-tower-criticisms-are-correct-on-the-law-but-mistaken-in-applying-it/)
 - [In Defence of Doctrinal Assessments: Proportionality and the 31 October Attack on the Jabalia Refugee Camp](https://www.ejiltalk.org/in-defence-of-doctrinal-assessments-proportionality-and-the-31-october-attack-on-the-jabalia-refugee-camp/)
 - [Foreign Assistance Act Resolution and the Lex Specialis Rule](https://lieber.westpoint.edu/foreign-assistance-act-resolution-lex-specialis-rule/)
+- [Bernie Sanders Foreign Assistance Act Resolution, Doctrinal LOAC Compliance, and the Unconstitutional Legislative Veto](https://sites.duke.edu/lawfire/2024/01/10/brian-cox-on-bernie-sanders-foreign-assistance-act-resolution-doctrinal-loac-compliance-and-the-unconstitutional-legislative-veto/)
   
     
 
