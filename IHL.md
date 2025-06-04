@@ -20,7 +20,7 @@ Notes:
 - [Targeting: Principles of International Humanitarian Law](https://law.yale.edu/sites/default/files/area/center/global/document/gross_targeting_and_civilians_directly_participating_in_hostilities.pdf)
 - [The Non-combatant Casualty Cut-off Value: Assessment of a Novel Targeting Technique in Operation Inherent Resolve](https://brill.com/view/journals/icla/18/4/article-p655_655.xml)
 - [The North Atlantic Treaty Organization Legal Advisor: A Primer](https://archive.org/details/102013_201808/mode/2up)
-- [Lex Lata or Lex Ferenda? Rule 45 of the ICRC study on Customary International Humanitarian Law](https://archive.org/details/198Winter2008)
+- [Lex Lata or Lex Ferenda? Rule 45 of the ICRC study on Customary International Humanitarian Law](https://tile.loc.gov/storage-services/service/ll/llmlp/58062115_198-winter-2008/58062115_198-winter-2008.pdf#page=126)
 - [Deadly Advice: Judge Advocates and Joint Targeting](https://archive.org/details/06201611/mode/2up)
 - [Detention Operations in Non-International Armed Conflicts between International Humanitarian Law, Human Rights Law and National Standards: A NATO Perspective ](https://brill.com/view/book/edcoll/9789004404601/BP000005.xml)
 - [“On Target”: Precision and Balance in the
