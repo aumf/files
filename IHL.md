@@ -25,7 +25,6 @@ Notes:
 - [The Non-combatant Casualty Cut-off Value: Assessment of a Novel Targeting Technique in Operation Inherent Resolve](https://brill.com/view/journals/icla/18/4/article-p655_655.xml)
 - [Judging Battlefield Conduct](https://lieber.westpoint.edu/judging-battlefield-conduct/)
 - [Effects based enforcement targeting law](https://lieber.westpoint.edu/effects-based-enforcement-targeting-law/)
-- [The North Atlantic Treaty Organization Legal Advisor: A Primer]([https://archive.org/details/102013_201808/mode/2up](https://www.thefreelibrary.com/The+North+Atlantic+Treaty+Organization+legal+advisor%3A+a+primer.-a0363973525))
 - [Lex Lata or Lex Ferenda? Rule 45 of the ICRC study on Customary International Humanitarian Law](https://tile.loc.gov/storage-services/service/ll/llmlp/58062115_198-winter-2008/58062115_198-winter-2008.pdf#page=126)
 - [Totality of the Circumstances: The DoD Law of War Manual and the Evolving Notion of Direct Participation in Hostilities](https://jnslp.com/wp-content/uploads/2017/04/Totality_of_the_Circumstances_FINAL.pdf)
 - [The Interpretive Guidance on the Notion of Direct Participation in Hostilities: A Critical Analysis](https://web.archive.org/web/20190506051523/https://harvardnsj.org/wp-content/uploads/sites/13/2015/01/Vol.-1_Schmitt_Final.pdf)
