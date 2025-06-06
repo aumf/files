@@ -61,7 +61,7 @@ Notes:
         - "[Abouts](https://github.com/aumf/files/blob/main/NSIs.md#abouts)"
         - [MCT](https://github.com/aumf/files/blob/main/NSIs.md#mct)
       - ["Backdoor search" myth](https://github.com/aumf/files/blob/main/NSIs.md#backdoor-searches-myth)
-      - [Reverse targeting]()
+      - [Reverse targeting](https://github.com/aumf/files/blob/main/NSIs.md#reverse-targeting)
       - [Batch queries](https://github.com/aumf/files/blob/main/NSIs.md#batch-queries)
       - [2021/2022 reform compliance](https://github.com/aumf/files/blob/main/NSIs.md#20212022-reform-compliance)
 - [Room 641A](https://github.com/aumf/files/blob/main/NSIs.md#room-641a)
