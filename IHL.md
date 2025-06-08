@@ -224,7 +224,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Protection of civilians—military reference guide](https://publications.armywarcollege.edu/pubs/3520.pdf)
 - [Cyber Law Toolkit](https://cyberlaw.ccdcoe.org/wiki/Main_Page)
 - [The Law of Targeting](https://global.oup.com/academic/product/the-law-of-targeting-9780199696611?cc=us&lang=en&)
-- [The Newport Manual on the Law of Naval Warfare](https://digital-commons.usnwc.edu/ils/vol101/iss1/1/)
+- [The Newport Manual on the Law of Naval Warfare, 2nd ed. 2025](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3106&context=ils)
 - [Newport Rules of Engagement Handbook](https://digital-commons.usnwc.edu/ils/vol98/iss1/2/)
 - [Non-international armed conflict in the twenty-first century](https://archive.org/details/noninternational88watk)
 - [Targeting enemy merchant shipping](https://archive.org/details/targetingenemyme65grun)
