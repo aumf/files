@@ -69,7 +69,7 @@ Notes:
 - [TIA](https://github.com/aumf/files/blob/main/NSIs.md#tia)
 - [12333](https://github.com/aumf/files/blob/main/NSIs.md#12333)
 - [Xkeyscore](https://github.com/aumf/files/blob/main/NSIs.md#xkeyscore)
-- [DishFire]()
+- [DishFire](https://github.com/aumf/files/blob/main/NSIs.md#dishfire)
 - [Stingrays](https://github.com/aumf/files/blob/main/NSIs.md#stingrays)
 - [Commercial data/CAI](https://github.com/aumf/files/blob/main/NSIs.md#commercial-datacai)
 - [Vulnerabilities Equities Process (VEP)](https://github.com/aumf/files/blob/main/NSIs.md#the-vulnerabilities-equities-process-vep)
