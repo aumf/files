@@ -194,6 +194,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [In Backing Future Autonomous Weapons Ban, the ICRC Appears Intent on Repeating Past Mistakes](https://sites.duke.edu/lawfire/2021/05/18/in-backing-future-autonomous-weapons-ban-the-icrc-appears-intent-on-repeating-past-mistakes/)
 - [Why Binding Limitations on Autonomous Weapons Will Remain Elusive](https://lieber.westpoint.edu/binding-limitations-autonomous-weapons-elusive/)
 - [Killer robots and military justice innovation: preparing accountability mechanisms for the future of autonomous weapons](https://www.maklu-online.eu/fr/tijdschrift/ridp/2022/military-justice-contemporary-challenges-history-a/killer-robots-and-military-justice-innovation-prep/)
+- [Article 23(g) Imperative Military Necessity Imposes No Higher Standard than Ordinary Military Necessity](https://lieber.westpoint.edu/article-23g-imperative-military-necessity-imposes-no-higher-standard-ordinary-military-necessity/)
   
     
 
