@@ -199,6 +199,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [2023 DoD Manual Revision – What’s In a Presumption?](https://lieber.westpoint.edu/whats-in-a-presumption/)
 - [Targeting, Command Judgment, and a Proposed Quantum of Information Component: A Fourth Amendment Lesson in Contextual Reasonableness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1762894)
 - [The Flawed Human Rights Watch Report on Gaza](https://www.lawfaremedia.org/article/flawed-human-rights-watch-report-gaza)
+- [The UNHRC Commission of Inquiry on Syria Misapplies the Law of Armed Conflict](https://www.lawfaremedia.org/article/unhrc-commission-inquiry-syria-misapplies-law-armed-conflict)
   
     
 
