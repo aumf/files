@@ -196,6 +196,8 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Killer robots and military justice innovation: preparing accountability mechanisms for the future of autonomous weapons](https://www.maklu-online.eu/fr/tijdschrift/ridp/2022/military-justice-contemporary-challenges-history-a/killer-robots-and-military-justice-innovation-prep/)
 - [Article 23(g) Imperative Military Necessity Imposes No Higher Standard than Ordinary Military Necessity](https://lieber.westpoint.edu/article-23g-imperative-military-necessity-imposes-no-higher-standard-ordinary-military-necessity/)
 - [Proportionality under International Humanitarian Law: The “Reasonable Military Commander” Standard and Reverberating Effects](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/78/2018/06/07015455/11.-HendersonReece_Final-Review_Formatted.pdf)
+- [2023 DoD Manual Revision – What’s In a Presumption?](https://lieber.westpoint.edu/whats-in-a-presumption/)
+- [Targeting, Command Judgment, and a Proposed Quantum of Information Component: A Fourth Amendment Lesson in Contextual Reasonableness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1762894)
   
     
 
