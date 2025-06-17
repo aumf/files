@@ -88,7 +88,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [State-Sponsored Assassination in International and Domestic Law](https://openyls.law.yale.edu/bitstream/handle/20.500.13051/6276/21_17YaleJIntlL609_1992_.pdf)
 - [Was the Soleimani Killing an Assassination?](https://www.lawfareblog.com/was-soleimani-killing-assassination)
 - [The tyranny of context: Israeli targeting practices in legal perspective](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1905&context=jil)
-- [The Goldstone report: Politicization of the Law of Armed Conflict and those left behind](https://tjaglcspublic.army.mil/documents/27431/1415913/View+the+PDF/6ea296ee-ce2a-425b-a360-314a67395031)
+- [The Goldstone report: Politicization of the Law of Armed Conflict and those left behind](https://web.archive.org/web/20120505220505/http://www.loc.gov/rr/frd/Military_Law/Military_Law_Review/pdf-files/209-fall-2011.pdf#page=79)
 - [A Critique of the Goldstone Report and Its Treatment of International Humanitarian Law](https://www.cambridge.org/core/journals/proceedings-of-the-asil-annual-meeting/article/abs/critique-of-the-goldstone-report-and-its-treatment-of-international-humanitarian-law/A6006B7860BEF9EC3857E4B52F173EB8)
 - [The Application of IHL in the Goldstone Report: A Critical Commentary](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1596214)
 - [Investigating Violations of International Law in Armed Conflict](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1683980)
