@@ -195,6 +195,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Why Binding Limitations on Autonomous Weapons Will Remain Elusive](https://lieber.westpoint.edu/binding-limitations-autonomous-weapons-elusive/)
 - [Killer robots and military justice innovation: preparing accountability mechanisms for the future of autonomous weapons](https://www.maklu-online.eu/fr/tijdschrift/ridp/2022/military-justice-contemporary-challenges-history-a/killer-robots-and-military-justice-innovation-prep/)
 - [Article 23(g) Imperative Military Necessity Imposes No Higher Standard than Ordinary Military Necessity](https://lieber.westpoint.edu/article-23g-imperative-military-necessity-imposes-no-higher-standard-ordinary-military-necessity/)
+- [Proportionality under International Humanitarian Law: The “Reasonable Military Commander” Standard and Reverberating Effects](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/78/2018/06/07015455/11.-HendersonReece_Final-Review_Formatted.pdf)
   
     
 
