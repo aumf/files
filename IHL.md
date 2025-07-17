@@ -24,6 +24,7 @@ Notes:
 - [The Genesis and Significance of the Law of War “Rendulic Rule”](https://link.springer.com/chapter/10.1007/978-94-6265-611-6_7)
 - [Judging Battlefield Conduct](https://lieber.westpoint.edu/judging-battlefield-conduct/)
 - [Effects based enforcement targeting law](https://lieber.westpoint.edu/effects-based-enforcement-targeting-law/)
+- [An Operational Perspective of Military Advantage and Proportionality](https://lieber.westpoint.edu/operational-perspective-military-advantage-proportionality/)
 - [Lex Lata or Lex Ferenda? Rule 45 of the ICRC study on Customary International Humanitarian Law](https://tile.loc.gov/storage-services/service/ll/llmlp/58062115_198-winter-2008/58062115_198-winter-2008.pdf#page=126)
 - [Totality of the Circumstances: The DoD Law of War Manual and the Evolving Notion of Direct Participation in Hostilities](https://jnslp.com/wp-content/uploads/2017/04/Totality_of_the_Circumstances_FINAL.pdf)
 - [The Interpretive Guidance on the Notion of Direct Participation in Hostilities: A Critical Analysis](https://web.archive.org/web/20190506051523/https://harvardnsj.org/wp-content/uploads/sites/13/2015/01/Vol.-1_Schmitt_Final.pdf)
