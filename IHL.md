@@ -202,6 +202,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The Flawed Human Rights Watch Report on Gaza](https://www.lawfaremedia.org/article/flawed-human-rights-watch-report-gaza)
 - [The UNHRC Commission of Inquiry on Syria Misapplies the Law of Armed Conflict](https://www.lawfaremedia.org/article/unhrc-commission-inquiry-syria-misapplies-law-armed-conflict)
 - [Assessing the Legality of Israel’s Action Against Iran Under International Law](https://lieber.westpoint.edu/assessing-legality-israels-action-iran-international-law/)
+- [The Madleen Incident and the Gaza Naval Blockade](https://lieber.westpoint.edu/madleen-incident-gaza-naval-blockade/)
   
     
 
