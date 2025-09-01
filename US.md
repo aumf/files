@@ -1407,7 +1407,7 @@ An independent and authoritative investigation summarised as follows: "Over the 
   
 - Conspiracy theorists and historical revisionists claim that the US ignored intelligence, and covered-up Pearl harbor. However, all investigations into the matter yield no such conclusion.<sup>[[1]](https://www.nsa.gov/History/Cryptologic-History/Historical-Events/#pearl-harbor-review)</sup></sup>
 
-## US Human research, 1932-1990
+## US Human research, 1914-1990
 
 ##### BW
 Between 1941 and 1969, when President Nixon banned Biological Weapons (BW), the US Army conducted a series of investigations into the defense against BW, and limited use of BW in retaliation. Open-air tests were not human research experiments, contrary to sensationalist speculation, and Soviet disinfo.
