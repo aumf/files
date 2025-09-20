@@ -203,6 +203,11 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The UNHRC Commission of Inquiry on Syria Misapplies the Law of Armed Conflict](https://www.lawfaremedia.org/article/unhrc-commission-inquiry-syria-misapplies-law-armed-conflict)
 - [Assessing the Legality of Israel’s Action Against Iran Under International Law](https://lieber.westpoint.edu/assessing-legality-israels-action-iran-international-law/)
 - [The Madleen Incident and the Gaza Naval Blockade](https://lieber.westpoint.edu/madleen-incident-gaza-naval-blockade/)
+- [The Interaction between Customary International Law and Treaties](https://referenceworks.brill.com/display/entries/HACO/A9789004161016-02.xml?ebody=pdf-126133)
+- [Customary International Law: A Transformative Force in the Landscape of IHL](https://academic.oup.com/book/56458/chapter-abstract/448536253?redirectedFrom=fulltext&login=false)
+- [The Authority of the International Committee of the Red Cross](https://brill.com/display/title/69424)
+- [Methodological Issues in the Study on Customary International Humanitarian Law Conducted by the International Committee of the Red Cross: An Analysis in Light of the Conclusions on Identification of Customary International Law Reached by the International Law Commission of the United Nations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4961248)
+- [response to the International Committee of the Red Cross study Customary International Humanitarian Law](https://international-review.icrc.org/sites/default/files/irrc_866_11.pdf)
   
     
 
