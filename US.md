@@ -247,6 +247,8 @@ Paul E. Cortez got 100 years prison. Jesse V. Spielman 110 years prison. Bryan L
 
 - In May 2004, US conducted a raid near the Iraq-Syrian border, targeting several HVTs of the Zarqawi network. The NYT and AP alleged this was a wedding near Mukaradeeb, where many civilians were killed as a result of the raid. However, Signals, Human and Satellite intelligence as well as forensic and contradictory and inconsistent local testimony during interviews proved this allegation false.<sup>[[1]](https://archive.org/details/may-18-04-raid)</sup></sup>
 
+- On April 2004, 3 members of the Supreme Councel for the Islamic Revolution in Iraq (SCIRI), claimed to have been abused by Marines at an intermediate facility. However, medical examination before, during and after transfer disproved such claims.<sup>[[1]](https://ia600208.us.archive.org/0/items/usmc-inquiry-abuse-of-members-of-sciri/usmc_%20inquiry_abuse%20of%20members%20of%20SCIRI.pdf)</sup></sup>
+
 - On April 2004, Iraq, CPL Pat Tillman was killed in a friendly fire incident. Pundits claim that he was deliberately killed by his fellow unit members because he had anti-war leanings, and allege there was a coverup. This erroneous conclusion is based on a misreading of several basic facts. 
   
   Background: 
