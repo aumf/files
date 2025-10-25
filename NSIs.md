@@ -78,7 +78,7 @@ Notes:
 - [Terrorist Screening Center (TSC)](https://github.com/aumf/files/blob/main/NSIs.md#terrorist-screening-center-tsc)
 - [CIA/NYPD](https://github.com/aumf/files/blob/main/NSIs.md#cianypd)
 - [miscellaneous allegations](https://github.com/aumf/files/blob/main/NSIs.md#miscellaneous-allegations)
-- [EO 14086]()
+- [EO 14086](https://github.com/aumf/files/blob/main/NSIs.md#eo-14086)
 - [PPD-28](https://github.com/aumf/files/blob/main/NSIs.md#ppd-28)
 - [Minimization & unmasking](https://github.com/aumf/files/blob/main/NSIs.md#minimization--unmasking) 
 - [Parallel construction](https://github.com/aumf/files/blob/main/NSIs.md#parallel-construction)
