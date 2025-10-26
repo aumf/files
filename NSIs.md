@@ -884,6 +884,8 @@ These folk have appeared on many legitimate outlets, and some more—conspiracy 
     
   - ### 702
     Each year, Sec. 702 is ruled Constitutional and lawful by the FISC, since 2008. Below are other Federal Courts concluding the same. To quote from a prior section, "Every court to have reached a decision on the program has found it to be constitutional and reasonable under the Fourth Amendment."<sup>[[1]](https://documents.pclob.gov/prod/Documents/OversightReport/054417e4-9d20-427a-9850-862a6f29ac42/2023%20PCLOB%20702%20Report%20(002).pdf#page=242)</sup>
+ 
+    __[U.S. v. Hasbajram](https://www.lawfaremedia.org/article/edny-opinion-in-hasbajrami-undermines-fisa-702)__: A non-binding opinion, that has been eviserated by leading experts, "Spawned from its mistaken application of Fourth Amendment law enforcement concepts unsuited to programmatic surveillance conducted to obtain foreign intelligence information, the EDNY’s resolution of the querying issue stands in stark contrast to more than a decade of rulings from other federal courts, including the FISC and the FISCR." This flawed opinion will be rejected by the Superior Court, the FISC, in a later Opinion on 702.
     
     __[US v. Muhtorov (2021)](https://www.ca10.uscourts.gov/sites/ca10/files/opinions/010110616083.pdf)__: "In the course of surveilling a non-United States person located abroad under Section 702, the government incidentally collected Mr. Muhtorov’s communications. We conclude no warrant was required for (a) the Section 702 surveillance of the foreign target and (b) the incidental collection of Mr. Muhtorov’s communications."
     
