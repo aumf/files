@@ -1,4 +1,4 @@
-# Fact-checking, debunking and deconstructing lists of alleged atrocities & conspiracy theories of the United States Government
+# Fact-checking, deconstructing and debunking lists of alleged atrocities & conspiracy theories of the United States Government
 [The Bullshit asymmetry principle, or Brandolini's law](https://www.nature.com/articles/540171a):
 > The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
 
