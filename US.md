@@ -10,7 +10,7 @@ I wish to highlight: A significant amount of this work is verbatim quotes from t
 
 Not all governments are equally transparent or accountable.
 
-__Disclaimer:__ This project isn't an attempt to whitewash or deny when actual atrocities, or wrong-doing by the US Government, has occurred. One can simply look at racial segregation, slavery, the early treatment of natives, or the 2nd Trump administration, as some examples (hence not covered here). However, by and large, the US has maintained a very good track record on human rights. When it falters, accountability swiftly follows. 
+__Disclaimer:__ This project isn't an attempt to whitewash or deny when actual atrocities, or wrong-doing by the US Government, has occurred. One can simply look at racial segregation, slavery, the early treatment of natives, 1946-1948 US-Guatemala STD research project or the 2nd Trump administration, as some examples (hence not covered here). However, by and large, the US has maintained a very good track record on human rights. When it falters, accountability swiftly follows. 
 
 ---
 
