@@ -43,7 +43,7 @@ Notes:
 - [It is Not Self-Defense: Direct Participation in Hostilities Authority at the Tactical Level](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2984267)
 - [Deadly Advice: Judge Advocates and Joint Targeting](https://archive.org/details/06201611/mode/2up)
 - [Detention Operations in Non-International Armed Conflicts between International Humanitarian Law, Human Rights Law and National Standards: A NATO Perspective ](https://brill.com/view/book/edcoll/9789004404601/BP000005.xml)
-- [“On Target”: Precision and Balance in the Contemporary Law of Targeting](https://jnslp.com/wp-content/uploads/2015/03/Precision-and-Balance-in-the-Contemporary-Law-of-Targeting_2.pdf)
+- [“On Target”: Precision and Balance in the Contemporary Law of Targeting](https://web.archive.org/web/20250628015303/https://jnslp.com/wp-content/uploads/2015/03/Precision-and-Balance-in-the-Contemporary-Law-of-Targeting_2.pdf)
 -  [Conducting unconventional warfare in compliance with the Law of Armed Conflict](https://tjaglcspublic.army.mil/documents/27431/2115093/View+the+PDF/2155811d-648e-4c54-bd16-db50048fa9be)
 - [Special Operations Commando Raids and Enemy Hors de Combat](https://www.jag.navy.mil/documents/navylawreview/ALSJSEditionJuly2007.pdf)
 - [The Detention and Prosecution of Insurgents and Other Non-Traditional Combatants— A Look at the Task Force 134 Process and the Future of Detainee Prosecutions](https://www.jag.navy.mil/documents/navylawreview/ALSJSEditionJuly2007.pdf)
