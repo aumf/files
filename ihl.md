@@ -17,13 +17,14 @@ Notes:
 - [Install](https://github.com/internetarchive/wayback-machine-webextension) the official wayback machine browser addon, from archive.org, to aid in any 404 errors. I try to fix them myself, but still a good addon to have.
 
 ## Papers & expert commentary
-- [Targeting: Principles of International Humanitarian Law](https://law.yale.edu/sites/default/files/area/center/global/document/gross_targeting_and_civilians_directly_participating_in_hostilities.pdf)
+- [Judging Battlefield Conduct](https://lieber.westpoint.edu/judging-battlefield-conduct/)
+- [Effects based enforcement targeting law](https://lieber.westpoint.edu/effects-based-enforcement-targeting-law/)
 - [Targeting, Distinction, and the Long War: Guarding Against Conflation of Cause and Responsibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889620)
 - [Targeting and the Concept of Intent](https://scholarship.law.cornell.edu/facpub/774/)
 - [Law-of-War Precautions: A Cautionary Note](https://academic.oup.com/book/32410/chapter-abstract/268714019?redirectedFrom=fulltext&login=false)
 - [The Genesis and Significance of the Law of War “Rendulic Rule”](https://link.springer.com/chapter/10.1007/978-94-6265-611-6_7)
-- [Judging Battlefield Conduct](https://lieber.westpoint.edu/judging-battlefield-conduct/)
-- [Effects based enforcement targeting law](https://lieber.westpoint.edu/effects-based-enforcement-targeting-law/)
+- [Targeting: Principles of International Humanitarian Law](https://law.yale.edu/sites/default/files/area/center/global/document/gross_targeting_and_civilians_directly_participating_in_hostilities.pdf)
+- [Targeting and the Law of War Administrative Investigations & Criminal Law Supplement](https://www.court-martial-ucmj.com/files/2017/06/Targeting-and-the-Law-of-War-Admin-Investigation-and-Crim-Law-Supplement-30MAY17-Final-Approved.pdf)
 - [An Operational Perspective of Military Advantage and Proportionality](https://lieber.westpoint.edu/operational-perspective-military-advantage-proportionality/)
 - [Lex Lata or Lex Ferenda? Rule 45 of the ICRC study on Customary International Humanitarian Law](https://tile.loc.gov/storage-services/service/ll/llmlp/58062115_198-winter-2008/58062115_198-winter-2008.pdf#page=126)
 - [Totality of the Circumstances: The DoD Law of War Manual and the Evolving Notion of Direct Participation in Hostilities](https://jnslp.com/wp-content/uploads/2017/04/Totality_of_the_Circumstances_FINAL.pdf)
@@ -265,5 +266,4 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Annotated Supplement to the Commander’s Handbook on the Law of Naval Operations](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3084&context=ils)
 - [Rules and Commentaries on Jus Ad Bellum](https://westpointpress.com/jus-ad-bellum)
 - [The Impact of Emerging Technologies on the Law of Armed Conflict](https://academic.oup.com/book/32410)
-- [Targeting and the Law of War Administrative Investigations & Criminal Law Supplement](https://www.court-martial-ucmj.com/files/2017/06/Targeting-and-the-Law-of-War-Admin-Investigation-and-Crim-Law-Supplement-30MAY17-Final-Approved.pdf)
 - [The Law on Nuclear Weapons: An International Commentary](https://www.e-elgar.com/shop/gbp/the-law-on-nuclear-weapons-9781035357673.html)
