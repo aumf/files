@@ -33,7 +33,7 @@ Notes:
 - [Investigating and prosecution of violations of the Law of Armed Conflict in Germany](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=802)
 - [Netherlands: investigating and prosecution of alleged violations of the Law of Armed Conflict](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=888)
 - [Lex Lata or Lex Ferenda? Rule 45 of the ICRC study on Customary International Humanitarian Law](https://tile.loc.gov/storage-services/service/ll/llmlp/58062115_198-winter-2008/58062115_198-winter-2008.pdf#page=126)
-- [Totality of the Circumstances: The DoD Law of War Manual and the Evolving Notion of Direct Participation in Hostilities](https://jnslp.com/wp-content/uploads/2017/04/Totality_of_the_Circumstances_FINAL.pdf)
+- [Totality of the Circumstances: The DoD Law of War Manual and the Evolving Notion of Direct Participation in Hostilities](https://web.archive.org/web/20250628015224/https://jnslp.com/wp-content/uploads/2017/04/Totality_of_the_Circumstances_FINAL.pdf)
 - [The Interpretive Guidance on the Notion of Direct Participation in Hostilities: A Critical Analysis](https://web.archive.org/web/20190506051523/https://harvardnsj.org/wp-content/uploads/sites/13/2015/01/Vol.-1_Schmitt_Final.pdf)
 - [Civilians with skin in the game: The Law of War Manual's rejection of the ICRC guidance on Direct Participation in Hostilities](https://web.archive.org/web/20190804070456/https://www.loc.gov/rr/frd/Military_Law/Military_Law_Review/pdf-files/225-issue2-2017.pdf#page=9)
 - [Opportunity Lost: Organized Armed Groups and the ICRC “Direct Participation in Hostilities” Interpretive Guidance](https://web.archive.org/web/20170617213851/http://nyujilp.org/wp-content/uploads/2012/04/42.3-Watkin.pdf)
