@@ -209,6 +209,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [The Authority of the International Committee of the Red Cross](https://brill.com/display/title/69424)
 - [Methodological Issues in the Study on Customary International Humanitarian Law Conducted by the International Committee of the Red Cross: An Analysis in Light of the Conclusions on Identification of Customary International Law Reached by the International Law Commission of the United Nations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4961248)
 - [response to the International Committee of the Red Cross study Customary International Humanitarian Law](https://international-review.icrc.org/sites/default/files/irrc_866_11.pdf)
+- [LOAC Babies and COIN Bathwater](https://www.loc.gov/resource/llmlp.TAL_2023_Issue_1/?pdfPage=52)
   
     
 
