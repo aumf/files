@@ -71,7 +71,7 @@ Notes:
 - [Xkeyscore](https://github.com/aumf/files/blob/main/NSIs.md#xkeyscore)
 - [DishFire](https://github.com/aumf/files/blob/main/NSIs.md#dishfire)
 - [Stingrays](https://github.com/aumf/files/blob/main/NSIs.md#stingrays)
-- [FBI_Carnivore](https://github.com/aumf/files/blob/main/NSIs.md#fbi-carnivore)
+- [FBI Carnivore](https://github.com/aumf/files/blob/main/NSIs.md#fbi-carnivore)
 - [Commercial data/CAI](https://github.com/aumf/files/blob/main/NSIs.md#commercial-datacai)
 - [Vulnerabilities Equities Process (VEP)](https://github.com/aumf/files/blob/main/NSIs.md#the-vulnerabilities-equities-process-vep)
 - [Watchlisting](https://github.com/aumf/files/blob/main/NSIs.md#watchlisting)
