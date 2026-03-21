@@ -6,7 +6,7 @@ These will aid those interested in LOAC as it relates to some of the lists and e
 # Contents
 
 - [Papers & expert commentary](https://github.com/aumf/files/blob/main/IHL.md#papers)
-- [Treatises](https://github.com/aumf/files/blob/main/IHL.md#treatises)
+- [Treatises](https://github.com/aumf/files/blob/main/ihl.md#treatises)
 - [ICC](https://github.com/aumf/files/blob/main/IHL.md#icc)
 
 <!-- tocstop -->
