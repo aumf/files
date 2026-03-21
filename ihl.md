@@ -209,6 +209,7 @@ Notes:
 - [response to the International Committee of the Red Cross study Customary International Humanitarian Law](https://international-review.icrc.org/sites/default/files/irrc_866_11.pdf)
 - [LOAC Babies and COIN Bathwater](https://www.loc.gov/resource/llmlp.TAL_2023_Issue_1/?pdfPage=52)
 - [Closing the “Extreme Circumstances” Gap: The Legality of Nuclear Weapons When the Survival of a State is in Question](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3143&context=ils)
+- [Three independent justifications for the U.S./Israeli operations against Iran](https://sites.duke.edu/lawfire/2026/03/13/three-independent-justifications-for-the-u-s-israeli-operations-against-iran/)
   
 ---
     
