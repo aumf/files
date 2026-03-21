@@ -6,8 +6,8 @@ These will aid those interested in LOAC as it relates to some of the lists and e
 # Contents
 
 - [Papers & expert commentary](https://github.com/aumf/files/blob/main/IHL.md#papers)
-- [ICC](https://github.com/aumf/files/blob/main/IHL.md#icc)
 - [Treatises](https://github.com/aumf/files/blob/main/IHL.md#treatises)
+- [ICC](https://github.com/aumf/files/blob/main/IHL.md#icc)
 
 <!-- tocstop -->
 ---
@@ -210,22 +210,8 @@ Notes:
 - [LOAC Babies and COIN Bathwater](https://www.loc.gov/resource/llmlp.TAL_2023_Issue_1/?pdfPage=52)
 - [Closing the “Extreme Circumstances” Gap: The Legality of Nuclear Weapons When the Survival of a State is in Question](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3143&context=ils)
   
+---
     
-
-## ICC
-- [Understanding the International Criminal Court](https://www.icc-cpi.int/sites/default/files/Publications/understanding-the-icc.pdf)
-- [How the International Criminal Court Threatens Treaty Norms](https://scholarship.law.vanderbilt.edu/vjtl/vol49/iss2/3/)
-- [Jus in Bello Futura ignotus: The United States, the International Criminal Court, and the uncertain future of the Law of Armed Conflict](https://web.archive.org/web/20170131093317/https://www.jagcnet.army.mil/DOCLIBS/MILITARYLAWREVIEW.NSF/20a66345129fe3d885256e5b00571830/7caab5aad6a5fea585257f33004ed107/$FILE/7.%20%20By%20Lieutenant%20Colonel%20James%20T.%20Hill.pdf)
-- [Exercise Jurisdiction at the Edge—What Happens Next? An Analysis of International Criminal Court Substantive Law as Applied to Non-Party State Nationals](https://tjaglcspublic.army.mil/documents/27431/16066286/2020-Issue-3-Exercising+Jurisdiction+at+the+Edge.pdf/6863edf3-9e30-450a-89e2-eddf45861ecc)
-- [The ICC Wants Justice But Has No Mandate](https://www.justsecurity.org/71015/the-icc-wants-justice-but-has-no-mandate/)
-- [ICC Inability Determinations in Light of the Dujail Case](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=993540)
-- [Fundamental concerns: Why the US Government should not accede to the Rome Statute](https://stjececmsdusgva001.blob.core.usgovcloudapi.net/public/documents/NavalReviewVol.63.pdf#page=96)
-- [In Search of Complementarity: Israel’s Possible Responses to ICC Arrest Warrants](https://www.lawfaremedia.org/article/in-search-of-complementarity--israel-s-possible-responses-to-icc-arrest-warrants)
-- [The Prosecutor’s Circumvention of Article 18 Complementarity? A Flaw in the ICC’s Palestine Investigation](https://www.justsecurity.org/96296/icc-article-18-complementarity/)
-- [The ICC Palestine Case in the Aftermath of the Arrest Warrants Decisions – Part One](https://lieber.westpoint.edu/icc-palestine-case-aftermath-arrest-warrants-decisions-part-one/)
-- [The Prosecutor’s Uphill Legal Battle?: The Netanyahu and Gallant ICC Arrest Warrant Requests](https://www.justsecurity.org/96135/the-prosecutors-uphill-legal-battle-the-netanyahu-and-gallant-icc-arrest-warrant-requests/)
-- [The Looming Demise of the ICC's Complementarity Principle: Israel, U.S. Interests, and the Court's Future](https://scholarlycommons.law.emory.edu/cgi/viewcontent.cgi?article=1010&context=eilr-recent-developments)
-
 ## Treatises 
 - [U. S. Military Operations Law, Policy, And Practice](https://global.oup.com/academic/product/us-military-operations-9780199328574?cc=us&lang=en)
 - [The West Point Companion to the Updated ICRC Commentary on the Third Geneva Convention](https://westpointpress.com/the-west-point-companion-to-the-icrc-commentary-on-the-third-geneva-convention)
@@ -267,3 +253,19 @@ Notes:
 - [Rules and Commentaries on Jus Ad Bellum](https://westpointpress.com/jus-ad-bellum)
 - [The Impact of Emerging Technologies on the Law of Armed Conflict](https://academic.oup.com/book/32410)
 - [The Law on Nuclear Weapons: An International Commentary](https://www.e-elgar.com/shop/gbp/the-law-on-nuclear-weapons-9781035357673.html)
+
+---
+
+## ICC
+- [Understanding the International Criminal Court](https://www.icc-cpi.int/sites/default/files/Publications/understanding-the-icc.pdf)
+- [How the International Criminal Court Threatens Treaty Norms](https://scholarship.law.vanderbilt.edu/vjtl/vol49/iss2/3/)
+- [Jus in Bello Futura ignotus: The United States, the International Criminal Court, and the uncertain future of the Law of Armed Conflict](https://web.archive.org/web/20170131093317/https://www.jagcnet.army.mil/DOCLIBS/MILITARYLAWREVIEW.NSF/20a66345129fe3d885256e5b00571830/7caab5aad6a5fea585257f33004ed107/$FILE/7.%20%20By%20Lieutenant%20Colonel%20James%20T.%20Hill.pdf)
+- [Exercise Jurisdiction at the Edge—What Happens Next? An Analysis of International Criminal Court Substantive Law as Applied to Non-Party State Nationals](https://tjaglcspublic.army.mil/documents/27431/16066286/2020-Issue-3-Exercising+Jurisdiction+at+the+Edge.pdf/6863edf3-9e30-450a-89e2-eddf45861ecc)
+- [The ICC Wants Justice But Has No Mandate](https://www.justsecurity.org/71015/the-icc-wants-justice-but-has-no-mandate/)
+- [ICC Inability Determinations in Light of the Dujail Case](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=993540)
+- [Fundamental concerns: Why the US Government should not accede to the Rome Statute](https://stjececmsdusgva001.blob.core.usgovcloudapi.net/public/documents/NavalReviewVol.63.pdf#page=96)
+- [In Search of Complementarity: Israel’s Possible Responses to ICC Arrest Warrants](https://www.lawfaremedia.org/article/in-search-of-complementarity--israel-s-possible-responses-to-icc-arrest-warrants)
+- [The Prosecutor’s Circumvention of Article 18 Complementarity? A Flaw in the ICC’s Palestine Investigation](https://www.justsecurity.org/96296/icc-article-18-complementarity/)
+- [The ICC Palestine Case in the Aftermath of the Arrest Warrants Decisions – Part One](https://lieber.westpoint.edu/icc-palestine-case-aftermath-arrest-warrants-decisions-part-one/)
+- [The Prosecutor’s Uphill Legal Battle?: The Netanyahu and Gallant ICC Arrest Warrant Requests](https://www.justsecurity.org/96135/the-prosecutors-uphill-legal-battle-the-netanyahu-and-gallant-icc-arrest-warrant-requests/)
+- [The Looming Demise of the ICC's Complementarity Principle: Israel, U.S. Interests, and the Court's Future](https://scholarlycommons.law.emory.edu/cgi/viewcontent.cgi?article=1010&context=eilr-recent-developments)
