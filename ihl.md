@@ -18,7 +18,7 @@ Notes:
 
 ## Papers & expert commentary
 - [Judging Battlefield Conduct](https://lieber.westpoint.edu/judging-battlefield-conduct/)
-- [Effects based enforcement targeting law](https://lieber.westpoint.edu/effects-based-enforcement-targeting-law/)
+- [Effects-based enforcement of targeting law](https://lieber.westpoint.edu/effects-based-enforcement-targeting-law/)
 - [Targeting, Distinction, and the Long War: Guarding Against Conflation of Cause and Responsibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889620)
 - [Targeting and the Concept of Intent](https://scholarship.law.cornell.edu/facpub/774/)
 - [Law-of-War Precautions: A Cautionary Note](https://academic.oup.com/book/32410/chapter-abstract/268714019?redirectedFrom=fulltext&login=false)
