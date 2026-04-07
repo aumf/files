@@ -32,7 +32,7 @@ Notes:
 - [Inside IDF targeting](https://lieber.westpoint.edu/inside-idf-targeting/)
 - [The IDF, Hamas, and the duty to warn](https://lieber.westpoint.edu/idf-hamas-duty-to-warn/)
 - [Targeting and the Concept of Intent](https://scholarship.law.cornell.edu/facpub/774/)
--[Targeting of Persons: The Contemporary Challenges](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1104&context=vjtl)
+- [Targeting of Persons: The Contemporary Challenges](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1104&context=vjtl)
 - [Attacking Hamas, part 1, the context](https://lieber.westpoint.edu/attacking-hamas-part-i-context/)
 - [Attacking Hamas, part 2, the rules](https://lieber.westpoint.edu/attacking-hamas-part-ii-rules/)
 - [The evacuation of Northern Gaza: practical and legal aspects](https://lieber.westpoint.edu/evacuation-northern-gaza-practical-legal-aspects/)
