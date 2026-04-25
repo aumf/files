@@ -468,6 +468,9 @@ in any of the photographs of physical abuse or trauma."<sup>[[25]](https://www.c
 ---
 
 ## Western Hemisphere
+
+- On September 2, 2025, the US targeted a Narco-terrorists boat. An independent investigation by SASC concluded, "Each strike has been preceded by a rigorous analysis of extensive intelligence, as well as a thorough legal review." And that there was, "no evidence of war crimes."<sup>[[1]](https://www.wicker.senate.gov/2025/12/chairman-wicker-issues-statement-following-briefing-on-lethal-kinetic-strikes-in-southcom-aor)</sup></sup> Targeting narco-terrorists is in full compliance with international law and norms.<sup>[[2]](https://sites.duke.edu/lawfire/2025/11/19/can-international-human-rights-law-ever-justify-destroying-drug-shipments-that-can-kill-or-addict-americans-maybe/)</sup></sup>
+
 - Sanctions against the Venezuelan regime over several years, the US (and other countries), have made exceptions for humanitarian goods such as food, medicine, etc.<sup>[[1]](https://sgp.fas.org/crs/row/IF10715.pdf)</sup></sup> 
 
 - US had 0 involvement in the 2009 Honduras coup. Indeed, US reaction, along with the international community, placed several diplomatic and economic sanctions and pressured the Micheletti government.<sup>[[1]](https://www.everycrsreport.com/files/20100201_R41064_621eb949bf07251ea9db5ce0e96facae2cb1c654.pdf)</sup></sup>
