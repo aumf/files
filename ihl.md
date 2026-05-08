@@ -30,6 +30,7 @@ Notes:
 - [The Law of Operational Targeting: Viewing the LOAC Through an Operational Lens](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1913962)
 - [Collateral damage on the 21st century battlefield: Enemy exploitation of the Law of Armed Conflict, and the struggle for a moral high ground](https://www.afjag.af.mil/Portals/77/documents/AFD-081009-011.pdf#page=84)
 - [Inside IDF targeting](https://lieber.westpoint.edu/inside-idf-targeting/)
+- [Targeting in the Swiss Army](https://lieber.westpoint.edu/targeting-swiss-army/)
 - [The IDF, Hamas, and the duty to warn](https://lieber.westpoint.edu/idf-hamas-duty-to-warn/)
 - [Targeting and the Concept of Intent](https://scholarship.law.cornell.edu/facpub/774/)
 - [Targeting of Persons: The Contemporary Challenges](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1104&context=vjtl)
