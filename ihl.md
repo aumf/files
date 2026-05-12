@@ -40,6 +40,8 @@ Notes:
 - [The Disproportionate Confusion About Proportionality](https://sites.duke.edu/lawfire/2023/10/26/geoff-corn-on-the-disproportionate-confusion-about-proportionality/)
 - [What is and is not human shielding](https://lieber.westpoint.edu/what-is-and-is-not-human-shielding/)
 - [Siege law and military necessity](https://lieber.westpoint.edu/siege-law-military-necessity/)
+- [A “Complete Siege” of Gaza in accordance with International Humanitarian Law](https://lieber.westpoint.edu/complete-siege-gaza-in-accordance-international-humanitarian-law/)
+- [Under Siege: LOAC Obligations of the Besieged Party](https://lieber.westpoint.edu/under-siege-loac-obligations-besieged-party/)
 - [Operational Challenges in Ground Operations in Urban Areas: An IDF Persphctive](https://scholarship.law.vanderbilt.edu/vjtl/vol51/iss3/7/)
 - [Warning Civilians Prior to Attack under International Law: Theory and Practice](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1086&context=ils)
 - [Four Comments on the Application of Proportionality under the Law of Armed Conflict](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1102&context=vjtl)
