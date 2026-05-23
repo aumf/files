@@ -71,7 +71,7 @@ Notes:
 - [Transit Authority](https://github.com/aumf/files/blob/main/NSIs.md#transit-authority)
 - [Xkeyscore](https://github.com/aumf/files/blob/main/NSIs.md#xkeyscore)
 - [DishFire](https://github.com/aumf/files/blob/main/NSIs.md#dishfire)
-- [Optic Nerve]()
+- [Optic Nerve](https://github.com/aumf/files/blob/main/NSIs.md#optic-nerve)
 - [Stingrays](https://github.com/aumf/files/blob/main/NSIs.md#stingrays)
 - [FBI Carnivore](https://github.com/aumf/files/blob/main/NSIs.md#fbi-carnivore)
 - [Commercial data/CAI](https://github.com/aumf/files/blob/main/NSIs.md#commercial-datacai)
