@@ -68,6 +68,7 @@ Notes:
 - [Room 641A](https://github.com/aumf/files/blob/main/NSIs.md#room-641a)
 - [TIA](https://github.com/aumf/files/blob/main/NSIs.md#tia)
 - [12333](https://github.com/aumf/files/blob/main/NSIs.md#12333)
+- [Transit Authority]()
 - [Xkeyscore](https://github.com/aumf/files/blob/main/NSIs.md#xkeyscore)
 - [DishFire](https://github.com/aumf/files/blob/main/NSIs.md#dishfire)
 - [Stingrays](https://github.com/aumf/files/blob/main/NSIs.md#stingrays)
@@ -459,6 +460,8 @@ file."<sup>[[10]](https://oig.justice.gov/sites/default/files/reports/a20047.pdf
 
   Political pundits and conspiracy theorists claimed that in Obama's last week in office, he eroded civil liberties and Constitutional rights for Americans regarding surveillance authorities. This, of course, was fake news. Indeed, the EO update to 12333 further enhanced protection of privacy and civil liberties, and Constitutional rights.<sup>[[11]](https://www.lawfaremedia.org/article/cias-new-guidelines-governing-publicly-available-information)</sup></sup> <sup>[[12]](https://www.lawfaremedia.org/article/eo-12333-raw-sigint-availability-procedures-quick-and-dirty-summary)</sup></sup>
 
+- ## Transit Authority. 
+  Transit authority is defined as, "Collection of foreign intelligence communications which originate and terminate in foreign countries, but traverse U.S. territory"<sup>[[1]](https://nsarchive.gwu.edu/sites/default/files/documents/5989815/National-Security-Archive-National-Security.pdf#page=19)</sup></sup> <sup>[[2]](https://nsarchive.gwu.edu/sites/default/files/documents/5989815/National-Security-Archive-National-Security.pdf#page=43)</sup></sup> <sup>[[3]](https://www.aclu.org/sites/default/files/field_document/sid_oversight_and_compliance.pdf#page=5)</sup></sup> <sup>[[4]](https://s3.documentcloud.org/documents/3220477/FAIRVIEWDataFlowChartsApr2012.pdf#page=9)</sup></sup> <sup>[[5]](https://s3.documentcloud.org/documents/3220477/FAIRVIEWDataFlowChartsApr2012.pdf#page=18)</sup></sup>
 
 - ## Xkeyscore
   Despite claims, Xkeyscore is not a discreet intelligence collection program. Instead, it is an analytic processing, indexing and discovery tool. NSA analysts are prohibited from running US-person queries in Xkeyscore, subject to very narrow exceptions. Analysts can run US-Person queries only with a probable-cause order from the FISC, consent, or approval from the Attorney General. All xkeyscore queries are subject to robust, technologically advanced logging and auditing: Analysts must provide detailed, non-formulaic justifications for each query. Each query is logged; these logs include the analyst's justification and various other telltale details about the query. NSA's auditing systems identify queries that may be insufficiently tailored or non-compliant. Human auditors familiar with the analyst's mission then review every query deemed to pose a risk of noncompliance. Under NSA rules, queries based on broad criteria must be tailored to avoid returning information that is not foreign intelligence. If an analyst's query returns information about an American, NSA policies limit how that info can be used, and disseminated. 
