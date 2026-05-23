@@ -57,6 +57,7 @@ Notes:
 - [Proportionality under International Humanitarian Law: The “Reasonable Military Commander” Standard and Reverberating Effects](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/78/2018/06/07015455/11.-HendersonReece_Final-Review_Formatted.pdf)
 - [Targeting, Command Judgment, and a Proposed Quantum of Information Component: A Fourth Amendment Lesson in Contextual Reasonableness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1762894)
 - [The Dangerous Failure to Hold Hamas Accountable for Using Human Shields](https://www.lawfaremedia.org/article/the-dangerous-failure-to-hold-hamas-accountable-for-using-human-shields)
+- [International Law Situations: Blockade](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3147&context=ils)
 - [Air War and the Law of War](https://babel.hathitrust.org/cgi/pt?id=osu.32437010638050&seq=11&view=1up)
 - [Collateral damage on the 21st century battlefield: enemy exploitation of the law of armed conflict, and the struggle for a moral high ground](https://go.gale.com/ps/i.do?p=AONE&u=googlescholar&id=GALE|A133368631&v=2.1&it=r&sid=AONE&asid=302fb796)
 - [Report on United States law of armed conflict investigations and prosecution practices](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=486)
