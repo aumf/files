@@ -91,7 +91,6 @@ Notes:
 - [Two Sides of the Combatant COIN: Untangling Direct Participation in Hostilites from Belligerent Status in Non-International Armed Conflicts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1604626)
 - [Targeting and International Humanitarian Law in Afghanistan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1600272)
 - [False Rubicons, Moral Panic & Conceptual Cul-De-Sacs: Critiquing & Reframing the Call to Ban Lethal Autonomous Weapons](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2736407)
-- [Detention Operations in Non-International Armed Conflicts between International Humanitarian Law, Human Rights Law and National Standards: A NATO Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3470362)
 - [Targeted Killing and Accountability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1819583)
 - [Down is not always out: Hors De Combat in the close fight](https://lieber.westpoint.edu/down-not-always-out-hors-de-combat-close-fight/)
 - [Responding to Proxy  Cyber Operations  Under International Law](https://cyberdefensereview.army.mil/Portals/6/Documents/2021_fall/02_Johnson_Schmitt_CDR_V6N4-Fall_2021.pdf?ver=UclHQrn_coYfGcPXfimQcA%3d%3d)
