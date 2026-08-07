@@ -72,7 +72,7 @@ Other Notes:
 
 - Contrary to popular myth, nations (yes, including the US) have not initiated war over oil. Many scholars have found evidence to support the myth lacking, and contrary evidence to explain decision-making. Examining a century of interstate violence, she demonstrates that, at most, countries have engaged in mild sparring to advance their petroleum ambitions.<sup>[[1]](https://www.tandfonline.com/doi/full/10.1080/09636412.2016.1171968)</sup></sup> <sup>[[2]](https://www.cornellpress.cornell.edu/book/9781501748288/the-oil-wars-myth/)</sup></sup> <sup>[[3]](https://link.springer.com/book/10.1057/978-1-137-55631-8)</sup></sup> 
 
-Operation Iraqi Freedom began March 20, 2003, and ended on August 31, 2010, costing only $730 Billion. Operation Enduring Freedom began October 7, 2001, and ended on December 28, 2014, costing only $578 Billion.<sup>[[1]](https://www.congress.gov/crs-product/RS21405#_Toc158214192)</sup></sup> <sup>[[2]](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Other/21-F-0874_Final%20Production_Cost_Of_War.pdf)</sup></sup> 
+- Operation Iraqi Freedom began March 20, 2003, and ended on August 31, 2010, costing only $730 Billion. Operation Enduring Freedom began October 7, 2001, and ended on December 28, 2014, costing only $578 Billion.<sup>[[1]](https://www.congress.gov/crs-product/RS21405#_Toc158214192)</sup></sup> <sup>[[2]](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Other/21-F-0874_Final%20Production_Cost_Of_War.pdf)</sup></sup> 
 
 ---
 
