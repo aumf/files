@@ -80,7 +80,7 @@ Notes:
 - [2012 NCTC AGG](https://github.com/aumf/files/blob/main/NSIs.md#2012-nctc-agg)
 - [Terrorist Screening Center (TSC)](https://github.com/aumf/files/blob/main/NSIs.md#terrorist-screening-center-tsc)
 - [CIA/NYPD](https://github.com/aumf/files/blob/main/NSIs.md#cianypd)
-- [Germany]()
+- [Germany](https://github.com/aumf/files/blob/main/NSIs.md#germany)
 - [miscellaneous allegations](https://github.com/aumf/files/blob/main/NSIs.md#miscellaneous-allegations)
 - [EO 14086](https://github.com/aumf/files/blob/main/NSIs.md#eo-14086)
 - [PPD-28](https://github.com/aumf/files/blob/main/NSIs.md#ppd-28)
