@@ -62,6 +62,7 @@ Notes:
 - [International Law Situations: Blockade](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3147&context=ils)
 - [Air War and the Law of War](https://babel.hathitrust.org/cgi/pt?id=osu.32437010638050&seq=11&view=1up)
 - [Collateral damage on the 21st century battlefield: enemy exploitation of the law of armed conflict, and the struggle for a moral high ground](https://go.gale.com/ps/i.do?p=AONE&u=googlescholar&id=GALE|A133368631&v=2.1&it=r&sid=AONE&asid=302fb796)
+- [Tearing Down the Facade: A Critical Look at the Current Law on Targeting the will of the Enemy and Air Force Doctrine](https://www.afjag.af.mil/Portals/77/documents/AFD-081204-028.pdf#page=151)
 - [Report on United States law of armed conflict investigations and prosecution practices](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=486)
 - [Canada: Investigation and Prosecution of Alleged Violations of the Law of Armed Conflict](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=564)
 - [Australian law and practice relevant to investigation and prosecution of LOAC violations](https://ia801608.us.archive.org/26/items/annex_c_turkel/annex_c_turkel.pdf#page=644)
@@ -217,6 +218,7 @@ Notes:
 - [LOAC Babies and COIN Bathwater](https://www.loc.gov/resource/llmlp.TAL_2023_Issue_1/?pdfPage=52)
 - [Closing the “Extreme Circumstances” Gap: The Legality of Nuclear Weapons When the Survival of a State is in Question](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3143&context=ils)
 - [Three independent justifications for the U.S./Israeli operations against Iran](https://sites.duke.edu/lawfire/2026/03/13/three-independent-justifications-for-the-u-s-israeli-operations-against-iran/)
+- [On the Chopping Block: Cluster Munitions and the Law of War](https://www.afjag.af.mil/Portals/77/documents/AFD-081204-028.pdf#page=236)
   
 ---
     
