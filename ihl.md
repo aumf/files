@@ -229,7 +229,7 @@ Notes:
 - [Rules of Engagement and the International Law of Military Operations](https://global.oup.com/academic/product/rules-of-engagement-and-the-international-law-of-military-operations-9780198853886?cc=us&lang=en&#)
 - [The law of military operations](https://archive.org/details/lawofmilitaryope72grun/mode/2up)
 - [U. S. Military Operations Law, Policy, And Practice](https://global.oup.com/academic/product/us-military-operations-9780199328574?cc=us&lang=en)
-- [The West Point Companion to the Updated ICRC Commentary on the Third Geneva Convention](https://westpointpress.com/the-west-point-companion-to-the-icrc-commentary-on-the-third-geneva-convention)
+- [The West Point Companion to the Updated ICRC Commentary on the Third Geneva Convention](https://press.westpoint.edu/books/the-west-point-companion-to-the-updated-icrc-commentary-on-the-third-geneva-convention/)
 - [Handbook Of The International Law Of Military Operations](https://global.oup.com/academic/product/the-handbook-of-the-international-law-of-military-operations-9780198744627?lang=en&cc=us)
 - [Practitioners Guide To Human Rights Law In Armed Conflict](https://global.oup.com/academic/product/practitioners-guide-to-human-rights-law-in-armed-conflict-9780198791393?lang=en&cc=us)
 - [Operational Law Handbook, 2022](https://tjaglcs.army.mil/documents/35956/56931/2022+Operational+Law+Handbook.pdf/4e10836e-2399-eb81-768f-7de8f6e03dc5?t=1652119179075)
