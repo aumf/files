@@ -102,7 +102,7 @@ Notes:
       - [2020 Opinion](https://github.com/aumf/files/blob/main/NSIs.md#2020-opinion)
       - [2022 Opinion](https://github.com/aumf/files/blob/main/NSIs.md#april-21-2022-fisc-opinion)
       - [2023 Opinion](https://github.com/aumf/files/blob/main/NSIs.md#april-11-2023-fisc-opinion)
-      - [2024 & 2025 Opinions]()
+      - [2026 Opinion](https://github.com/aumf/files/blob/main/NSIs.md#2026-opinions-advanced-filter-toolparticipants-filter-tool)
 - [Pre-Snowden "whistleblower" allegations](https://github.com/aumf/files/blob/main/NSIs.md#pre-snowden-whistleblower-allegations)
 - [Snowden](https://github.com/aumf/files/blob/main/NSIs.md#snowden)
   - [Employment](https://github.com/aumf/files/blob/main/NSIs.md#employment)
