@@ -741,7 +741,7 @@ explicitly required under the Executive Order, as well as “the USSS entities r
         
         Following the hearing, the FISC was able to resolve its concerns.<sup>[[23]](https://www.alston.com/-/media/files/insights/publications/peter-swire-testimony-documents/professorpeterswiretestimonyinirishhighcourtcase.pdf#page=162)</sup></sup>
         
-        For an easy-to-digest version see [here](https://www.lawfareblog.com/understanding-footnote-14-nsa-lawyering-oversight-and-compliance). For the complex version, see [here](https://repository.library.georgetown.edu/bitstream/handle/10822/1053745/pub_Feb%2012%202009%20Memorandum%20of%20US.pdf?sequence=1&isAllowed=y) and [here](https://www.aclu.org/files/assets/pub_August%2019%202009%20Report%20of%20the%20US%20with%20Attachments%2020130910.pdf)
+        For an easy-to-digest breakdown of footnote 14 see [here](https://www.lawfareblog.com/understanding-footnote-14-nsa-lawyering-oversight-and-compliance). For the complex version, see [here](https://repository.library.georgetown.edu/bitstream/handle/10822/1053745/pub_Feb%2012%202009%20Memorandum%20of%20US.pdf?sequence=1&isAllowed=y) and [here](https://www.aclu.org/files/assets/pub_August%2019%202009%20Report%20of%20the%20US%20with%20Attachments%2020130910.pdf)
 
 
       - ##### 2011 Bates [Opinion](https://www.aclu.org/sites/default/files/field_document/October%202011%20John%20Bates%20FISC%20Opinion.pdf)
